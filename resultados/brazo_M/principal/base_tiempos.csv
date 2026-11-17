@@ -1,0 +1,101 @@
+escenario,anio,N,modelo,segundos
+principal,2021,60,Seasonal Naive,0.0
+principal,2021,60,ETS,1.16
+principal,2021,60,Theta,0.11
+principal,2021,60,SARIMA,0.11
+principal,2021,60,Chronos-Bolt-tiny,4.723
+principal,2021,120,Seasonal Naive,0.0
+principal,2021,120,ETS,0.749
+principal,2021,120,Theta,0.012
+principal,2021,120,SARIMA,0.589
+principal,2021,120,Chronos-Bolt-tiny,0.128
+principal,2021,240,Seasonal Naive,0.0
+principal,2021,240,ETS,0.923
+principal,2021,240,Theta,0.013
+principal,2021,240,SARIMA,1.185
+principal,2021,240,Chronos-Bolt-tiny,0.137
+principal,2021,max,Seasonal Naive,0.0
+principal,2021,max,ETS,1.211
+principal,2021,max,Theta,0.01
+principal,2021,max,SARIMA,0.602
+principal,2021,max,Chronos-Bolt-tiny,0.12
+principal,2022,60,Seasonal Naive,0.0
+principal,2022,60,ETS,0.662
+principal,2022,60,Theta,0.007
+principal,2022,60,SARIMA,0.187
+principal,2022,60,Chronos-Bolt-tiny,0.12
+principal,2022,120,Seasonal Naive,0.0
+principal,2022,120,ETS,0.777
+principal,2022,120,Theta,0.01
+principal,2022,120,SARIMA,0.593
+principal,2022,120,Chronos-Bolt-tiny,0.125
+principal,2022,240,Seasonal Naive,0.0
+principal,2022,240,ETS,1.033
+principal,2022,240,Theta,0.012
+principal,2022,240,SARIMA,1.132
+principal,2022,240,Chronos-Bolt-tiny,0.128
+principal,2022,max,Seasonal Naive,0.0
+principal,2022,max,ETS,1.148
+principal,2022,max,Theta,0.012
+principal,2022,max,SARIMA,0.861
+principal,2022,max,Chronos-Bolt-tiny,0.134
+principal,2023,60,Seasonal Naive,0.0
+principal,2023,60,ETS,0.738
+principal,2023,60,Theta,0.009
+principal,2023,60,SARIMA,0.254
+principal,2023,60,Chronos-Bolt-tiny,0.142
+principal,2023,120,Seasonal Naive,0.0
+principal,2023,120,ETS,0.764
+principal,2023,120,Theta,0.01
+principal,2023,120,SARIMA,0.567
+principal,2023,120,Chronos-Bolt-tiny,0.105
+principal,2023,240,Seasonal Naive,0.0
+principal,2023,240,ETS,0.999
+principal,2023,240,Theta,0.011
+principal,2023,240,SARIMA,0.859
+principal,2023,240,Chronos-Bolt-tiny,0.115
+principal,2023,max,Seasonal Naive,0.0
+principal,2023,max,ETS,1.009
+principal,2023,max,Theta,0.009
+principal,2023,max,SARIMA,0.818
+principal,2023,max,Chronos-Bolt-tiny,0.136
+principal,2024,60,Seasonal Naive,0.0
+principal,2024,60,ETS,0.817
+principal,2024,60,Theta,0.006
+principal,2024,60,SARIMA,0.196
+principal,2024,60,Chronos-Bolt-tiny,0.117
+principal,2024,120,Seasonal Naive,0.0
+principal,2024,120,ETS,0.72
+principal,2024,120,Theta,0.011
+principal,2024,120,SARIMA,0.545
+principal,2024,120,Chronos-Bolt-tiny,0.119
+principal,2024,240,Seasonal Naive,0.0
+principal,2024,240,ETS,1.039
+principal,2024,240,Theta,0.013
+principal,2024,240,SARIMA,0.987
+principal,2024,240,Chronos-Bolt-tiny,0.125
+principal,2024,max,Seasonal Naive,0.0
+principal,2024,max,ETS,1.114
+principal,2024,max,Theta,0.012
+principal,2024,max,SARIMA,1.142
+principal,2024,max,Chronos-Bolt-tiny,0.162
+principal,2025,60,Seasonal Naive,0.0
+principal,2025,60,ETS,0.719
+principal,2025,60,Theta,0.012
+principal,2025,60,SARIMA,0.159
+principal,2025,60,Chronos-Bolt-tiny,0.118
+principal,2025,120,Seasonal Naive,0.0
+principal,2025,120,ETS,0.655
+principal,2025,120,Theta,0.006
+principal,2025,120,SARIMA,0.588
+principal,2025,120,Chronos-Bolt-tiny,0.115
+principal,2025,240,Seasonal Naive,0.0
+principal,2025,240,ETS,0.978
+principal,2025,240,Theta,0.009
+principal,2025,240,SARIMA,0.818
+principal,2025,240,Chronos-Bolt-tiny,0.125
+principal,2025,max,Seasonal Naive,0.0
+principal,2025,max,ETS,1.137
+principal,2025,max,Theta,0.01
+principal,2025,max,SARIMA,1.245
+principal,2025,max,Chronos-Bolt-tiny,0.131

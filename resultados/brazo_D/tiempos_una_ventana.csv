@@ -1,0 +1,10 @@
+modelo,anio,N,hs,n_hist,segundos
+Seasonal Naive,2025,1000,"1,7",1000,0.0
+Theta,2025,1000,"1,7",1000,0.8
+SARIMA,2025,1000,"1,7",1000,1.1
+Chronos-Bolt-tiny,2025,1000,"1,7",1000,8.2
+ETS,2025,1000,"1,7",1000,3.1
+ETS,2025,max,"1,7",9588,9.2
+Theta,2025,max,"1,7",9588,0.4
+SARIMA,2025,max,"1,7",9588,10.8
+Chronos-Bolt-tiny,2025,max,"1,7",9588,12.1

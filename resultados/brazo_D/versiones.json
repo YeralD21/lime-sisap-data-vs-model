@@ -1,0 +1,14 @@
+{
+ "python": "3.11.9 (tags/v3.11.9:de54cf5, Apr  2 2024, 10:12:12) [MSC v.1938 64 bit (AMD64)]",
+ "plataforma": "Windows-10-10.0.26200-SP0",
+ "numpy": "2.4.4",
+ "pandas": "3.0.2",
+ "statsmodels": "0.14.6",
+ "scipy": "1.17.1",
+ "tensorflow": "2.21.0",
+ "keras": "3.14.0",
+ "torch": "2.11.0+cpu",
+ "chronos-forecasting": "2.3.2",
+ "transformers": "5.5.4",
+ "chronos_snapshot": "a0e552de83495b5c28c14c71c374f3e33280b340"
+}

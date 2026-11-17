@@ -1,0 +1,24 @@
+brazo,linea_md,numero,linea
+D,28,6295,| principal h=[1] | 400 | 0 | 6295 |
+D,29,4502,| principal h=[7] | 400 | 0 | 4502 |
+D,30,6834,| sens1_estricto h=[1] | 400 | 0 | 6834 |
+D,31,4132,| sens2_bolsa h=[1] | 400 | 0 | 4132 |
+D,32,1189,| sens6_desde2006 h=[1] | 100 | 0 | 1189 |
+D,33,3028,| sens7_anomalia_publicada h=[1] | 400 | 0 | 3028 |
+D,49,9.59,"Segundos de entrenamiento de las redes (suma de `segundos` de cada unidad, `resultados/brazo_D/principal/estados_redes.csv`, h = 1 y 7): 9.59 h de CPU de proces"
+D,49,800,"Segundos de entrenamiento de las redes (suma de `segundos` de cada unidad, `resultados/brazo_D/principal/estados_redes.csv`, h = 1 y 7): 9.59 h de CPU de proces"
+D,53,10 000,"MAE en toneladas/día con IC 95 % (bootstrap pareado iid estratificado por año, B = 10 000, semilla 42). Fuente: `resultados/brazo_D/principal/metricas.csv` (ani"
+D,303,2006,### Sensibilidad 6: historia máxima desde 2006-01-01
+D,305,2006,h = 1. La escala MASE es la de la historia máxima desde 2006.
+D,330,2 351,### Sensibilidad 7: anomalía de 2021-02-01 con el valor publicado (2 351 t)
+D,370,1997,"**Chronos.** La longitud máxima de contexto del modelo es 2048. Con N = max el contexto (desde 1997-10-01, miles de días) se trunca a los últimos 2048 días en t"
+D,370,7304,"**Chronos.** La longitud máxima de contexto del modelo es 2048. Con N = max el contexto (desde 1997-10-01, miles de días) se trunca a los últimos 2048 días en t"
+D,370,7304,"**Chronos.** La longitud máxima de contexto del modelo es 2048. Con N = max el contexto (desde 1997-10-01, miles de días) se trunca a los últimos 2048 días en t"
+D,398,500,"**SARIMA** (principal): 20 de 20 ajustes convergieron; iteraciones del optimizador entre 6 y 91 (máximo permitido 500). Con N < 730 (N = 120, 360) no se usan Fo"
+D,398,730,"**SARIMA** (principal): 20 de 20 ajustes convergieron; iteraciones del optimizador entre 6 y 91 (máximo permitido 500). Con N < 730 (N = 120, 360) no se usan Fo"
+D,423,2006,| mismo indice desde 2006-01-01 | True |
+D,443,800,**Redes.** Parámetros de la DualLSTM: [np.int64(4673)]; LSTM univariada: [np.int64(1569)]. Unidades de red por escenario (estados_redes.csv de cada carpeta): {'
+D,449,2026,"Ninguna cambia la etiqueta ni el diseño. Todas se decidieron el 2026-11-17, **antes de ver errores de prueba** (la comprobación de equivalencias se hizo con pro"
+D,456,2006,"6. **SARIMA: pronóstico = exp(media en escala log).** Es la mediana, no la media, de la distribución en toneladas. Regresores de Fourier con `t` = posición del "
+D,456,730,"6. **SARIMA: pronóstico = exp(media en escala log).** Es la mediana, no la media, de la distribución en toneladas. Regresores de Fourier con `t` = posición del "
+D,457,2006,"7. **Sensibilidad 6: las redes con N = 120, 360 y 1 000 son las de la principal.** Se comprobó que `serie(esc).y` y `.precio` de la sensibilidad 6 coinciden exa"

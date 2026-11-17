@@ -1,0 +1,81 @@
+escenario,anio,N,modelo,tipo,valor,detalle
+sens7_anomalia_publicada,2021,60,ETS,ets_seleccion,"ETS(A,N,M)",aicc=1094.5457; convergio=True; n_especificaciones=12; n_fallidas=0; n_no_convergidas=0
+sens7_anomalia_publicada,2021,60,Theta,theta_parametros,mul,alpha=0.564788; b0=52.942457; desestacionaliza=True
+sens7_anomalia_publicada,2021,60,SARIMA,sarima_convergencia,True,aic=1161.5899; avisos=ninguno
+sens7_anomalia_publicada,2021,60,Chronos-Bolt-tiny,chronos_contexto,60,contexto_solicitado=60; contexto_usado=60; truncado=False
+sens7_anomalia_publicada,2021,120,ETS,ets_seleccion,"ETS(M,N,M)",aicc=2072.9355; convergio=True; n_especificaciones=12; n_fallidas=0; n_no_convergidas=0
+sens7_anomalia_publicada,2021,120,Theta,theta_parametros,mul,alpha=0.527880; b0=58.172283; desestacionaliza=True
+sens7_anomalia_publicada,2021,120,SARIMA,sarima_convergencia,True,aic=2158.3655; avisos=ninguno
+sens7_anomalia_publicada,2021,120,Chronos-Bolt-tiny,chronos_contexto,120,contexto_solicitado=120; contexto_usado=120; truncado=False
+sens7_anomalia_publicada,2021,240,ETS,ets_seleccion,"ETS(M,N,M)",aicc=3984.1793; convergio=True; n_especificaciones=12; n_fallidas=0; n_no_convergidas=0
+sens7_anomalia_publicada,2021,240,Theta,theta_parametros,mul,alpha=0.545649; b0=38.048525; desestacionaliza=True
+sens7_anomalia_publicada,2021,240,SARIMA,sarima_convergencia,True,aic=4111.9283; avisos=ninguno
+sens7_anomalia_publicada,2021,240,Chronos-Bolt-tiny,chronos_contexto,240,contexto_solicitado=240; contexto_usado=240; truncado=False
+sens7_anomalia_publicada,2021,max,ETS,ets_seleccion,"ETS(A,N,M)",aicc=4472.1439; convergio=True; n_especificaciones=12; n_fallidas=0; n_no_convergidas=0
+sens7_anomalia_publicada,2021,max,Theta,theta_parametros,mul,alpha=0.670197; b0=35.168505; desestacionaliza=True
+sens7_anomalia_publicada,2021,max,SARIMA,sarima_convergencia,True,aic=4565.0384; avisos=ninguno
+sens7_anomalia_publicada,2021,max,Chronos-Bolt-tiny,chronos_contexto,267,contexto_solicitado=267; contexto_usado=267; truncado=False
+sens7_anomalia_publicada,2022,60,ETS,ets_seleccion,"ETS(A,N,A)",aicc=1091.2341; convergio=True; n_especificaciones=12; n_fallidas=0; n_no_convergidas=0
+sens7_anomalia_publicada,2022,60,Theta,theta_parametros,mul,alpha=0.674796; b0=59.723370; desestacionaliza=True
+sens7_anomalia_publicada,2022,60,SARIMA,sarima_convergencia,True,aic=1211.9469; avisos=ninguno
+sens7_anomalia_publicada,2022,60,Chronos-Bolt-tiny,chronos_contexto,60,contexto_solicitado=60; contexto_usado=60; truncado=False
+sens7_anomalia_publicada,2022,120,ETS,ets_seleccion,"ETS(M,N,M)",aicc=2090.5159; convergio=True; n_especificaciones=12; n_fallidas=0; n_no_convergidas=0
+sens7_anomalia_publicada,2022,120,Theta,theta_parametros,mul,alpha=0.519204; b0=64.719717; desestacionaliza=True
+sens7_anomalia_publicada,2022,120,SARIMA,sarima_convergencia,True,aic=2167.9906; avisos=ninguno
+sens7_anomalia_publicada,2022,120,Chronos-Bolt-tiny,chronos_contexto,120,contexto_solicitado=120; contexto_usado=120; truncado=False
+sens7_anomalia_publicada,2022,240,ETS,ets_seleccion,"ETS(M,N,M)",aicc=4014.7620; convergio=True; n_especificaciones=12; n_fallidas=0; n_no_convergidas=0
+sens7_anomalia_publicada,2022,240,Theta,theta_parametros,mul,alpha=0.511866; b0=41.193667; desestacionaliza=True
+sens7_anomalia_publicada,2022,240,SARIMA,sarima_convergencia,True,aic=4126.3741; avisos=ninguno
+sens7_anomalia_publicada,2022,240,Chronos-Bolt-tiny,chronos_contexto,240,contexto_solicitado=240; contexto_usado=240; truncado=False
+sens7_anomalia_publicada,2022,max,ETS,ets_seleccion,"ETS(A,N,M)",aicc=4676.5061; convergio=True; n_especificaciones=12; n_fallidas=0; n_no_convergidas=0
+sens7_anomalia_publicada,2022,max,Theta,theta_parametros,mul,alpha=0.653031; b0=36.866328; desestacionaliza=True
+sens7_anomalia_publicada,2022,max,SARIMA,sarima_convergencia,True,aic=4774.6774; avisos=ninguno
+sens7_anomalia_publicada,2022,max,Chronos-Bolt-tiny,chronos_contexto,279,contexto_solicitado=279; contexto_usado=279; truncado=False
+sens7_anomalia_publicada,2023,60,ETS,ets_seleccion,"ETS(A,N,M)",aicc=1098.6346; convergio=True; n_especificaciones=12; n_fallidas=0; n_no_convergidas=0
+sens7_anomalia_publicada,2023,60,Theta,theta_parametros,mul,alpha=0.525967; b0=71.115603; desestacionaliza=True
+sens7_anomalia_publicada,2023,60,SARIMA,sarima_convergencia,True,aic=1171.0005; avisos=ninguno
+sens7_anomalia_publicada,2023,60,Chronos-Bolt-tiny,chronos_contexto,60,contexto_solicitado=60; contexto_usado=60; truncado=False
+sens7_anomalia_publicada,2023,120,ETS,ets_seleccion,"ETS(A,N,M)",aicc=2096.4147; convergio=True; n_especificaciones=12; n_fallidas=0; n_no_convergidas=0
+sens7_anomalia_publicada,2023,120,Theta,theta_parametros,mul,alpha=0.483738; b0=59.673862; desestacionaliza=True
+sens7_anomalia_publicada,2023,120,SARIMA,sarima_convergencia,True,aic=2164.1631; avisos=ninguno
+sens7_anomalia_publicada,2023,120,Chronos-Bolt-tiny,chronos_contexto,120,contexto_solicitado=120; contexto_usado=120; truncado=False
+sens7_anomalia_publicada,2023,240,ETS,ets_seleccion,"ETS(M,A,M)",aicc=3976.7705; convergio=True; n_especificaciones=12; n_fallidas=0; n_no_convergidas=0
+sens7_anomalia_publicada,2023,240,Theta,theta_parametros,mul,alpha=0.436690; b0=42.190640; desestacionaliza=True
+sens7_anomalia_publicada,2023,240,SARIMA,sarima_convergencia,True,aic=4131.4208; avisos=ninguno
+sens7_anomalia_publicada,2023,240,Chronos-Bolt-tiny,chronos_contexto,240,contexto_solicitado=240; contexto_usado=240; truncado=False
+sens7_anomalia_publicada,2023,max,ETS,ets_seleccion,"ETS(A,N,M)",aicc=4876.3759; convergio=True; n_especificaciones=12; n_fallidas=0; n_no_convergidas=0
+sens7_anomalia_publicada,2023,max,Theta,theta_parametros,mul,alpha=0.637645; b0=37.443203; desestacionaliza=True
+sens7_anomalia_publicada,2023,max,SARIMA,sarima_convergencia,True,aic=4977.7349; avisos=ninguno
+sens7_anomalia_publicada,2023,max,Chronos-Bolt-tiny,chronos_contexto,291,contexto_solicitado=291; contexto_usado=291; truncado=False
+sens7_anomalia_publicada,2024,60,ETS,ets_seleccion,"ETS(M,N,M)",aicc=1032.8060; convergio=True; n_especificaciones=12; n_fallidas=0; n_no_convergidas=0
+sens7_anomalia_publicada,2024,60,Theta,theta_parametros,mul,alpha=0.334056; b0=-7.288068; desestacionaliza=True
+sens7_anomalia_publicada,2024,60,SARIMA,sarima_convergencia,True,aic=1144.5938; avisos=ninguno
+sens7_anomalia_publicada,2024,60,Chronos-Bolt-tiny,chronos_contexto,60,contexto_solicitado=60; contexto_usado=60; truncado=False
+sens7_anomalia_publicada,2024,120,ETS,ets_seleccion,"ETS(A,N,M)",aicc=2096.6171; convergio=True; n_especificaciones=12; n_fallidas=0; n_no_convergidas=0
+sens7_anomalia_publicada,2024,120,Theta,theta_parametros,mul,alpha=0.470740; b0=40.301408; desestacionaliza=True
+sens7_anomalia_publicada,2024,120,SARIMA,sarima_convergencia,True,aic=2183.5905; avisos=ninguno
+sens7_anomalia_publicada,2024,120,Chronos-Bolt-tiny,chronos_contexto,120,contexto_solicitado=120; contexto_usado=120; truncado=False
+sens7_anomalia_publicada,2024,240,ETS,ets_seleccion,"ETS(M,N,M)",aicc=3990.8355; convergio=True; n_especificaciones=12; n_fallidas=0; n_no_convergidas=0
+sens7_anomalia_publicada,2024,240,Theta,theta_parametros,mul,alpha=0.453890; b0=40.422860; desestacionaliza=True
+sens7_anomalia_publicada,2024,240,SARIMA,sarima_convergencia,True,aic=4153.5192; avisos=ninguno
+sens7_anomalia_publicada,2024,240,Chronos-Bolt-tiny,chronos_contexto,240,contexto_solicitado=240; contexto_usado=240; truncado=False
+sens7_anomalia_publicada,2024,max,ETS,ets_seleccion,"ETS(A,N,M)",aicc=5081.2243; convergio=True; n_especificaciones=12; n_fallidas=0; n_no_convergidas=0
+sens7_anomalia_publicada,2024,max,Theta,theta_parametros,mul,alpha=0.651476; b0=36.070420; desestacionaliza=True
+sens7_anomalia_publicada,2024,max,SARIMA,sarima_convergencia,True,aic=5187.1512; avisos=ninguno
+sens7_anomalia_publicada,2024,max,Chronos-Bolt-tiny,chronos_contexto,303,contexto_solicitado=303; contexto_usado=303; truncado=False
+sens7_anomalia_publicada,2025,60,ETS,ets_seleccion,"ETS(A,N,M)",aicc=1059.8326; convergio=True; n_especificaciones=12; n_fallidas=0; n_no_convergidas=0
+sens7_anomalia_publicada,2025,60,Theta,theta_parametros,mul,alpha=0.442355; b0=-55.007645; desestacionaliza=True
+sens7_anomalia_publicada,2025,60,SARIMA,sarima_convergencia,True,aic=1154.3931; avisos=ninguno
+sens7_anomalia_publicada,2025,60,Chronos-Bolt-tiny,chronos_contexto,60,contexto_solicitado=60; contexto_usado=60; truncado=False
+sens7_anomalia_publicada,2025,120,ETS,ets_seleccion,"ETS(A,N,M)",aicc=2111.2172; convergio=True; n_especificaciones=12; n_fallidas=0; n_no_convergidas=0
+sens7_anomalia_publicada,2025,120,Theta,theta_parametros,mul,alpha=0.525261; b0=23.594556; desestacionaliza=True
+sens7_anomalia_publicada,2025,120,SARIMA,sarima_convergencia,True,aic=2202.4385; avisos=ninguno
+sens7_anomalia_publicada,2025,120,Chronos-Bolt-tiny,chronos_contexto,120,contexto_solicitado=120; contexto_usado=120; truncado=False
+sens7_anomalia_publicada,2025,240,ETS,ets_seleccion,"ETS(M,N,M)",aicc=4027.0552; convergio=True; n_especificaciones=12; n_fallidas=0; n_no_convergidas=0
+sens7_anomalia_publicada,2025,240,Theta,theta_parametros,mul,alpha=0.489257; b0=37.729527; desestacionaliza=True
+sens7_anomalia_publicada,2025,240,SARIMA,sarima_convergencia,True,aic=4171.0049; avisos=ninguno
+sens7_anomalia_publicada,2025,240,Chronos-Bolt-tiny,chronos_contexto,240,contexto_solicitado=240; contexto_usado=240; truncado=False
+sens7_anomalia_publicada,2025,max,ETS,ets_seleccion,"ETS(A,N,M)",aicc=5296.0656; convergio=True; n_especificaciones=12; n_fallidas=0; n_no_convergidas=0
+sens7_anomalia_publicada,2025,max,Theta,theta_parametros,mul,alpha=0.655458; b0=34.201650; desestacionaliza=True
+sens7_anomalia_publicada,2025,max,SARIMA,sarima_convergencia,True,aic=5397.3644; avisos=ninguno
+sens7_anomalia_publicada,2025,max,Chronos-Bolt-tiny,chronos_contexto,315,contexto_solicitado=315; contexto_usado=315; truncado=False

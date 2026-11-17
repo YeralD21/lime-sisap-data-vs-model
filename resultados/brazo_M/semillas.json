@@ -1,0 +1,19 @@
+{
+ "semillas_redes": [
+  0,
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9
+ ],
+ "semilla_global": 42,
+ "semilla_bootstrap": 42,
+ "B": 10000,
+ "PYTHONHASHSEED": 42,
+ "nota": "Cada unidad de red fija su semilla antes de entrenar; ETS, Theta, SARIMA, Seasonal Naive y Chronos son deterministas."
+}

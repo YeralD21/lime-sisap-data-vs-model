@@ -1,0 +1,17 @@
+brazo,modelo,N,n_unidades,mejor_epoca_mediana,mejor_epoca_min,mejor_epoca_max,epocas_mediana,epocas_min,epocas_max
+D,DualLSTM,120,50,27,13,64,42,28,79
+D,DualLSTM,360,50,12,4,85,27,19,100
+D,DualLSTM,1000,50,13,3,46,28,18,61
+D,DualLSTM,max,50,11,1,50,26,16,65
+D,LSTM univariada,120,50,27.5,2,195,42.5,17,210
+D,LSTM univariada,360,50,78,35,142,93,50,157
+D,LSTM univariada,1000,50,55.5,24,98,70.5,39,113
+D,LSTM univariada,max,50,15.5,5,76,30.5,20,91
+M,DualLSTM,60,50,28.5,1,130,43.5,16,145
+M,DualLSTM,120,50,16.5,1,80,31.5,16,95
+M,DualLSTM,240,50,15,2,152,30,17,167
+M,DualLSTM,max,50,15,2,60,30,17,75
+M,LSTM univariada,60,50,28,1,162,43,16,177
+M,LSTM univariada,120,50,41.5,2,184,56.5,17,199
+M,LSTM univariada,240,50,38,14,75,53,29,90
+M,LSTM univariada,max,50,38,17,109,53,32,124

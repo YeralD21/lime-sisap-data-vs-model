@@ -1,0 +1,11 @@
+{
+ "corridas": [
+  {
+   "segundos_pared": 3137.6,
+   "unidades": 400,
+   "reanudadas": 0,
+   "fallos": 0,
+   "n_proc": 2
+  }
+ ]
+}

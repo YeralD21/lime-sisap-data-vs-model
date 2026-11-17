@@ -1,0 +1,101 @@
+escenario,anio,N,modelo,segundos
+sens7_anomalia_publicada,2021,60,Seasonal Naive,0.0
+sens7_anomalia_publicada,2021,60,ETS,1.096
+sens7_anomalia_publicada,2021,60,Theta,0.114
+sens7_anomalia_publicada,2021,60,SARIMA,0.113
+sens7_anomalia_publicada,2021,60,Chronos-Bolt-tiny,4.795
+sens7_anomalia_publicada,2021,120,Seasonal Naive,0.0
+sens7_anomalia_publicada,2021,120,ETS,0.844
+sens7_anomalia_publicada,2021,120,Theta,0.012
+sens7_anomalia_publicada,2021,120,SARIMA,0.611
+sens7_anomalia_publicada,2021,120,Chronos-Bolt-tiny,0.129
+sens7_anomalia_publicada,2021,240,Seasonal Naive,0.0
+sens7_anomalia_publicada,2021,240,ETS,0.963
+sens7_anomalia_publicada,2021,240,Theta,0.012
+sens7_anomalia_publicada,2021,240,SARIMA,1.112
+sens7_anomalia_publicada,2021,240,Chronos-Bolt-tiny,0.124
+sens7_anomalia_publicada,2021,max,Seasonal Naive,0.0
+sens7_anomalia_publicada,2021,max,ETS,1.005
+sens7_anomalia_publicada,2021,max,Theta,0.01
+sens7_anomalia_publicada,2021,max,SARIMA,0.438
+sens7_anomalia_publicada,2021,max,Chronos-Bolt-tiny,0.124
+sens7_anomalia_publicada,2022,60,Seasonal Naive,0.0
+sens7_anomalia_publicada,2022,60,ETS,0.733
+sens7_anomalia_publicada,2022,60,Theta,0.007
+sens7_anomalia_publicada,2022,60,SARIMA,0.204
+sens7_anomalia_publicada,2022,60,Chronos-Bolt-tiny,0.114
+sens7_anomalia_publicada,2022,120,Seasonal Naive,0.0
+sens7_anomalia_publicada,2022,120,ETS,0.788
+sens7_anomalia_publicada,2022,120,Theta,0.011
+sens7_anomalia_publicada,2022,120,SARIMA,0.695
+sens7_anomalia_publicada,2022,120,Chronos-Bolt-tiny,0.12
+sens7_anomalia_publicada,2022,240,Seasonal Naive,0.0
+sens7_anomalia_publicada,2022,240,ETS,0.972
+sens7_anomalia_publicada,2022,240,Theta,0.008
+sens7_anomalia_publicada,2022,240,SARIMA,1.037
+sens7_anomalia_publicada,2022,240,Chronos-Bolt-tiny,0.127
+sens7_anomalia_publicada,2022,max,Seasonal Naive,0.0
+sens7_anomalia_publicada,2022,max,ETS,1.234
+sens7_anomalia_publicada,2022,max,Theta,0.008
+sens7_anomalia_publicada,2022,max,SARIMA,0.797
+sens7_anomalia_publicada,2022,max,Chronos-Bolt-tiny,0.12
+sens7_anomalia_publicada,2023,60,Seasonal Naive,0.0
+sens7_anomalia_publicada,2023,60,ETS,0.812
+sens7_anomalia_publicada,2023,60,Theta,0.008
+sens7_anomalia_publicada,2023,60,SARIMA,0.253
+sens7_anomalia_publicada,2023,60,Chronos-Bolt-tiny,0.106
+sens7_anomalia_publicada,2023,120,Seasonal Naive,0.0
+sens7_anomalia_publicada,2023,120,ETS,0.748
+sens7_anomalia_publicada,2023,120,Theta,0.01
+sens7_anomalia_publicada,2023,120,SARIMA,0.546
+sens7_anomalia_publicada,2023,120,Chronos-Bolt-tiny,0.127
+sens7_anomalia_publicada,2023,240,Seasonal Naive,0.0
+sens7_anomalia_publicada,2023,240,ETS,1.039
+sens7_anomalia_publicada,2023,240,Theta,0.008
+sens7_anomalia_publicada,2023,240,SARIMA,0.846
+sens7_anomalia_publicada,2023,240,Chronos-Bolt-tiny,0.109
+sens7_anomalia_publicada,2023,max,Seasonal Naive,0.0
+sens7_anomalia_publicada,2023,max,ETS,1.079
+sens7_anomalia_publicada,2023,max,Theta,0.009
+sens7_anomalia_publicada,2023,max,SARIMA,0.64
+sens7_anomalia_publicada,2023,max,Chronos-Bolt-tiny,0.113
+sens7_anomalia_publicada,2024,60,Seasonal Naive,0.0
+sens7_anomalia_publicada,2024,60,ETS,0.798
+sens7_anomalia_publicada,2024,60,Theta,0.009
+sens7_anomalia_publicada,2024,60,SARIMA,0.183
+sens7_anomalia_publicada,2024,60,Chronos-Bolt-tiny,0.131
+sens7_anomalia_publicada,2024,120,Seasonal Naive,0.0
+sens7_anomalia_publicada,2024,120,ETS,0.753
+sens7_anomalia_publicada,2024,120,Theta,0.011
+sens7_anomalia_publicada,2024,120,SARIMA,0.618
+sens7_anomalia_publicada,2024,120,Chronos-Bolt-tiny,0.141
+sens7_anomalia_publicada,2024,240,Seasonal Naive,0.0
+sens7_anomalia_publicada,2024,240,ETS,1.006
+sens7_anomalia_publicada,2024,240,Theta,0.009
+sens7_anomalia_publicada,2024,240,SARIMA,0.937
+sens7_anomalia_publicada,2024,240,Chronos-Bolt-tiny,0.121
+sens7_anomalia_publicada,2024,max,Seasonal Naive,0.0
+sens7_anomalia_publicada,2024,max,ETS,1.152
+sens7_anomalia_publicada,2024,max,Theta,0.009
+sens7_anomalia_publicada,2024,max,SARIMA,1.255
+sens7_anomalia_publicada,2024,max,Chronos-Bolt-tiny,0.158
+sens7_anomalia_publicada,2025,60,Seasonal Naive,0.0
+sens7_anomalia_publicada,2025,60,ETS,0.625
+sens7_anomalia_publicada,2025,60,Theta,0.007
+sens7_anomalia_publicada,2025,60,SARIMA,0.134
+sens7_anomalia_publicada,2025,60,Chronos-Bolt-tiny,0.147
+sens7_anomalia_publicada,2025,120,Seasonal Naive,0.0
+sens7_anomalia_publicada,2025,120,ETS,0.68
+sens7_anomalia_publicada,2025,120,Theta,0.007
+sens7_anomalia_publicada,2025,120,SARIMA,0.559
+sens7_anomalia_publicada,2025,120,Chronos-Bolt-tiny,0.144
+sens7_anomalia_publicada,2025,240,Seasonal Naive,0.0
+sens7_anomalia_publicada,2025,240,ETS,0.955
+sens7_anomalia_publicada,2025,240,Theta,0.013
+sens7_anomalia_publicada,2025,240,SARIMA,0.949
+sens7_anomalia_publicada,2025,240,Chronos-Bolt-tiny,0.154
+sens7_anomalia_publicada,2025,max,Seasonal Naive,0.0
+sens7_anomalia_publicada,2025,max,ETS,1.156
+sens7_anomalia_publicada,2025,max,Theta,0.008
+sens7_anomalia_publicada,2025,max,SARIMA,1.025
+sens7_anomalia_publicada,2025,max,Chronos-Bolt-tiny,0.111

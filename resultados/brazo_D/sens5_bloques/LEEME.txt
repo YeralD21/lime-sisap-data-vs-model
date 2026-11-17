@@ -1,0 +1,1 @@
+Los pronósticos, incidencias y estados de redes de esta sensibilidad son los de resultados/brazo_D/principal/ (pronosticos.csv, incidencias.csv, estados_redes.csv); aquí solo están las tablas del análisis (h = 1, años 2021-2022-2023-2024-2025, bootstrap bloques).

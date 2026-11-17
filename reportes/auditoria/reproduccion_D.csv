@@ -1,0 +1,11 @@
+brazo,escenario,modelo,semilla,anio,N,h,n_comparados,dif_max_abs_t,dif_media_abs_t
+D,principal,Seasonal Naive,,2024,360,1,366,0,0
+D,principal,ETS,,2024,360,1,366,4.8948e-05,3.0956e-06
+D,principal,Seasonal Naive,,2024,360,7,366,0,0
+D,principal,ETS,,2024,360,7,366,4.88269e-05,2.87858e-06
+D,principal,Seasonal Naive,,2023,120,1,365,0,0
+D,principal,ETS,,2023,120,1,365,4.898e-05,1.12977e-05
+D,principal,Chronos-Bolt-tiny,,2024,360,1,6,9.26465e-05,4.28703e-05
+D,principal,Chronos-Bolt-tiny,,2024,360,7,6,5.94629e-05,2.97249e-05
+D,principal,DualLSTM,0,2024,360,1,366,3.59375e-05,2.50833e-06
+D,principal,DualLSTM (unidad publicada en redes_unidades),0,2024,360,1,366,0,0

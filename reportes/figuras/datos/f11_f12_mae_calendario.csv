@@ -1,0 +1,94 @@
+brazo,modelo,rol,tipo,clave,MAE,n
+D,DualLSTM,DualLSTM,dia_semana,0,179.053,260
+D,DualLSTM,DualLSTM,dia_semana,1,75.1914,261
+D,DualLSTM,DualLSTM,dia_semana,2,76.2927,258
+D,DualLSTM,DualLSTM,dia_semana,3,176.012,259
+D,DualLSTM,DualLSTM,dia_semana,4,107.627,260
+D,DualLSTM,DualLSTM,dia_semana,5,132.892,260
+D,DualLSTM,DualLSTM,dia_semana,6,104.348,260
+D,DualLSTM,DualLSTM,mes,1,190.726,155
+D,DualLSTM,DualLSTM,mes,2,129.548,140
+D,DualLSTM,DualLSTM,mes,3,176.913,154
+D,DualLSTM,DualLSTM,mes,4,147.182,150
+D,DualLSTM,DualLSTM,mes,5,91.7543,155
+D,DualLSTM,DualLSTM,mes,6,80.5792,150
+D,DualLSTM,DualLSTM,mes,7,80.7628,154
+D,DualLSTM,DualLSTM,mes,8,82.7644,153
+D,DualLSTM,DualLSTM,mes,9,82.8126,149
+D,DualLSTM,DualLSTM,mes,10,110.017,154
+D,DualLSTM,DualLSTM,mes,11,124.166,150
+D,DualLSTM,DualLSTM,mes,12,160.893,154
+D,SARIMA,ref*,dia_semana,0,134.178,260
+D,SARIMA,ref*,dia_semana,1,44.267,261
+D,SARIMA,ref*,dia_semana,2,19.4239,258
+D,SARIMA,ref*,dia_semana,3,152.139,259
+D,SARIMA,ref*,dia_semana,4,100.468,260
+D,SARIMA,ref*,dia_semana,5,109.39,260
+D,SARIMA,ref*,dia_semana,6,65.2978,260
+D,SARIMA,ref*,mes,1,161.476,155
+D,SARIMA,ref*,mes,2,81.1625,140
+D,SARIMA,ref*,mes,3,128.087,154
+D,SARIMA,ref*,mes,4,117.937,150
+D,SARIMA,ref*,mes,5,63.0799,155
+D,SARIMA,ref*,mes,6,56.8448,150
+D,SARIMA,ref*,mes,7,63.3081,154
+D,SARIMA,ref*,mes,8,54.7527,153
+D,SARIMA,ref*,mes,9,50.154,149
+D,SARIMA,ref*,mes,10,80.2864,154
+D,SARIMA,ref*,mes,11,87.3923,150
+D,SARIMA,ref*,mes,12,124.749,154
+D,Seasonal Naive,Seasonal Naive,dia_semana,0,169.058,260
+D,Seasonal Naive,Seasonal Naive,dia_semana,1,57.4751,261
+D,Seasonal Naive,Seasonal Naive,dia_semana,2,31.938,258
+D,Seasonal Naive,Seasonal Naive,dia_semana,3,199.645,259
+D,Seasonal Naive,Seasonal Naive,dia_semana,4,124.885,260
+D,Seasonal Naive,Seasonal Naive,dia_semana,5,147.119,260
+D,Seasonal Naive,Seasonal Naive,dia_semana,6,85.25,260
+D,Seasonal Naive,Seasonal Naive,mes,1,207.813,155
+D,Seasonal Naive,Seasonal Naive,mes,2,110.25,140
+D,Seasonal Naive,Seasonal Naive,mes,3,169.409,154
+D,Seasonal Naive,Seasonal Naive,mes,4,154.98,150
+D,Seasonal Naive,Seasonal Naive,mes,5,92.9419,155
+D,Seasonal Naive,Seasonal Naive,mes,6,71.8133,150
+D,Seasonal Naive,Seasonal Naive,mes,7,82.539,154
+D,Seasonal Naive,Seasonal Naive,mes,8,79.0588,153
+D,Seasonal Naive,Seasonal Naive,mes,9,56.3087,149
+D,Seasonal Naive,Seasonal Naive,mes,10,93.5325,154
+D,Seasonal Naive,Seasonal Naive,mes,11,130.753,150
+D,Seasonal Naive,Seasonal Naive,mes,12,145.558,154
+M,DualLSTM,DualLSTM,mes,1,812.754,5
+M,DualLSTM,DualLSTM,mes,2,1794.34,4
+M,DualLSTM,DualLSTM,mes,3,1766,5
+M,DualLSTM,DualLSTM,mes,4,875.323,5
+M,DualLSTM,DualLSTM,mes,5,899.178,5
+M,DualLSTM,DualLSTM,mes,6,939.755,5
+M,DualLSTM,DualLSTM,mes,7,915.46,5
+M,DualLSTM,DualLSTM,mes,8,1870.33,5
+M,DualLSTM,DualLSTM,mes,9,2225.61,5
+M,DualLSTM,DualLSTM,mes,10,1536.89,5
+M,DualLSTM,DualLSTM,mes,11,1462.25,5
+M,DualLSTM,DualLSTM,mes,12,991.804,5
+M,ETS,ref*,mes,1,897.099,5
+M,ETS,ref*,mes,2,1684.34,4
+M,ETS,ref*,mes,3,1058.29,5
+M,ETS,ref*,mes,4,971.699,5
+M,ETS,ref*,mes,5,611.209,5
+M,ETS,ref*,mes,6,624.963,5
+M,ETS,ref*,mes,7,964.158,5
+M,ETS,ref*,mes,8,1470.72,5
+M,ETS,ref*,mes,9,892.2,5
+M,ETS,ref*,mes,10,651.93,5
+M,ETS,ref*,mes,11,624.904,5
+M,ETS,ref*,mes,12,1361,5
+M,Seasonal Naive,Seasonal Naive,mes,1,1217.4,5
+M,Seasonal Naive,Seasonal Naive,mes,2,1512,4
+M,Seasonal Naive,Seasonal Naive,mes,3,1520.4,5
+M,Seasonal Naive,Seasonal Naive,mes,4,728.8,5
+M,Seasonal Naive,Seasonal Naive,mes,5,1101.8,5
+M,Seasonal Naive,Seasonal Naive,mes,6,967.8,5
+M,Seasonal Naive,Seasonal Naive,mes,7,841.6,5
+M,Seasonal Naive,Seasonal Naive,mes,8,2548.4,5
+M,Seasonal Naive,Seasonal Naive,mes,9,3000.2,5
+M,Seasonal Naive,Seasonal Naive,mes,10,1735,5
+M,Seasonal Naive,Seasonal Naive,mes,11,1755.2,5
+M,Seasonal Naive,Seasonal Naive,mes,12,1344.8,5

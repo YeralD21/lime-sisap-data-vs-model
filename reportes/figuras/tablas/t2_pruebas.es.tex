@@ -1,0 +1,26 @@
+\begin{tabular}{p{5.2cm}p{8cm}l}
+\toprule
+Prueba & Qué comprueba & Resultado \\
+\midrule
+\texttt{test\_evaluables\_coinciden\_con\_protocolo} & Días/meses evaluables por año = tabla de §2.2 (salvo D5) & pasa \\
+\texttt{test\_anomalia} & Anomalía 2021-02-01: faltante en principal; valor publicado en sens. 7 & pasa \\
+\texttt{test\_historia\_maxima\_protocolo} & Historia máxima por ventana = §4 (8 127–9 588 días; 267–315 meses) & pasa \\
+\texttt{test\_sin\_datos\_2026\_y\_desde\_1997\_10} & Sin datos de 2026; inicio 1997-10-01 (2006-01-01 en sens. 6) & pasa \\
+\texttt{test\_mismos\_dias\_prueba\_en\_todos\_los\_N[D]} & Mismo fin de entrenamiento, validación y días de prueba para todo N & pasa \\
+\texttt{test\_mismos\_dias\_prueba\_en\_todos\_los\_N[M]} & Mismo fin de entrenamiento, validación y días de prueba para todo N & pasa \\
+\texttt{test\_imputacion\_solo\_usa\_pasado} & Imputación t−7 causal: cambiar el futuro no altera el pasado imputado & pasa \\
+\texttt{test\_redes\_sin\_fuga\_en\_ajuste\_ni\_escalado[D-DualLSTM-1]} & Perturbar datos posteriores al fin del entrenamiento no cambia escalador, secuencias ni objetivos; la entrada de t solo usa datos hasta t−h & pasa \\
+\texttt{test\_redes\_sin\_fuga\_en\_ajuste\_ni\_escalado[D-DualLSTM-7]} & Perturbar datos posteriores al fin del entrenamiento no cambia escalador, secuencias ni objetivos; la entrada de t solo usa datos hasta t−h & pasa \\
+\texttt{test\_redes\_sin\_fuga\_en\_ajuste\_ni\_escalado[D-LSTM univariada-1]} & Perturbar datos posteriores al fin del entrenamiento no cambia escalador, secuencias ni objetivos; la entrada de t solo usa datos hasta t−h & pasa \\
+\texttt{test\_redes\_sin\_fuga\_en\_ajuste\_ni\_escalado[M-DualLSTM-1]} & Perturbar datos posteriores al fin del entrenamiento no cambia escalador, secuencias ni objetivos; la entrada de t solo usa datos hasta t−h & pasa \\
+\texttt{test\_redes\_sin\_fuga\_en\_ajuste\_ni\_escalado[M-LSTM univariada-1]} & Perturbar datos posteriores al fin del entrenamiento no cambia escalador, secuencias ni objetivos; la entrada de t solo usa datos hasta t−h & pasa \\
+\texttt{test\_escala\_mase\_fija\_por\_ventana} & Escala MASE fija por ventana y sin datos posteriores al entrenamiento & pasa \\
+\texttt{test\_parametros\_red} & Recuento de parámetros de la DualLSTM (artículo y brazo D) & pasa \\
+\texttt{test\_dm\_hln\_h1\_igual\_que\_articulo} & DM-HLN a h = 1 igual a la fórmula del artículo & pasa \\
+\texttt{test\_bootstrap\_pareado\_reproducible\_y\_estratificado} & Bootstrap pareado reproducible (semilla 42) y estratificado por ventana & pasa \\
+\texttt{test\_regla\_decision} & Regla de decisión de §1 en casos sintéticos & pasa \\
+\texttt{test\_mejor\_referencia\_y\_conjunta} & Elección de ref* y conclusión conjunta & pasa \\
+\texttt{test\_mascara\_shock\_usa\_historia\_hasta\_origen} & Umbral de shock calculado solo con la historia hasta el origen & pasa \\
+\texttt{test\_analisis\_humo} & Análisis completo con pronósticos sintéticos; falla si falta un pronóstico & pasa \\
+\bottomrule
+\end{tabular}

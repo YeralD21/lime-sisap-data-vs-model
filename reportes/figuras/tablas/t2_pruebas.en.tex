@@ -1,0 +1,26 @@
+\begin{tabular}{p{5.2cm}p{8cm}l}
+\toprule
+Test & What it checks & Result \\
+\midrule
+\texttt{test\_evaluables\_coinciden\_con\_protocolo} & Evaluable days/months per year = §2.2 table (except D5) & pass \\
+\texttt{test\_anomalia} & 2021-02-01 anomaly: missing in main analysis; published value in sensitivity 7 & pass \\
+\texttt{test\_historia\_maxima\_protocolo} & Maximum history per window = §4 (8,127–9,588 days; 267–315 months) & pass \\
+\texttt{test\_sin\_datos\_2026\_y\_desde\_1997\_10} & No 2026 data; start 1997-10-01 (2006-01-01 in sensitivity 6) & pass \\
+\texttt{test\_mismos\_dias\_prueba\_en\_todos\_los\_N[D]} & Same training end, validation and test days for every N & pass \\
+\texttt{test\_mismos\_dias\_prueba\_en\_todos\_los\_N[M]} & Same training end, validation and test days for every N & pass \\
+\texttt{test\_imputacion\_solo\_usa\_pasado} & Causal t−7 imputation: changing the future does not alter past imputed values & pass \\
+\texttt{test\_redes\_sin\_fuga\_en\_ajuste\_ni\_escalado[D-DualLSTM-1]} & Perturbing data after the training end leaves scaler, sequences and targets unchanged; the input for t uses data up to t−h only & pass \\
+\texttt{test\_redes\_sin\_fuga\_en\_ajuste\_ni\_escalado[D-DualLSTM-7]} & Perturbing data after the training end leaves scaler, sequences and targets unchanged; the input for t uses data up to t−h only & pass \\
+\texttt{test\_redes\_sin\_fuga\_en\_ajuste\_ni\_escalado[D-LSTM univariada-1]} & Perturbing data after the training end leaves scaler, sequences and targets unchanged; the input for t uses data up to t−h only & pass \\
+\texttt{test\_redes\_sin\_fuga\_en\_ajuste\_ni\_escalado[M-DualLSTM-1]} & Perturbing data after the training end leaves scaler, sequences and targets unchanged; the input for t uses data up to t−h only & pass \\
+\texttt{test\_redes\_sin\_fuga\_en\_ajuste\_ni\_escalado[M-LSTM univariada-1]} & Perturbing data after the training end leaves scaler, sequences and targets unchanged; the input for t uses data up to t−h only & pass \\
+\texttt{test\_escala\_mase\_fija\_por\_ventana} & MASE scale fixed per window and free of post-training data & pass \\
+\texttt{test\_parametros\_red} & DualLSTM parameter count (article and arm D) & pass \\
+\texttt{test\_dm\_hln\_h1\_igual\_que\_articulo} & DM-HLN at h = 1 equals the article's formula & pass \\
+\texttt{test\_bootstrap\_pareado\_reproducible\_y\_estratificado} & Paired bootstrap is reproducible (seed 42) and stratified by window & pass \\
+\texttt{test\_regla\_decision} & §1 decision rule on synthetic cases & pass \\
+\texttt{test\_mejor\_referencia\_y\_conjunta} & Choice of ref* and joint conclusion & pass \\
+\texttt{test\_mascara\_shock\_usa\_historia\_hasta\_origen} & Shock threshold computed from history up to the origin only & pass \\
+\texttt{test\_analisis\_humo} & Full analysis on synthetic forecasts; fails if a forecast is missing & pass \\
+\bottomrule
+\end{tabular}

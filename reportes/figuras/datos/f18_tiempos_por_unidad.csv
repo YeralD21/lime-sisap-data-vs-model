@@ -1,0 +1,1001 @@
+brazo,modelo,N,anio,semilla,segundos,fuente
+D,DualLSTM,1000,2021,0,21.9,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,1000,2021,1,15.34,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,1000,2021,2,25.74,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,1000,2021,3,34.45,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,1000,2021,4,12.63,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,1000,2021,5,23.72,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,1000,2021,6,12.27,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,1000,2021,7,29.88,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,1000,2021,8,19.64,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,1000,2021,9,16.54,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,1000,2022,0,42.03,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,1000,2022,1,17.94,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,1000,2022,2,13.21,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,1000,2022,3,19.02,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,1000,2022,4,16.26,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,1000,2022,5,12,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,1000,2022,6,18.51,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,1000,2022,7,18.53,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,1000,2022,8,18.57,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,1000,2022,9,22.89,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,1000,2023,0,12.51,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,1000,2023,1,12.06,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,1000,2023,2,20.91,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,1000,2023,3,19.28,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,1000,2023,4,24.21,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,1000,2023,5,11.39,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,1000,2023,6,20.75,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,1000,2023,7,62.92,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,1000,2023,8,66.34,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,1000,2023,9,65.31,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,1000,2024,0,129.18,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,1000,2024,1,106.35,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,1000,2024,2,19.31,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,1000,2024,3,20,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,1000,2024,4,19.27,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,1000,2024,5,68.06,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,1000,2024,6,44.03,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,1000,2024,7,48.02,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,1000,2024,8,34.57,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,1000,2024,9,43.27,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,1000,2025,0,52.78,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,1000,2025,1,15.97,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,1000,2025,2,24.75,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,1000,2025,3,29.34,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,1000,2025,4,24.97,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,1000,2025,5,19.42,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,1000,2025,6,21.78,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,1000,2025,7,34.8,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,1000,2025,8,22.08,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,1000,2025,9,40.5,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,120,2021,0,15.23,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,120,2021,1,16.8,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,120,2021,2,13.01,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,120,2021,3,14.28,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,120,2021,4,20.14,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,120,2021,5,13.89,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,120,2021,6,15.85,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,120,2021,7,14.67,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,120,2021,8,13.4,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,120,2021,9,13.02,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,120,2022,0,9.37,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,120,2022,1,11.2,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,120,2022,2,10.09,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,120,2022,3,12.04,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,120,2022,4,12.95,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,120,2022,5,9.96,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,120,2022,6,12.03,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,120,2022,7,11.08,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,120,2022,8,10.95,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,120,2022,9,11.34,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,120,2023,0,13.5,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,120,2023,1,13.71,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,120,2023,2,11.18,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,120,2023,3,23.68,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,120,2023,4,38.77,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,120,2023,5,19.67,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,120,2023,6,30.29,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,120,2023,7,11.47,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,120,2023,8,10.4,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,120,2023,9,12.49,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,120,2024,0,10.07,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,120,2024,1,12.48,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,120,2024,2,10.11,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,120,2024,3,18.4,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,120,2024,4,10.09,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,120,2024,5,9.7,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,120,2024,6,12.56,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,120,2024,7,14.04,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,120,2024,8,12.7,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,120,2024,9,10.06,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,120,2025,0,13.96,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,120,2025,1,11.18,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,120,2025,2,10.32,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,120,2025,3,15.59,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,120,2025,4,15.93,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,120,2025,5,13.89,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,120,2025,6,19.18,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,120,2025,7,15.61,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,120,2025,8,15.16,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,120,2025,9,12.14,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,360,2021,0,15.31,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,360,2021,1,11.11,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,360,2021,2,13.44,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,360,2021,3,16.14,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,360,2021,4,14.74,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,360,2021,5,12.06,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,360,2021,6,13.26,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,360,2021,7,16.7,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,360,2021,8,16.48,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,360,2021,9,13.57,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,360,2022,0,9.92,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,360,2022,1,11.57,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,360,2022,2,20.63,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,360,2022,3,20.28,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,360,2022,4,21.58,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,360,2022,5,19.06,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,360,2022,6,16.28,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,360,2022,7,12.93,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,360,2022,8,12.44,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,360,2022,9,12.65,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,360,2023,0,14.59,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,360,2023,1,14.8,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,360,2023,2,11.91,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,360,2023,3,13.19,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,360,2023,4,19.39,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,360,2023,5,10.84,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,360,2023,6,15.26,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,360,2023,7,18.2,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,360,2023,8,11.74,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,360,2023,9,24.46,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,360,2024,0,16.97,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,360,2024,1,13.89,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,360,2024,2,12.94,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,360,2024,3,13.71,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,360,2024,4,11.6,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,360,2024,5,11.87,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,360,2024,6,12.65,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,360,2024,7,18.89,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,360,2024,8,12.29,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,360,2024,9,11.67,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,360,2025,0,13.77,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,360,2025,1,13.49,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,360,2025,2,12.25,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,360,2025,3,37.95,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,360,2025,4,17.6,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,360,2025,5,13.76,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,360,2025,6,15.07,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,360,2025,7,16.56,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,360,2025,8,14.94,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,360,2025,9,12.4,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,max,2021,0,80.88,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,max,2021,1,73.73,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,max,2021,2,71.43,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,max,2021,3,66.51,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,max,2021,4,77.45,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,max,2021,5,73.27,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,max,2021,6,76.96,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,max,2021,7,69.75,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,max,2021,8,79.26,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,max,2021,9,91.31,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,max,2022,0,73.62,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,max,2022,1,196.4,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,max,2022,2,256.69,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,max,2022,3,73.24,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,max,2022,4,182.69,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,max,2022,5,70.25,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,max,2022,6,122.91,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,max,2022,7,99.66,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,max,2022,8,187.26,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,max,2022,9,190.7,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,max,2023,0,81.73,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,max,2023,1,166.79,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,max,2023,2,197.15,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,max,2023,3,81.24,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,max,2023,4,108.89,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,max,2023,5,205.02,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,max,2023,6,210.17,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,max,2023,7,144.26,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,max,2023,8,78.23,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,max,2023,9,162.13,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,max,2024,0,129.28,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,max,2024,1,126.99,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,max,2024,2,114.55,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,max,2024,3,119.89,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,max,2024,4,135.92,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,max,2024,5,119.6,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,max,2024,6,115.47,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,max,2024,7,134.08,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,max,2024,8,141.47,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,max,2024,9,111.07,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,max,2025,0,152.55,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,max,2025,1,72.31,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,max,2025,2,116.27,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,max,2025,3,86.68,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,max,2025,4,96.65,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,max,2025,5,98.27,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,max,2025,6,72.53,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,max,2025,7,70.74,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,max,2025,8,92.31,resultados/brazo_D/principal/estados_redes.csv
+D,DualLSTM,max,2025,9,64.88,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,1000,2021,0,45.58,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,1000,2021,1,34.04,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,1000,2021,2,26.83,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,1000,2021,3,131.32,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,1000,2021,4,27.27,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,1000,2021,5,28.73,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,1000,2021,6,26.87,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,1000,2021,7,115.9,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,1000,2021,8,107.48,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,1000,2021,9,46.22,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,1000,2022,0,73.41,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,1000,2022,1,100.38,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,1000,2022,2,64.48,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,1000,2022,3,63.86,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,1000,2022,4,30.25,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,1000,2022,5,37.1,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,1000,2022,6,35.19,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,1000,2022,7,32.22,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,1000,2022,8,26.77,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,1000,2022,9,25.42,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,1000,2023,0,162.38,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,1000,2023,1,77.92,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,1000,2023,2,58.95,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,1000,2023,3,57.86,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,1000,2023,4,53.86,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,1000,2023,5,50.93,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,1000,2023,6,82.63,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,1000,2023,7,73.39,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,1000,2023,8,147.38,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,1000,2023,9,181.5,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,1000,2024,0,59.43,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,1000,2024,1,30.35,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,1000,2024,2,33.29,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,1000,2024,3,173.66,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,1000,2024,4,85.94,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,1000,2024,5,101.72,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,1000,2024,6,147.08,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,1000,2024,7,79.28,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,1000,2024,8,26.64,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,1000,2024,9,31.25,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,1000,2025,0,36.69,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,1000,2025,1,31.79,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,1000,2025,2,16.7,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,1000,2025,3,67.12,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,1000,2025,4,38.3,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,1000,2025,5,28.09,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,1000,2025,6,154.82,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,1000,2025,7,138.07,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,1000,2025,8,133.17,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,1000,2025,9,139.36,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,120,2021,0,5.82,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,120,2021,1,5.8,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,120,2021,2,5.42,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,120,2021,3,6.01,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,120,2021,4,5.69,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,120,2021,5,5.96,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,120,2021,6,4.73,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,120,2021,7,5.18,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,120,2021,8,5.66,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,120,2021,9,6.47,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,120,2022,0,32.56,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,120,2022,1,19.17,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,120,2022,2,21.01,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,120,2022,3,23.39,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,120,2022,4,21.35,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,120,2022,5,18.9,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,120,2022,6,26.17,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,120,2022,7,19.1,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,120,2022,8,20.98,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,120,2022,9,26.18,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,120,2023,0,4.28,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,120,2023,1,4.27,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,120,2023,2,4.86,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,120,2023,3,5.49,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,120,2023,4,5.18,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,120,2023,5,5.2,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,120,2023,6,4.94,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,120,2023,7,4.48,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,120,2023,8,5.31,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,120,2023,9,4.49,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,120,2024,0,5.04,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,120,2024,1,20.02,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,120,2024,2,5.39,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,120,2024,3,6.62,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,120,2024,4,6.02,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,120,2024,5,34.34,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,120,2024,6,23.68,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,120,2024,7,5.08,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,120,2024,8,15.75,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,120,2024,9,22.19,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,120,2025,0,12.84,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,120,2025,1,13.72,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,120,2025,2,15.17,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,120,2025,3,15.92,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,120,2025,4,13.5,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,120,2025,5,15.79,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,120,2025,6,16.66,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,120,2025,7,12.64,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,120,2025,8,16.4,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,120,2025,9,10.49,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,360,2021,0,28.84,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,360,2021,1,21.11,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,360,2021,2,32.23,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,360,2021,3,79.1,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,360,2021,4,67.44,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,360,2021,5,68.49,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,360,2021,6,92.66,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,360,2021,7,78.57,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,360,2021,8,75.37,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,360,2021,9,42.9,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,360,2022,0,21.51,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,360,2022,1,35.7,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,360,2022,2,26.14,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,360,2022,3,24.3,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,360,2022,4,22.69,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,360,2022,5,23.75,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,360,2022,6,25.78,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,360,2022,7,30.73,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,360,2022,8,24.07,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,360,2022,9,20.94,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,360,2023,0,25.49,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,360,2023,1,21.42,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,360,2023,2,23.58,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,360,2023,3,26.3,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,360,2023,4,14.33,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,360,2023,5,23.39,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,360,2023,6,16.19,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,360,2023,7,22.23,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,360,2023,8,17.86,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,360,2023,9,24.52,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,360,2024,0,22.6,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,360,2024,1,24.7,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,360,2024,2,22.49,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,360,2024,3,18.84,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,360,2024,4,25.12,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,360,2024,5,18.17,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,360,2024,6,23.09,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,360,2024,7,27.7,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,360,2024,8,23.49,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,360,2024,9,25.37,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,360,2025,0,19.38,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,360,2025,1,19.1,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,360,2025,2,29.62,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,360,2025,3,21.99,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,360,2025,4,15.33,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,360,2025,5,21.23,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,360,2025,6,26.73,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,360,2025,7,38.06,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,360,2025,8,28.1,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,360,2025,9,20.91,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,max,2021,0,168.6,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,max,2021,1,62.49,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,max,2021,2,92.91,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,max,2021,3,62.04,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,max,2021,4,50.89,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,max,2021,5,51.36,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,max,2021,6,53.56,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,max,2021,7,51.06,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,max,2021,8,57.97,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,max,2021,9,56.79,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,max,2022,0,68.29,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,max,2022,1,59.4,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,max,2022,2,88.26,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,max,2022,3,57.64,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,max,2022,4,52.13,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,max,2022,5,47.72,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,max,2022,6,73.55,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,max,2022,7,58.86,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,max,2022,8,67.67,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,max,2022,9,92.63,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,max,2023,0,64.73,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,max,2023,1,71.04,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,max,2023,2,78.86,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,max,2023,3,72.29,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,max,2023,4,74.05,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,max,2023,5,94.77,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,max,2023,6,56.04,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,max,2023,7,53.27,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,max,2023,8,78.69,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,max,2023,9,99.01,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,max,2024,0,83.86,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,max,2024,1,124.49,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,max,2024,2,58.46,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,max,2024,3,70.16,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,max,2024,4,160.35,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,max,2024,5,80.79,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,max,2024,6,102.36,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,max,2024,7,83.31,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,max,2024,8,144.36,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,max,2024,9,60.75,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,max,2025,0,96.11,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,max,2025,1,64.63,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,max,2025,2,203.12,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,max,2025,3,93.78,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,max,2025,4,175.14,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,max,2025,5,149.44,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,max,2025,6,175.59,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,max,2025,7,136.61,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,max,2025,8,79.5,resultados/brazo_D/principal/estados_redes.csv
+D,LSTM univariada,max,2025,9,112.97,resultados/brazo_D/principal/estados_redes.csv
+M,DualLSTM,120,2021,0,9.72,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,120,2021,1,7.34,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,120,2021,2,10.47,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,120,2021,3,11.21,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,120,2021,4,10.75,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,120,2021,5,8.02,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,120,2021,6,8.51,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,120,2021,7,10.1,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,120,2021,8,8.35,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,120,2021,9,8.22,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,240,2021,0,14.12,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,240,2021,1,11.17,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,240,2021,2,18,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,240,2021,3,12.33,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,240,2021,4,10.7,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,240,2021,5,9.65,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,240,2021,6,8.17,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,240,2021,7,7.21,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,240,2021,8,8.95,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,240,2021,9,6.9,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,60,2021,0,15.45,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,60,2021,1,14.73,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,60,2021,2,11.7,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,60,2021,3,17.63,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,60,2021,4,8.1,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,60,2021,5,8.32,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,60,2021,6,9.39,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,60,2021,7,9.32,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,60,2021,8,10.09,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,60,2021,9,9.88,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,max,2021,0,11.59,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,max,2021,1,10,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,max,2021,2,22.43,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,max,2021,3,15.9,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,max,2021,4,12.91,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,max,2021,5,10.75,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,max,2021,6,14.94,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,max,2021,7,10.3,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,max,2021,8,9.84,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,max,2021,9,12.85,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,120,2022,0,9.92,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,120,2022,1,10.71,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,120,2022,2,8.66,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,120,2022,3,11.6,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,120,2022,4,11.52,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,120,2022,5,10.33,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,120,2022,6,12.22,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,120,2022,7,7.31,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,120,2022,8,11.42,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,120,2022,9,8.49,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,240,2022,0,9.84,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,240,2022,1,12.73,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,240,2022,2,20.83,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,240,2022,3,11.48,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,240,2022,4,10.83,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,240,2022,5,11.14,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,240,2022,6,10.8,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,240,2022,7,8.24,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,240,2022,8,10.17,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,240,2022,9,10.92,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,60,2022,0,10.69,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,60,2022,1,8.12,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,60,2022,2,9.78,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,60,2022,3,21.19,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,60,2022,4,14.24,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,60,2022,5,12.43,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,60,2022,6,14.04,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,60,2022,7,8.31,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,60,2022,8,7.28,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,60,2022,9,8.79,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,max,2022,0,10.07,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,max,2022,1,14.94,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,max,2022,2,13.24,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,max,2022,3,14.02,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,max,2022,4,11.51,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,max,2022,5,12.55,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,max,2022,6,11.17,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,max,2022,7,9.04,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,max,2022,8,12.4,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,max,2022,9,12.46,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,120,2023,0,7.09,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,120,2023,1,7.25,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,120,2023,2,6.86,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,120,2023,3,10.14,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,120,2023,4,6.56,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,120,2023,5,6.73,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,120,2023,6,6.29,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,120,2023,7,6.54,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,120,2023,8,6.48,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,120,2023,9,6.67,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,240,2023,0,8.32,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,240,2023,1,7.62,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,240,2023,2,7.76,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,240,2023,3,9.7,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,240,2023,4,7.22,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,240,2023,5,7.51,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,240,2023,6,7.24,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,240,2023,7,7.28,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,240,2023,8,7.27,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,240,2023,9,7.59,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,60,2023,0,5.08,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,60,2023,1,5.2,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,60,2023,2,4.96,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,60,2023,3,4.98,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,60,2023,4,5.03,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,60,2023,5,5.31,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,60,2023,6,5.07,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,60,2023,7,5.05,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,60,2023,8,5,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,60,2023,9,5,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,max,2023,0,9.28,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,max,2023,1,8.5,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,max,2023,2,8.24,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,max,2023,3,9.91,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,max,2023,4,9.48,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,max,2023,5,8.01,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,max,2023,6,11.35,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,max,2023,7,8.21,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,max,2023,8,8.68,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,max,2023,9,8.56,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,120,2024,0,10.57,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,120,2024,1,10.18,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,120,2024,2,13.66,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,120,2024,3,7.63,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,120,2024,4,14.81,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,120,2024,5,18.48,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,120,2024,6,10.98,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,120,2024,7,13.77,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,120,2024,8,5.99,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,120,2024,9,11.82,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,240,2024,0,13.75,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,240,2024,1,7.28,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,240,2024,2,12.77,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,240,2024,3,9.36,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,240,2024,4,35.78,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,240,2024,5,7.28,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,240,2024,6,8.92,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,240,2024,7,13.98,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,240,2024,8,7.04,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,240,2024,9,22.07,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,60,2024,0,8.38,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,60,2024,1,26.76,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,60,2024,2,24.35,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,60,2024,3,9.81,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,60,2024,4,10.62,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,60,2024,5,9.22,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,60,2024,6,14.79,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,60,2024,7,10.19,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,60,2024,8,11.73,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,60,2024,9,10.24,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,max,2024,0,20.92,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,max,2024,1,8.31,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,max,2024,2,10.34,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,max,2024,3,9.58,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,max,2024,4,8,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,max,2024,5,8.2,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,max,2024,6,8.74,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,max,2024,7,17.64,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,max,2024,8,8.1,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,max,2024,9,15.11,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,120,2025,0,43.18,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,120,2025,1,33.53,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,120,2025,2,7.05,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,120,2025,3,5.9,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,120,2025,4,6.76,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,120,2025,5,5.8,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,120,2025,6,6.87,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,120,2025,7,7.15,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,120,2025,8,6.84,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,120,2025,9,7.07,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,240,2025,0,11.29,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,240,2025,1,7.83,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,240,2025,2,12.84,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,240,2025,3,10.6,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,240,2025,4,10.85,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,240,2025,5,7.75,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,240,2025,6,7.75,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,240,2025,7,7.5,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,240,2025,8,7.68,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,240,2025,9,14.27,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,60,2025,0,5.05,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,60,2025,1,5.53,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,60,2025,2,5.59,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,60,2025,3,5.46,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,60,2025,4,5.52,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,60,2025,5,5.53,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,60,2025,6,5.21,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,60,2025,7,5.21,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,60,2025,8,5.12,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,60,2025,9,5.17,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,max,2025,0,12.01,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,max,2025,1,10.52,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,max,2025,2,10.42,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,max,2025,3,11.4,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,max,2025,4,9.82,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,max,2025,5,7.24,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,max,2025,6,17.74,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,max,2025,7,15.72,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,max,2025,8,7.48,resultados/brazo_M/principal/estados_redes.csv
+M,DualLSTM,max,2025,9,17.35,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,120,2021,0,4.68,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,120,2021,1,5.46,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,120,2021,2,7.07,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,120,2021,3,5.99,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,120,2021,4,5.06,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,120,2021,5,6.07,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,120,2021,6,8.35,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,120,2021,7,6.09,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,120,2021,8,7.7,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,120,2021,9,4.93,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,240,2021,0,9.8,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,240,2021,1,8.9,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,240,2021,2,9.49,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,240,2021,3,9.15,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,240,2021,4,7.26,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,240,2021,5,9.16,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,240,2021,6,7.53,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,240,2021,7,7.62,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,240,2021,8,12.47,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,240,2021,9,10.35,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,60,2021,0,8.92,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,60,2021,1,4.66,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,60,2021,2,3.92,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,60,2021,3,6.12,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,60,2021,4,7.51,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,60,2021,5,4.96,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,60,2021,6,9.59,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,60,2021,7,4.72,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,60,2021,8,12.77,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,60,2021,9,5.32,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,max,2021,0,6.52,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,max,2021,1,6.26,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,max,2021,2,9.05,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,max,2021,3,7.52,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,max,2021,4,7.46,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,max,2021,5,8.66,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,max,2021,6,10.37,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,max,2021,7,8.52,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,max,2021,8,11.38,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,max,2021,9,9.49,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,120,2022,0,18.85,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,120,2022,1,7.18,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,120,2022,2,13.58,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,120,2022,3,7.63,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,120,2022,4,7.22,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,120,2022,5,9.17,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,120,2022,6,15.49,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,120,2022,7,11.36,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,120,2022,8,14.07,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,120,2022,9,9.66,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,240,2022,0,6.88,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,240,2022,1,9.79,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,240,2022,2,8.87,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,240,2022,3,8.37,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,240,2022,4,8.36,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,240,2022,5,7.46,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,240,2022,6,10.25,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,240,2022,7,10.59,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,240,2022,8,9.74,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,240,2022,9,9.28,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,60,2022,0,6.51,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,60,2022,1,10.26,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,60,2022,2,12.06,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,60,2022,3,13.61,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,60,2022,4,8.52,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,60,2022,5,8.47,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,60,2022,6,13.46,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,60,2022,7,10.29,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,60,2022,8,19.85,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,60,2022,9,6.35,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,max,2022,0,8.55,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,max,2022,1,9.25,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,max,2022,2,10.12,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,max,2022,3,10.6,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,max,2022,4,11.27,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,max,2022,5,11.51,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,max,2022,6,10.89,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,max,2022,7,8.74,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,max,2022,8,11.37,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,max,2022,9,9.59,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,120,2023,0,4.01,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,120,2023,1,6.07,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,120,2023,2,6.07,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,120,2023,3,4.31,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,120,2023,4,8.3,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,120,2023,5,3.74,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,120,2023,6,8.78,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,120,2023,7,4.63,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,120,2023,8,5.78,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,120,2023,9,4.24,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,240,2023,0,6.56,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,240,2023,1,8.96,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,240,2023,2,7.53,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,240,2023,3,8.62,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,240,2023,4,7.92,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,240,2023,5,8.01,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,240,2023,6,11.5,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,240,2023,7,14.21,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,240,2023,8,7.02,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,240,2023,9,7.51,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,60,2023,0,5.94,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,60,2023,1,3.26,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,60,2023,2,7.44,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,60,2023,3,3.17,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,60,2023,4,3.15,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,60,2023,5,3.17,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,60,2023,6,3.13,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,60,2023,7,3.1,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,60,2023,8,3.13,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,60,2023,9,3.1,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,max,2023,0,9.27,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,max,2023,1,7.74,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,max,2023,2,9.29,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,max,2023,3,8.58,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,max,2023,4,8.37,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,max,2023,5,7.03,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,max,2023,6,11.37,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,max,2023,7,9.52,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,max,2023,8,9.55,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,max,2023,9,7.54,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,120,2024,0,11.53,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,120,2024,1,10.99,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,120,2024,2,11.7,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,120,2024,3,7.34,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,120,2024,4,24.06,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,120,2024,5,13.01,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,120,2024,6,10.76,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,120,2024,7,9.96,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,120,2024,8,7.55,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,120,2024,9,12.4,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,240,2024,0,7.49,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,240,2024,1,12.2,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,240,2024,2,12.44,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,240,2024,3,14.98,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,240,2024,4,10.59,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,240,2024,5,12.23,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,240,2024,6,12.04,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,240,2024,7,14.32,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,240,2024,8,12.81,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,240,2024,9,11.25,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,60,2024,0,6.18,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,60,2024,1,8.38,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,60,2024,2,6.54,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,60,2024,3,6.78,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,60,2024,4,3.77,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,60,2024,5,11.1,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,60,2024,6,8.55,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,60,2024,7,9.62,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,60,2024,8,7.17,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,60,2024,9,12.77,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,max,2024,0,11.3,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,max,2024,1,11.39,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,max,2024,2,21.14,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,max,2024,3,17.54,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,max,2024,4,18.31,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,max,2024,5,11.08,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,max,2024,6,14.46,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,max,2024,7,13.26,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,max,2024,8,13.59,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,max,2024,9,11.04,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,120,2025,0,11.77,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,120,2025,1,14.58,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,120,2025,2,10.34,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,120,2025,3,13.13,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,120,2025,4,6.52,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,120,2025,5,13.81,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,120,2025,6,8.73,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,120,2025,7,13.02,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,120,2025,8,15.99,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,120,2025,9,6.33,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,240,2025,0,8.96,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,240,2025,1,13.78,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,240,2025,2,10.08,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,240,2025,3,11.14,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,240,2025,4,9.23,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,240,2025,5,10.28,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,240,2025,6,18.37,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,240,2025,7,12.17,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,240,2025,8,12.18,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,240,2025,9,8.18,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,60,2025,0,3.3,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,60,2025,1,3.33,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,60,2025,2,3.39,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,60,2025,3,3.49,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,60,2025,4,6.18,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,60,2025,5,4.19,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,60,2025,6,3.27,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,60,2025,7,3.21,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,60,2025,8,3.11,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,60,2025,9,3.76,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,max,2025,0,10.39,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,max,2025,1,12.96,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,max,2025,2,11.4,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,max,2025,3,9.42,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,max,2025,4,10,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,max,2025,5,10.56,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,max,2025,6,12.56,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,max,2025,7,10.32,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,max,2025,8,13.12,resultados/brazo_M/principal/estados_redes.csv
+M,LSTM univariada,max,2025,9,10.66,resultados/brazo_M/principal/estados_redes.csv
+D,Chronos-Bolt-tiny,1000,2021,,4.16,resultados/brazo_D/estadisticos/principal/unidades/*.json (h = 1 y 7 juntos)
+D,Chronos-Bolt-tiny,120,2021,,0.52,resultados/brazo_D/estadisticos/principal/unidades/*.json (h = 1 y 7 juntos)
+D,Chronos-Bolt-tiny,360,2021,,1.44,resultados/brazo_D/estadisticos/principal/unidades/*.json (h = 1 y 7 juntos)
+D,Chronos-Bolt-tiny,max,2021,,14.23,resultados/brazo_D/estadisticos/principal/unidades/*.json (h = 1 y 7 juntos)
+D,Chronos-Bolt-tiny,1000,2022,,4.36,resultados/brazo_D/estadisticos/principal/unidades/*.json (h = 1 y 7 juntos)
+D,Chronos-Bolt-tiny,120,2022,,0.63,resultados/brazo_D/estadisticos/principal/unidades/*.json (h = 1 y 7 juntos)
+D,Chronos-Bolt-tiny,360,2022,,1.44,resultados/brazo_D/estadisticos/principal/unidades/*.json (h = 1 y 7 juntos)
+D,Chronos-Bolt-tiny,max,2022,,15.16,resultados/brazo_D/estadisticos/principal/unidades/*.json (h = 1 y 7 juntos)
+D,Chronos-Bolt-tiny,1000,2023,,4.31,resultados/brazo_D/estadisticos/principal/unidades/*.json (h = 1 y 7 juntos)
+D,Chronos-Bolt-tiny,120,2023,,0.62,resultados/brazo_D/estadisticos/principal/unidades/*.json (h = 1 y 7 juntos)
+D,Chronos-Bolt-tiny,360,2023,,1.46,resultados/brazo_D/estadisticos/principal/unidades/*.json (h = 1 y 7 juntos)
+D,Chronos-Bolt-tiny,max,2023,,9.28,resultados/brazo_D/estadisticos/principal/unidades/*.json (h = 1 y 7 juntos)
+D,Chronos-Bolt-tiny,1000,2024,,4.37,resultados/brazo_D/estadisticos/principal/unidades/*.json (h = 1 y 7 juntos)
+D,Chronos-Bolt-tiny,120,2024,,0.56,resultados/brazo_D/estadisticos/principal/unidades/*.json (h = 1 y 7 juntos)
+D,Chronos-Bolt-tiny,360,2024,,1.44,resultados/brazo_D/estadisticos/principal/unidades/*.json (h = 1 y 7 juntos)
+D,Chronos-Bolt-tiny,max,2024,,9.35,resultados/brazo_D/estadisticos/principal/unidades/*.json (h = 1 y 7 juntos)
+D,Chronos-Bolt-tiny,1000,2025,,3.65,resultados/brazo_D/estadisticos/principal/unidades/*.json (h = 1 y 7 juntos)
+D,Chronos-Bolt-tiny,120,2025,,0.54,resultados/brazo_D/estadisticos/principal/unidades/*.json (h = 1 y 7 juntos)
+D,Chronos-Bolt-tiny,360,2025,,1.23,resultados/brazo_D/estadisticos/principal/unidades/*.json (h = 1 y 7 juntos)
+D,Chronos-Bolt-tiny,max,2025,,8.14,resultados/brazo_D/estadisticos/principal/unidades/*.json (h = 1 y 7 juntos)
+D,ETS,1000,2021,,1.8,resultados/brazo_D/estadisticos/principal/unidades/*.json (h = 1 y 7 juntos)
+D,ETS,120,2021,,1.68,resultados/brazo_D/estadisticos/principal/unidades/*.json (h = 1 y 7 juntos)
+D,ETS,360,2021,,2.31,resultados/brazo_D/estadisticos/principal/unidades/*.json (h = 1 y 7 juntos)
+D,ETS,max,2021,,8.73,resultados/brazo_D/estadisticos/principal/unidades/*.json (h = 1 y 7 juntos)
+D,ETS,1000,2022,,2.91,resultados/brazo_D/estadisticos/principal/unidades/*.json (h = 1 y 7 juntos)
+D,ETS,120,2022,,1.89,resultados/brazo_D/estadisticos/principal/unidades/*.json (h = 1 y 7 juntos)
+D,ETS,360,2022,,2.83,resultados/brazo_D/estadisticos/principal/unidades/*.json (h = 1 y 7 juntos)
+D,ETS,max,2022,,8.72,resultados/brazo_D/estadisticos/principal/unidades/*.json (h = 1 y 7 juntos)
+D,ETS,1000,2023,,2.42,resultados/brazo_D/estadisticos/principal/unidades/*.json (h = 1 y 7 juntos)
+D,ETS,120,2023,,1.99,resultados/brazo_D/estadisticos/principal/unidades/*.json (h = 1 y 7 juntos)
+D,ETS,360,2023,,2.11,resultados/brazo_D/estadisticos/principal/unidades/*.json (h = 1 y 7 juntos)
+D,ETS,max,2023,,11.91,resultados/brazo_D/estadisticos/principal/unidades/*.json (h = 1 y 7 juntos)
+D,ETS,1000,2024,,3.16,resultados/brazo_D/estadisticos/principal/unidades/*.json (h = 1 y 7 juntos)
+D,ETS,120,2024,,1.9,resultados/brazo_D/estadisticos/principal/unidades/*.json (h = 1 y 7 juntos)
+D,ETS,360,2024,,1.64,resultados/brazo_D/estadisticos/principal/unidades/*.json (h = 1 y 7 juntos)
+D,ETS,max,2024,,10.34,resultados/brazo_D/estadisticos/principal/unidades/*.json (h = 1 y 7 juntos)
+D,ETS,1000,2025,,3.33,resultados/brazo_D/estadisticos/principal/unidades/*.json (h = 1 y 7 juntos)
+D,ETS,120,2025,,1.51,resultados/brazo_D/estadisticos/principal/unidades/*.json (h = 1 y 7 juntos)
+D,ETS,360,2025,,1.55,resultados/brazo_D/estadisticos/principal/unidades/*.json (h = 1 y 7 juntos)
+D,ETS,max,2025,,9.69,resultados/brazo_D/estadisticos/principal/unidades/*.json (h = 1 y 7 juntos)
+D,SARIMA,1000,2021,,1.64,resultados/brazo_D/estadisticos/principal/unidades/*.json (h = 1 y 7 juntos)
+D,SARIMA,120,2021,,0.69,resultados/brazo_D/estadisticos/principal/unidades/*.json (h = 1 y 7 juntos)
+D,SARIMA,360,2021,,0.52,resultados/brazo_D/estadisticos/principal/unidades/*.json (h = 1 y 7 juntos)
+D,SARIMA,max,2021,,9.48,resultados/brazo_D/estadisticos/principal/unidades/*.json (h = 1 y 7 juntos)
+D,SARIMA,1000,2022,,2.7,resultados/brazo_D/estadisticos/principal/unidades/*.json (h = 1 y 7 juntos)
+D,SARIMA,120,2022,,0.35,resultados/brazo_D/estadisticos/principal/unidades/*.json (h = 1 y 7 juntos)
+D,SARIMA,360,2022,,0.42,resultados/brazo_D/estadisticos/principal/unidades/*.json (h = 1 y 7 juntos)
+D,SARIMA,max,2022,,9.61,resultados/brazo_D/estadisticos/principal/unidades/*.json (h = 1 y 7 juntos)
+D,SARIMA,1000,2023,,1.66,resultados/brazo_D/estadisticos/principal/unidades/*.json (h = 1 y 7 juntos)
+D,SARIMA,120,2023,,0.36,resultados/brazo_D/estadisticos/principal/unidades/*.json (h = 1 y 7 juntos)
+D,SARIMA,360,2023,,0.53,resultados/brazo_D/estadisticos/principal/unidades/*.json (h = 1 y 7 juntos)
+D,SARIMA,max,2023,,10.41,resultados/brazo_D/estadisticos/principal/unidades/*.json (h = 1 y 7 juntos)
+D,SARIMA,1000,2024,,1.59,resultados/brazo_D/estadisticos/principal/unidades/*.json (h = 1 y 7 juntos)
+D,SARIMA,120,2024,,0.36,resultados/brazo_D/estadisticos/principal/unidades/*.json (h = 1 y 7 juntos)
+D,SARIMA,360,2024,,0.62,resultados/brazo_D/estadisticos/principal/unidades/*.json (h = 1 y 7 juntos)
+D,SARIMA,max,2024,,10.93,resultados/brazo_D/estadisticos/principal/unidades/*.json (h = 1 y 7 juntos)
+D,SARIMA,1000,2025,,1.73,resultados/brazo_D/estadisticos/principal/unidades/*.json (h = 1 y 7 juntos)
+D,SARIMA,120,2025,,0.41,resultados/brazo_D/estadisticos/principal/unidades/*.json (h = 1 y 7 juntos)
+D,SARIMA,360,2025,,0.75,resultados/brazo_D/estadisticos/principal/unidades/*.json (h = 1 y 7 juntos)
+D,SARIMA,max,2025,,11.54,resultados/brazo_D/estadisticos/principal/unidades/*.json (h = 1 y 7 juntos)
+D,Seasonal Naive,1000,2021,,0,resultados/brazo_D/estadisticos/principal/unidades/*.json (h = 1 y 7 juntos)
+D,Seasonal Naive,120,2021,,0,resultados/brazo_D/estadisticos/principal/unidades/*.json (h = 1 y 7 juntos)
+D,Seasonal Naive,360,2021,,0,resultados/brazo_D/estadisticos/principal/unidades/*.json (h = 1 y 7 juntos)
+D,Seasonal Naive,max,2021,,0,resultados/brazo_D/estadisticos/principal/unidades/*.json (h = 1 y 7 juntos)
+D,Seasonal Naive,1000,2022,,0,resultados/brazo_D/estadisticos/principal/unidades/*.json (h = 1 y 7 juntos)
+D,Seasonal Naive,120,2022,,0,resultados/brazo_D/estadisticos/principal/unidades/*.json (h = 1 y 7 juntos)
+D,Seasonal Naive,360,2022,,0,resultados/brazo_D/estadisticos/principal/unidades/*.json (h = 1 y 7 juntos)
+D,Seasonal Naive,max,2022,,0,resultados/brazo_D/estadisticos/principal/unidades/*.json (h = 1 y 7 juntos)
+D,Seasonal Naive,1000,2023,,0,resultados/brazo_D/estadisticos/principal/unidades/*.json (h = 1 y 7 juntos)
+D,Seasonal Naive,120,2023,,0,resultados/brazo_D/estadisticos/principal/unidades/*.json (h = 1 y 7 juntos)
+D,Seasonal Naive,360,2023,,0,resultados/brazo_D/estadisticos/principal/unidades/*.json (h = 1 y 7 juntos)
+D,Seasonal Naive,max,2023,,0,resultados/brazo_D/estadisticos/principal/unidades/*.json (h = 1 y 7 juntos)
+D,Seasonal Naive,1000,2024,,0,resultados/brazo_D/estadisticos/principal/unidades/*.json (h = 1 y 7 juntos)
+D,Seasonal Naive,120,2024,,0,resultados/brazo_D/estadisticos/principal/unidades/*.json (h = 1 y 7 juntos)
+D,Seasonal Naive,360,2024,,0,resultados/brazo_D/estadisticos/principal/unidades/*.json (h = 1 y 7 juntos)
+D,Seasonal Naive,max,2024,,0,resultados/brazo_D/estadisticos/principal/unidades/*.json (h = 1 y 7 juntos)
+D,Seasonal Naive,1000,2025,,0,resultados/brazo_D/estadisticos/principal/unidades/*.json (h = 1 y 7 juntos)
+D,Seasonal Naive,120,2025,,0,resultados/brazo_D/estadisticos/principal/unidades/*.json (h = 1 y 7 juntos)
+D,Seasonal Naive,360,2025,,0,resultados/brazo_D/estadisticos/principal/unidades/*.json (h = 1 y 7 juntos)
+D,Seasonal Naive,max,2025,,0,resultados/brazo_D/estadisticos/principal/unidades/*.json (h = 1 y 7 juntos)
+D,Theta,1000,2021,,0.05,resultados/brazo_D/estadisticos/principal/unidades/*.json (h = 1 y 7 juntos)
+D,Theta,120,2021,,0.13,resultados/brazo_D/estadisticos/principal/unidades/*.json (h = 1 y 7 juntos)
+D,Theta,360,2021,,0.02,resultados/brazo_D/estadisticos/principal/unidades/*.json (h = 1 y 7 juntos)
+D,Theta,max,2021,,0.4,resultados/brazo_D/estadisticos/principal/unidades/*.json (h = 1 y 7 juntos)
+D,Theta,1000,2022,,0.06,resultados/brazo_D/estadisticos/principal/unidades/*.json (h = 1 y 7 juntos)
+D,Theta,120,2022,,0.02,resultados/brazo_D/estadisticos/principal/unidades/*.json (h = 1 y 7 juntos)
+D,Theta,360,2022,,0.02,resultados/brazo_D/estadisticos/principal/unidades/*.json (h = 1 y 7 juntos)
+D,Theta,max,2022,,0.28,resultados/brazo_D/estadisticos/principal/unidades/*.json (h = 1 y 7 juntos)
+D,Theta,1000,2023,,0.06,resultados/brazo_D/estadisticos/principal/unidades/*.json (h = 1 y 7 juntos)
+D,Theta,120,2023,,0.02,resultados/brazo_D/estadisticos/principal/unidades/*.json (h = 1 y 7 juntos)
+D,Theta,360,2023,,0.03,resultados/brazo_D/estadisticos/principal/unidades/*.json (h = 1 y 7 juntos)
+D,Theta,max,2023,,0.27,resultados/brazo_D/estadisticos/principal/unidades/*.json (h = 1 y 7 juntos)
+D,Theta,1000,2024,,0.06,resultados/brazo_D/estadisticos/principal/unidades/*.json (h = 1 y 7 juntos)
+D,Theta,120,2024,,0.02,resultados/brazo_D/estadisticos/principal/unidades/*.json (h = 1 y 7 juntos)
+D,Theta,360,2024,,0.03,resultados/brazo_D/estadisticos/principal/unidades/*.json (h = 1 y 7 juntos)
+D,Theta,max,2024,,0.28,resultados/brazo_D/estadisticos/principal/unidades/*.json (h = 1 y 7 juntos)
+D,Theta,1000,2025,,0.06,resultados/brazo_D/estadisticos/principal/unidades/*.json (h = 1 y 7 juntos)
+D,Theta,120,2025,,0.01,resultados/brazo_D/estadisticos/principal/unidades/*.json (h = 1 y 7 juntos)
+D,Theta,360,2025,,0.04,resultados/brazo_D/estadisticos/principal/unidades/*.json (h = 1 y 7 juntos)
+D,Theta,max,2025,,0.27,resultados/brazo_D/estadisticos/principal/unidades/*.json (h = 1 y 7 juntos)
+M,Seasonal Naive,60,2021,,0,resultados/brazo_M/principal/base_tiempos.csv
+M,ETS,60,2021,,1.16,resultados/brazo_M/principal/base_tiempos.csv
+M,Theta,60,2021,,0.11,resultados/brazo_M/principal/base_tiempos.csv
+M,SARIMA,60,2021,,0.11,resultados/brazo_M/principal/base_tiempos.csv
+M,Chronos-Bolt-tiny,60,2021,,4.723,resultados/brazo_M/principal/base_tiempos.csv
+M,Seasonal Naive,120,2021,,0,resultados/brazo_M/principal/base_tiempos.csv
+M,ETS,120,2021,,0.749,resultados/brazo_M/principal/base_tiempos.csv
+M,Theta,120,2021,,0.012,resultados/brazo_M/principal/base_tiempos.csv
+M,SARIMA,120,2021,,0.589,resultados/brazo_M/principal/base_tiempos.csv
+M,Chronos-Bolt-tiny,120,2021,,0.128,resultados/brazo_M/principal/base_tiempos.csv
+M,Seasonal Naive,240,2021,,0,resultados/brazo_M/principal/base_tiempos.csv
+M,ETS,240,2021,,0.923,resultados/brazo_M/principal/base_tiempos.csv
+M,Theta,240,2021,,0.013,resultados/brazo_M/principal/base_tiempos.csv
+M,SARIMA,240,2021,,1.185,resultados/brazo_M/principal/base_tiempos.csv
+M,Chronos-Bolt-tiny,240,2021,,0.137,resultados/brazo_M/principal/base_tiempos.csv
+M,Seasonal Naive,max,2021,,0,resultados/brazo_M/principal/base_tiempos.csv
+M,ETS,max,2021,,1.211,resultados/brazo_M/principal/base_tiempos.csv
+M,Theta,max,2021,,0.01,resultados/brazo_M/principal/base_tiempos.csv
+M,SARIMA,max,2021,,0.602,resultados/brazo_M/principal/base_tiempos.csv
+M,Chronos-Bolt-tiny,max,2021,,0.12,resultados/brazo_M/principal/base_tiempos.csv
+M,Seasonal Naive,60,2022,,0,resultados/brazo_M/principal/base_tiempos.csv
+M,ETS,60,2022,,0.662,resultados/brazo_M/principal/base_tiempos.csv
+M,Theta,60,2022,,0.007,resultados/brazo_M/principal/base_tiempos.csv
+M,SARIMA,60,2022,,0.187,resultados/brazo_M/principal/base_tiempos.csv
+M,Chronos-Bolt-tiny,60,2022,,0.12,resultados/brazo_M/principal/base_tiempos.csv
+M,Seasonal Naive,120,2022,,0,resultados/brazo_M/principal/base_tiempos.csv
+M,ETS,120,2022,,0.777,resultados/brazo_M/principal/base_tiempos.csv
+M,Theta,120,2022,,0.01,resultados/brazo_M/principal/base_tiempos.csv
+M,SARIMA,120,2022,,0.593,resultados/brazo_M/principal/base_tiempos.csv
+M,Chronos-Bolt-tiny,120,2022,,0.125,resultados/brazo_M/principal/base_tiempos.csv
+M,Seasonal Naive,240,2022,,0,resultados/brazo_M/principal/base_tiempos.csv
+M,ETS,240,2022,,1.033,resultados/brazo_M/principal/base_tiempos.csv
+M,Theta,240,2022,,0.012,resultados/brazo_M/principal/base_tiempos.csv
+M,SARIMA,240,2022,,1.132,resultados/brazo_M/principal/base_tiempos.csv
+M,Chronos-Bolt-tiny,240,2022,,0.128,resultados/brazo_M/principal/base_tiempos.csv
+M,Seasonal Naive,max,2022,,0,resultados/brazo_M/principal/base_tiempos.csv
+M,ETS,max,2022,,1.148,resultados/brazo_M/principal/base_tiempos.csv
+M,Theta,max,2022,,0.012,resultados/brazo_M/principal/base_tiempos.csv
+M,SARIMA,max,2022,,0.861,resultados/brazo_M/principal/base_tiempos.csv
+M,Chronos-Bolt-tiny,max,2022,,0.134,resultados/brazo_M/principal/base_tiempos.csv
+M,Seasonal Naive,60,2023,,0,resultados/brazo_M/principal/base_tiempos.csv
+M,ETS,60,2023,,0.738,resultados/brazo_M/principal/base_tiempos.csv
+M,Theta,60,2023,,0.009,resultados/brazo_M/principal/base_tiempos.csv
+M,SARIMA,60,2023,,0.254,resultados/brazo_M/principal/base_tiempos.csv
+M,Chronos-Bolt-tiny,60,2023,,0.142,resultados/brazo_M/principal/base_tiempos.csv
+M,Seasonal Naive,120,2023,,0,resultados/brazo_M/principal/base_tiempos.csv
+M,ETS,120,2023,,0.764,resultados/brazo_M/principal/base_tiempos.csv
+M,Theta,120,2023,,0.01,resultados/brazo_M/principal/base_tiempos.csv
+M,SARIMA,120,2023,,0.567,resultados/brazo_M/principal/base_tiempos.csv
+M,Chronos-Bolt-tiny,120,2023,,0.105,resultados/brazo_M/principal/base_tiempos.csv
+M,Seasonal Naive,240,2023,,0,resultados/brazo_M/principal/base_tiempos.csv
+M,ETS,240,2023,,0.999,resultados/brazo_M/principal/base_tiempos.csv
+M,Theta,240,2023,,0.011,resultados/brazo_M/principal/base_tiempos.csv
+M,SARIMA,240,2023,,0.859,resultados/brazo_M/principal/base_tiempos.csv
+M,Chronos-Bolt-tiny,240,2023,,0.115,resultados/brazo_M/principal/base_tiempos.csv
+M,Seasonal Naive,max,2023,,0,resultados/brazo_M/principal/base_tiempos.csv
+M,ETS,max,2023,,1.009,resultados/brazo_M/principal/base_tiempos.csv
+M,Theta,max,2023,,0.009,resultados/brazo_M/principal/base_tiempos.csv
+M,SARIMA,max,2023,,0.818,resultados/brazo_M/principal/base_tiempos.csv
+M,Chronos-Bolt-tiny,max,2023,,0.136,resultados/brazo_M/principal/base_tiempos.csv
+M,Seasonal Naive,60,2024,,0,resultados/brazo_M/principal/base_tiempos.csv
+M,ETS,60,2024,,0.817,resultados/brazo_M/principal/base_tiempos.csv
+M,Theta,60,2024,,0.006,resultados/brazo_M/principal/base_tiempos.csv
+M,SARIMA,60,2024,,0.196,resultados/brazo_M/principal/base_tiempos.csv
+M,Chronos-Bolt-tiny,60,2024,,0.117,resultados/brazo_M/principal/base_tiempos.csv
+M,Seasonal Naive,120,2024,,0,resultados/brazo_M/principal/base_tiempos.csv
+M,ETS,120,2024,,0.72,resultados/brazo_M/principal/base_tiempos.csv
+M,Theta,120,2024,,0.011,resultados/brazo_M/principal/base_tiempos.csv
+M,SARIMA,120,2024,,0.545,resultados/brazo_M/principal/base_tiempos.csv
+M,Chronos-Bolt-tiny,120,2024,,0.119,resultados/brazo_M/principal/base_tiempos.csv
+M,Seasonal Naive,240,2024,,0,resultados/brazo_M/principal/base_tiempos.csv
+M,ETS,240,2024,,1.039,resultados/brazo_M/principal/base_tiempos.csv
+M,Theta,240,2024,,0.013,resultados/brazo_M/principal/base_tiempos.csv
+M,SARIMA,240,2024,,0.987,resultados/brazo_M/principal/base_tiempos.csv
+M,Chronos-Bolt-tiny,240,2024,,0.125,resultados/brazo_M/principal/base_tiempos.csv
+M,Seasonal Naive,max,2024,,0,resultados/brazo_M/principal/base_tiempos.csv
+M,ETS,max,2024,,1.114,resultados/brazo_M/principal/base_tiempos.csv
+M,Theta,max,2024,,0.012,resultados/brazo_M/principal/base_tiempos.csv
+M,SARIMA,max,2024,,1.142,resultados/brazo_M/principal/base_tiempos.csv
+M,Chronos-Bolt-tiny,max,2024,,0.162,resultados/brazo_M/principal/base_tiempos.csv
+M,Seasonal Naive,60,2025,,0,resultados/brazo_M/principal/base_tiempos.csv
+M,ETS,60,2025,,0.719,resultados/brazo_M/principal/base_tiempos.csv
+M,Theta,60,2025,,0.012,resultados/brazo_M/principal/base_tiempos.csv
+M,SARIMA,60,2025,,0.159,resultados/brazo_M/principal/base_tiempos.csv
+M,Chronos-Bolt-tiny,60,2025,,0.118,resultados/brazo_M/principal/base_tiempos.csv
+M,Seasonal Naive,120,2025,,0,resultados/brazo_M/principal/base_tiempos.csv
+M,ETS,120,2025,,0.655,resultados/brazo_M/principal/base_tiempos.csv
+M,Theta,120,2025,,0.006,resultados/brazo_M/principal/base_tiempos.csv
+M,SARIMA,120,2025,,0.588,resultados/brazo_M/principal/base_tiempos.csv
+M,Chronos-Bolt-tiny,120,2025,,0.115,resultados/brazo_M/principal/base_tiempos.csv
+M,Seasonal Naive,240,2025,,0,resultados/brazo_M/principal/base_tiempos.csv
+M,ETS,240,2025,,0.978,resultados/brazo_M/principal/base_tiempos.csv
+M,Theta,240,2025,,0.009,resultados/brazo_M/principal/base_tiempos.csv
+M,SARIMA,240,2025,,0.818,resultados/brazo_M/principal/base_tiempos.csv
+M,Chronos-Bolt-tiny,240,2025,,0.125,resultados/brazo_M/principal/base_tiempos.csv
+M,Seasonal Naive,max,2025,,0,resultados/brazo_M/principal/base_tiempos.csv
+M,ETS,max,2025,,1.137,resultados/brazo_M/principal/base_tiempos.csv
+M,Theta,max,2025,,0.01,resultados/brazo_M/principal/base_tiempos.csv
+M,SARIMA,max,2025,,1.245,resultados/brazo_M/principal/base_tiempos.csv
+M,Chronos-Bolt-tiny,max,2025,,0.131,resultados/brazo_M/principal/base_tiempos.csv

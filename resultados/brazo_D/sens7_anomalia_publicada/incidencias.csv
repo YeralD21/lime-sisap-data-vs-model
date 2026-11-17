@@ -1,0 +1,101 @@
+escenario,modelo,anio,N,n_hist,segundos,context_length_modelo,n_truncados_h1,n_pronosticos_h1,especificacion,aicc,convergio,n_fallidas,n_no_convergidas,avisos,iteraciones,warnflag,llf,fourier,params,b0,alpha,metodo_estacional,desestacionaliza
+sens7_anomalia_publicada,Chronos-Bolt-tiny,2021,1000,1000,2.21,2048.0,0.0,365.0,,,,,,,,,,,,,,,
+sens7_anomalia_publicada,Chronos-Bolt-tiny,2022,1000,1000,2.38,2048.0,0.0,365.0,,,,,,,,,,,,,,,
+sens7_anomalia_publicada,Chronos-Bolt-tiny,2023,1000,1000,2.41,2048.0,0.0,365.0,,,,,,,,,,,,,,,
+sens7_anomalia_publicada,Chronos-Bolt-tiny,2024,1000,1000,2.41,2048.0,0.0,366.0,,,,,,,,,,,,,,,
+sens7_anomalia_publicada,Chronos-Bolt-tiny,2025,1000,1000,2.07,2048.0,0.0,365.0,,,,,,,,,,,,,,,
+sens7_anomalia_publicada,Chronos-Bolt-tiny,2021,120,120,0.3,2048.0,0.0,365.0,,,,,,,,,,,,,,,
+sens7_anomalia_publicada,Chronos-Bolt-tiny,2022,120,120,0.33,2048.0,0.0,365.0,,,,,,,,,,,,,,,
+sens7_anomalia_publicada,Chronos-Bolt-tiny,2023,120,120,0.33,2048.0,0.0,365.0,,,,,,,,,,,,,,,
+sens7_anomalia_publicada,Chronos-Bolt-tiny,2024,120,120,0.33,2048.0,0.0,366.0,,,,,,,,,,,,,,,
+sens7_anomalia_publicada,Chronos-Bolt-tiny,2025,120,120,0.32,2048.0,0.0,365.0,,,,,,,,,,,,,,,
+sens7_anomalia_publicada,Chronos-Bolt-tiny,2021,360,360,0.68,2048.0,0.0,365.0,,,,,,,,,,,,,,,
+sens7_anomalia_publicada,Chronos-Bolt-tiny,2022,360,360,0.71,2048.0,0.0,365.0,,,,,,,,,,,,,,,
+sens7_anomalia_publicada,Chronos-Bolt-tiny,2023,360,360,0.72,2048.0,0.0,365.0,,,,,,,,,,,,,,,
+sens7_anomalia_publicada,Chronos-Bolt-tiny,2024,360,360,0.73,2048.0,0.0,366.0,,,,,,,,,,,,,,,
+sens7_anomalia_publicada,Chronos-Bolt-tiny,2025,360,360,0.65,2048.0,0.0,365.0,,,,,,,,,,,,,,,
+sens7_anomalia_publicada,Chronos-Bolt-tiny,2021,max,8127,9.93,2048.0,365.0,365.0,,,,,,,,,,,,,,,
+sens7_anomalia_publicada,Chronos-Bolt-tiny,2022,max,8493,11.52,2048.0,365.0,365.0,,,,,,,,,,,,,,,
+sens7_anomalia_publicada,Chronos-Bolt-tiny,2023,max,8858,3.91,2048.0,365.0,365.0,,,,,,,,,,,,,,,
+sens7_anomalia_publicada,Chronos-Bolt-tiny,2024,max,9223,4.46,2048.0,366.0,366.0,,,,,,,,,,,,,,,
+sens7_anomalia_publicada,Chronos-Bolt-tiny,2025,max,9588,4.48,2048.0,365.0,365.0,,,,,,,,,,,,,,,
+sens7_anomalia_publicada,ETS,2021,1000,1000,1.89,,,,"ETS(A,N,M)",12170.404560550416,True,0.0,0.0,,,,,,,,,,
+sens7_anomalia_publicada,ETS,2022,1000,1000,3.01,,,,"ETS(A,A,A)",12565.281104018233,True,0.0,0.0,,,,,,,,,,
+sens7_anomalia_publicada,ETS,2023,1000,1000,3.46,,,,"ETS(A,Ad,M)",12945.29970647499,True,0.0,0.0,,,,,,,,,,
+sens7_anomalia_publicada,ETS,2024,1000,1000,4.0,,,,"ETS(A,Ad,M)",12975.554876948918,True,0.0,0.0,,,,,,,,,,
+sens7_anomalia_publicada,ETS,2025,1000,1000,3.46,,,,"ETS(A,Ad,M)",12732.449537450631,True,0.0,0.0,,,,,,,,,,
+sens7_anomalia_publicada,ETS,2021,120,120,1.64,,,,"ETS(A,N,M)",1469.5791873726243,True,0.0,0.0,,,,,,,,,,
+sens7_anomalia_publicada,ETS,2022,120,120,1.85,,,,"ETS(A,N,A)",1607.0390246309366,True,0.0,1.0,,,,,,,,,,
+sens7_anomalia_publicada,ETS,2023,120,120,2.02,,,,"ETS(A,A,M)",1563.6696013154717,True,0.0,0.0,,,,,,,,,,
+sens7_anomalia_publicada,ETS,2024,120,120,2.06,,,,"ETS(A,N,M)",1473.0328088934912,True,0.0,0.0,,,,,,,,,,
+sens7_anomalia_publicada,ETS,2025,120,120,1.92,,,,"ETS(M,Ad,M)",1460.45584926514,True,0.0,0.0,,,,,,,,,,
+sens7_anomalia_publicada,ETS,2021,360,360,2.28,,,,"ETS(A,Ad,M)",4329.6246049359515,True,0.0,0.0,,,,,,,,,,
+sens7_anomalia_publicada,ETS,2022,360,360,2.92,,,,"ETS(A,Ad,M)",4707.854470749839,True,0.0,0.0,,,,,,,,,,
+sens7_anomalia_publicada,ETS,2023,360,360,2.38,,,,"ETS(A,N,A)",4754.37316975938,True,0.0,0.0,,,,,,,,,,
+sens7_anomalia_publicada,ETS,2024,360,360,1.69,,,,"ETS(M,N,M)",4434.542841513752,True,0.0,0.0,,,,,,,,,,
+sens7_anomalia_publicada,ETS,2025,360,360,1.63,,,,"ETS(A,Ad,M)",4672.027301794624,True,0.0,0.0,,,,,,,,,,
+sens7_anomalia_publicada,ETS,2021,max,8127,10.16,,,,"ETS(A,N,A)",94504.56536767527,True,0.0,0.0,,,,,,,,,,
+sens7_anomalia_publicada,ETS,2022,max,8493,10.2,,,,"ETS(A,N,A)",99861.49037375339,True,0.0,1.0,,,,,,,,,,
+sens7_anomalia_publicada,ETS,2023,max,8858,9.49,,,,"ETS(A,Ad,A)",105384.10394247438,True,0.0,0.0,,,,,,,,,,
+sens7_anomalia_publicada,ETS,2024,max,9223,11.1,,,,"ETS(A,Ad,A)",110047.1676754132,True,0.0,0.0,,,,,,,,,,
+sens7_anomalia_publicada,ETS,2025,max,9588,18.25,,,,"ETS(A,Ad,A)",115052.14931979496,True,0.0,0.0,,,,,,,,,,
+sens7_anomalia_publicada,SARIMA,2021,1000,1000,1.43,,,,,,True,,,,21.0,0.0,-694.1882697920437,True,x1=0.223558;x2=-0.170623;x3=0.014833;x4=0.0287767;x5=-0.0427535;x6=0.0161717;ar.L1=0.211105;ma.L1=-0.178628;ma.S.L7=-0.666209;sigma2=0.204292,,,,
+sens7_anomalia_publicada,SARIMA,2022,1000,1000,2.47,,,,,,True,,,,30.0,0.0,-1059.433797273448,True,x1=0.255072;x2=-0.0541409;x3=-0.127734;x4=0.0370077;x5=-0.0322604;x6=0.0129548;ar.L1=-0.514771;ma.L1=0.461208;ma.S.L7=-0.669943;sigma2=0.426636,,,,
+sens7_anomalia_publicada,SARIMA,2023,1000,1000,1.41,,,,,,True,,,,19.0,0.0,-1154.4599034745793,True,x1=0.227358;x2=0.0475741;x3=-0.113154;x4=-0.00114512;x5=0.00843764;x6=0.0210696;ar.L1=0.334209;ma.L1=-0.293207;ma.S.L7=-0.748439;sigma2=0.516244,,,,
+sens7_anomalia_publicada,SARIMA,2024,1000,1000,1.39,,,,,,True,,,,19.0,0.0,-1163.5001152963446,True,x1=0.0925846;x2=0.0904393;x3=-0.0699283;x4=-0.0755543;x5=-0.0257575;x6=-0.006344;ar.L1=0.283224;ma.L1=-0.237031;ma.S.L7=-0.816149;sigma2=0.524777,,,,
+sens7_anomalia_publicada,SARIMA,2025,1000,1000,1.56,,,,,,True,,,,20.0,0.0,-1034.6656046938028,True,x1=0.0408671;x2=-0.0378632;x3=-0.0154995;x4=-0.0642077;x5=0.0173215;x6=-0.0546729;ar.L1=0.161881;ma.L1=-0.121221;ma.S.L7=-0.897039;sigma2=0.403158,,,,
+sens7_anomalia_publicada,SARIMA,2021,120,120,0.58,,,,,,True,,,,91.0,0.0,-170.47287212185722,False,ar.L1=0.0637996;ma.L1=-19.5579;ma.S.L7=-0.800703;sigma2=0.000831093,,,,
+sens7_anomalia_publicada,SARIMA,2022,120,120,0.11,,,,,,True,,,,13.0,0.0,-227.81965733196975,False,ar.L1=-0.0374398;ma.L1=0.0738033;ma.S.L7=-0.635874;sigma2=0.924333,,,,
+sens7_anomalia_publicada,SARIMA,2023,120,120,0.14,,,,,,True,,,,17.0,0.0,-186.8790262027609,False,ar.L1=-0.0636278;ma.L1=0.0130277;ma.S.L7=-0.792498;sigma2=0.429112,,,,
+sens7_anomalia_publicada,SARIMA,2024,120,120,0.12,,,,,,True,,,,13.0,0.0,-190.69928904899785,False,ar.L1=0.464517;ma.L1=-0.313566;ma.S.L7=-0.868302;sigma2=0.445954,,,,
+sens7_anomalia_publicada,SARIMA,2025,120,120,0.16,,,,,,True,,,,18.0,0.0,-181.38693476308865,False,ar.L1=0.8299;ma.L1=-0.673384;ma.S.L7=-1.00001;sigma2=0.339621,,,,
+sens7_anomalia_publicada,SARIMA,2021,360,360,0.22,,,,,,True,,,,17.0,0.0,-317.17955425669425,False,ar.L1=0.773481;ma.L1=-0.719953;ma.S.L7=-0.780688;sigma2=0.229792,,,,
+sens7_anomalia_publicada,SARIMA,2022,360,360,0.11,,,,,,True,,,,6.0,0.0,-521.714905993528,False,ar.L1=0.169937;ma.L1=-0.166812;ma.S.L7=-0.579447;sigma2=0.7492,,,,
+sens7_anomalia_publicada,SARIMA,2023,360,360,0.21,,,,,,True,,,,12.0,0.0,-422.0497182209973,False,ar.L1=0.364119;ma.L1=-0.177861;ma.S.L7=-0.849858;sigma2=0.417013,,,,
+sens7_anomalia_publicada,SARIMA,2024,360,360,0.27,,,,,,True,,,,16.0,0.0,-389.190745875688,False,ar.L1=0.369106;ma.L1=-0.242284;ma.S.L7=-0.850488;sigma2=0.345747,,,,
+sens7_anomalia_publicada,SARIMA,2025,360,360,0.46,,,,,,True,,,,22.0,0.0,-445.8614341058698,False,ar.L1=0.947259;ma.L1=-0.894917;ma.S.L7=-1.00001;sigma2=0.447421,,,,
+sens7_anomalia_publicada,SARIMA,2021,max,8127,9.23,,,,,,True,,,,17.0,0.0,-6644.511032236431,True,x1=0.184222;x2=-0.145355;x3=0.0102088;x4=-0.0352645;x5=-0.0145741;x6=-0.00695503;ar.L1=0.393377;ma.L1=-0.301253;ma.S.L7=-0.779696;sigma2=0.295312,,,,
+sens7_anomalia_publicada,SARIMA,2022,max,8493,9.3,,,,,,True,,,,17.0,0.0,-7236.950943773527,True,x1=0.188782;x2=-0.138622;x3=-0.00125255;x4=-0.0353059;x5=-0.0130847;x6=-0.00750499;ar.L1=0.420336;ma.L1=-0.339379;ma.S.L7=-0.760431;sigma2=0.316693,,,,
+sens7_anomalia_publicada,SARIMA,2023,max,8858,10.64,,,,,,True,,,,18.0,0.0,-7625.780498153958,True,x1=0.186685;x2=-0.129015;x3=-0.00210107;x4=-0.036407;x5=-0.0110904;x6=-0.00711714;ar.L1=0.405599;ma.L1=-0.320365;ma.S.L7=-0.77063;sigma2=0.32252,,,,
+sens7_anomalia_publicada,SARIMA,2024,max,9223,11.0,,,,,,True,,,,19.0,0.0,-7976.16639601649,True,x1=0.180523;x2=-0.121393;x3=-0.00462494;x4=-0.0394014;x5=-0.0134798;x6=-0.00719314;ar.L1=0.402463;ma.L1=-0.316615;ma.S.L7=-0.771447;sigma2=0.325259,,,,
+sens7_anomalia_publicada,SARIMA,2025,max,9588,11.41,,,,,,True,,,,17.0,0.0,-8408.387920332221,True,x1=0.173223;x2=-0.124993;x3=-0.00288449;x4=-0.0400094;x5=-0.00975084;x6=-0.0121914;ar.L1=0.400783;ma.L1=-0.3182;ma.S.L7=-0.781568;sigma2=0.333452,,,,
+sens7_anomalia_publicada,Seasonal Naive,2021,1000,1000,0.0,,,,,,,,,,,,,,,,,,
+sens7_anomalia_publicada,Seasonal Naive,2022,1000,1000,0.0,,,,,,,,,,,,,,,,,,
+sens7_anomalia_publicada,Seasonal Naive,2023,1000,1000,0.0,,,,,,,,,,,,,,,,,,
+sens7_anomalia_publicada,Seasonal Naive,2024,1000,1000,0.0,,,,,,,,,,,,,,,,,,
+sens7_anomalia_publicada,Seasonal Naive,2025,1000,1000,0.0,,,,,,,,,,,,,,,,,,
+sens7_anomalia_publicada,Seasonal Naive,2021,120,120,0.0,,,,,,,,,,,,,,,,,,
+sens7_anomalia_publicada,Seasonal Naive,2022,120,120,0.0,,,,,,,,,,,,,,,,,,
+sens7_anomalia_publicada,Seasonal Naive,2023,120,120,0.0,,,,,,,,,,,,,,,,,,
+sens7_anomalia_publicada,Seasonal Naive,2024,120,120,0.0,,,,,,,,,,,,,,,,,,
+sens7_anomalia_publicada,Seasonal Naive,2025,120,120,0.0,,,,,,,,,,,,,,,,,,
+sens7_anomalia_publicada,Seasonal Naive,2021,360,360,0.0,,,,,,,,,,,,,,,,,,
+sens7_anomalia_publicada,Seasonal Naive,2022,360,360,0.0,,,,,,,,,,,,,,,,,,
+sens7_anomalia_publicada,Seasonal Naive,2023,360,360,0.0,,,,,,,,,,,,,,,,,,
+sens7_anomalia_publicada,Seasonal Naive,2024,360,360,0.0,,,,,,,,,,,,,,,,,,
+sens7_anomalia_publicada,Seasonal Naive,2025,360,360,0.0,,,,,,,,,,,,,,,,,,
+sens7_anomalia_publicada,Seasonal Naive,2021,max,8127,0.0,,,,,,,,,,,,,,,,,,
+sens7_anomalia_publicada,Seasonal Naive,2022,max,8493,0.0,,,,,,,,,,,,,,,,,,
+sens7_anomalia_publicada,Seasonal Naive,2023,max,8858,0.0,,,,,,,,,,,,,,,,,,
+sens7_anomalia_publicada,Seasonal Naive,2024,max,9223,0.0,,,,,,,,,,,,,,,,,,
+sens7_anomalia_publicada,Seasonal Naive,2025,max,9588,0.0,,,,,,,,,,,,,,,,,,
+sens7_anomalia_publicada,Theta,2021,1000,1000,0.03,,,,,,,,,,,,,,,-0.001887575627183137,0.07750427421429786,mul,True
+sens7_anomalia_publicada,Theta,2022,1000,1000,0.03,,,,,,,,,,,,,,,0.0025256139739940867,0.05051489029293384,mul,True
+sens7_anomalia_publicada,Theta,2023,1000,1000,0.03,,,,,,,,,,,,,,,-0.03414247433650115,0.024348624791825535,mul,True
+sens7_anomalia_publicada,Theta,2024,1000,1000,0.03,,,,,,,,,,,,,,,-0.13711155655531593,0.015539544112137113,mul,True
+sens7_anomalia_publicada,Theta,2025,1000,1000,0.04,,,,,,,,,,,,,,,-0.006925348308841621,0.01711138570296075,mul,True
+sens7_anomalia_publicada,Theta,2021,120,120,0.01,,,,,,,,,,,,,,,-0.3535546328942844,0.08485577514368836,mul,True
+sens7_anomalia_publicada,Theta,2022,120,120,0.01,,,,,,,,,,,,,,,12.98494636964468,0.05212924891829466,mul,True
+sens7_anomalia_publicada,Theta,2023,120,120,0.01,,,,,,,,,,,,,,,5.596264990104622,0.020402999408365086,mul,True
+sens7_anomalia_publicada,Theta,2024,120,120,0.01,,,,,,,,,,,,,,,1.8804986606991754,0.03601834203383894,mul,True
+sens7_anomalia_publicada,Theta,2025,120,120,0.01,,,,,,,,,,,,,,,2.1183653649325476,0.09561079090846442,mul,True
+sens7_anomalia_publicada,Theta,2021,360,360,0.18,,,,,,,,,,,,,,,-0.06755909712970502,0.07167115956235168,mul,True
+sens7_anomalia_publicada,Theta,2022,360,360,0.01,,,,,,,,,,,,,,,0.19510677934658727,0.1563250245042716,mul,True
+sens7_anomalia_publicada,Theta,2023,360,360,0.01,,,,,,,,,,,,,,,0.8693935907250543,0.035764782493282535,mul,True
+sens7_anomalia_publicada,Theta,2024,360,360,0.02,,,,,,,,,,,,,,,-0.25419413577037325,0.055979470350072946,mul,True
+sens7_anomalia_publicada,Theta,2025,360,360,0.02,,,,,,,,,,,,,,,-0.6092225997832544,0.00746050524266889,mul,True
+sens7_anomalia_publicada,Theta,2021,max,8127,0.32,,,,,,,,,,,,,,,0.038619866462511726,0.04644164040884188,mul,True
+sens7_anomalia_publicada,Theta,2022,max,8493,0.13,,,,,,,,,,,,,,,0.038838551011540816,0.045724154812809024,mul,True
+sens7_anomalia_publicada,Theta,2023,max,8858,0.16,,,,,,,,,,,,,,,0.03718515150284227,0.04370015644129938,mul,True
+sens7_anomalia_publicada,Theta,2024,max,9223,0.16,,,,,,,,,,,,,,,0.034157285088331026,0.043281432221534945,mul,True
+sens7_anomalia_publicada,Theta,2025,max,9588,0.15,,,,,,,,,,,,,,,0.03194555195446849,0.04183813492826306,mul,True

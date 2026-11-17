@@ -1,0 +1,253 @@
+brazo,escenario,modelo,N,h,n,n_negativos,minimo
+M,principal,Chronos-Bolt-tiny,120,1,60,0,10556.6
+M,principal,Chronos-Bolt-tiny,240,1,60,0,10073
+M,principal,Chronos-Bolt-tiny,60,1,60,0,9619.92
+M,principal,Chronos-Bolt-tiny,max,1,60,0,10169.1
+M,principal,DualLSTM,120,1,600,0,12010.1
+M,principal,DualLSTM,240,1,600,0,11125.7
+M,principal,DualLSTM,60,1,600,0,11174.9
+M,principal,DualLSTM,max,1,600,0,10777.9
+M,principal,ETS,120,1,60,0,10975.7
+M,principal,ETS,240,1,60,0,11399.6
+M,principal,ETS,60,1,60,0,10622.5
+M,principal,ETS,max,1,60,0,10478.1
+M,principal,LSTM univariada,120,1,600,0,9775.2
+M,principal,LSTM univariada,240,1,600,0,8029.84
+M,principal,LSTM univariada,60,1,600,0,11915.1
+M,principal,LSTM univariada,max,1,600,0,8025.59
+M,principal,SARIMA,120,1,60,0,10466.1
+M,principal,SARIMA,240,1,60,0,10743.8
+M,principal,SARIMA,60,1,60,0,5692.13
+M,principal,SARIMA,max,1,60,0,10705.9
+M,principal,Seasonal Naive,120,1,60,0,7975
+M,principal,Seasonal Naive,240,1,60,0,7975
+M,principal,Seasonal Naive,60,1,60,0,7975
+M,principal,Seasonal Naive,max,1,60,0,7975
+M,principal,Theta,120,1,60,0,10716.9
+M,principal,Theta,240,1,60,0,10753.5
+M,principal,Theta,60,1,60,0,10624.9
+M,principal,Theta,max,1,60,0,9861.4
+M,sens1_estricto,Chronos-Bolt-tiny,120,1,60,0,11781.7
+M,sens1_estricto,Chronos-Bolt-tiny,240,1,60,0,11213.3
+M,sens1_estricto,Chronos-Bolt-tiny,60,1,60,0,10991
+M,sens1_estricto,Chronos-Bolt-tiny,max,1,60,0,11408.3
+M,sens1_estricto,DualLSTM,120,1,600,0,13287.1
+M,sens1_estricto,DualLSTM,240,1,600,0,11932.3
+M,sens1_estricto,DualLSTM,60,1,600,0,12087.7
+M,sens1_estricto,DualLSTM,max,1,600,0,11572.5
+M,sens1_estricto,ETS,120,1,60,0,12159.3
+M,sens1_estricto,ETS,240,1,60,0,12175.5
+M,sens1_estricto,ETS,60,1,60,0,11997.7
+M,sens1_estricto,ETS,max,1,60,0,11669.9
+M,sens1_estricto,LSTM univariada,120,1,600,0,11802.5
+M,sens1_estricto,LSTM univariada,240,1,600,0,10835.2
+M,sens1_estricto,LSTM univariada,60,1,600,0,11525.7
+M,sens1_estricto,LSTM univariada,max,1,600,0,11480.6
+M,sens1_estricto,SARIMA,120,1,60,0,11313.6
+M,sens1_estricto,SARIMA,240,1,60,0,11260.9
+M,sens1_estricto,SARIMA,60,1,60,0,9617.9
+M,sens1_estricto,SARIMA,max,1,60,0,11421.1
+M,sens1_estricto,Seasonal Naive,120,1,60,0,8537
+M,sens1_estricto,Seasonal Naive,240,1,60,0,8537
+M,sens1_estricto,Seasonal Naive,60,1,60,0,8537
+M,sens1_estricto,Seasonal Naive,max,1,60,0,8537
+M,sens1_estricto,Theta,120,1,60,0,12159.5
+M,sens1_estricto,Theta,240,1,60,0,12187
+M,sens1_estricto,Theta,60,1,60,0,11652.9
+M,sens1_estricto,Theta,max,1,60,0,11279.1
+M,sens7_anomalia_publicada,Chronos-Bolt-tiny,120,1,60,0,10544.5
+M,sens7_anomalia_publicada,Chronos-Bolt-tiny,240,1,60,0,10052
+M,sens7_anomalia_publicada,Chronos-Bolt-tiny,60,1,60,0,9675.73
+M,sens7_anomalia_publicada,Chronos-Bolt-tiny,max,1,60,0,10141.7
+M,sens7_anomalia_publicada,DualLSTM,120,1,600,0,11973.7
+M,sens7_anomalia_publicada,DualLSTM,240,1,600,0,11115.9
+M,sens7_anomalia_publicada,DualLSTM,60,1,600,0,11181.4
+M,sens7_anomalia_publicada,DualLSTM,max,1,600,0,10776
+M,sens7_anomalia_publicada,ETS,120,1,60,0,11013.5
+M,sens7_anomalia_publicada,ETS,240,1,60,0,11405.9
+M,sens7_anomalia_publicada,ETS,60,1,60,0,10637.9
+M,sens7_anomalia_publicada,ETS,max,1,60,0,10502.6
+M,sens7_anomalia_publicada,LSTM univariada,120,1,600,0,9779.25
+M,sens7_anomalia_publicada,LSTM univariada,240,1,600,0,8019.37
+M,sens7_anomalia_publicada,LSTM univariada,60,1,600,0,11850.4
+M,sens7_anomalia_publicada,LSTM univariada,max,1,600,0,7968.71
+M,sens7_anomalia_publicada,SARIMA,120,1,60,0,10469.3
+M,sens7_anomalia_publicada,SARIMA,240,1,60,0,10698.6
+M,sens7_anomalia_publicada,SARIMA,60,1,60,0,5785.06
+M,sens7_anomalia_publicada,SARIMA,max,1,60,0,10708.6
+M,sens7_anomalia_publicada,Seasonal Naive,120,1,60,0,7975
+M,sens7_anomalia_publicada,Seasonal Naive,240,1,60,0,7975
+M,sens7_anomalia_publicada,Seasonal Naive,60,1,60,0,7975
+M,sens7_anomalia_publicada,Seasonal Naive,max,1,60,0,7975
+M,sens7_anomalia_publicada,Theta,120,1,60,0,10743
+M,sens7_anomalia_publicada,Theta,240,1,60,0,10783.2
+M,sens7_anomalia_publicada,Theta,60,1,60,0,10616.3
+M,sens7_anomalia_publicada,Theta,max,1,60,0,9865.73
+D,principal,Chronos-Bolt-tiny,1000,1,1826,0,110.603
+D,principal,Chronos-Bolt-tiny,1000,7,1826,0,97.3521
+D,principal,Chronos-Bolt-tiny,120,1,1826,0,145.18
+D,principal,Chronos-Bolt-tiny,120,7,1826,0,139.332
+D,principal,Chronos-Bolt-tiny,360,1,1826,0,128.288
+D,principal,Chronos-Bolt-tiny,360,7,1826,0,122.094
+D,principal,Chronos-Bolt-tiny,max,1,1826,0,123.902
+D,principal,Chronos-Bolt-tiny,max,7,1826,0,102.218
+D,principal,DualLSTM,1000,1,18260,321,-158.902
+D,principal,DualLSTM,1000,7,18260,443,-197.709
+D,principal,DualLSTM,120,1,18260,620,-296.128
+D,principal,DualLSTM,120,7,18260,283,-483.361
+D,principal,DualLSTM,360,1,18260,370,-145.344
+D,principal,DualLSTM,360,7,18260,559,-213.93
+D,principal,DualLSTM,max,1,18260,81,-67.7512
+D,principal,DualLSTM,max,7,18260,114,-49.4347
+D,principal,ETS,1000,1,1826,11,-11.9559
+D,principal,ETS,1000,7,1826,7,-5.70792
+D,principal,ETS,120,1,1826,125,-4348.53
+D,principal,ETS,120,7,1826,131,-5118.79
+D,principal,ETS,360,1,1826,8,-31.6536
+D,principal,ETS,360,7,1826,8,-27.4296
+D,principal,ETS,max,1,1826,66,-45.5518
+D,principal,ETS,max,7,1826,55,-40.3058
+D,principal,LSTM univariada,1000,1,18260,306,-64.3668
+D,principal,LSTM univariada,1000,7,18260,57,-31.21
+D,principal,LSTM univariada,120,1,18260,503,-337.672
+D,principal,LSTM univariada,120,7,18260,34,-35.2433
+D,principal,LSTM univariada,360,1,18260,245,-101.332
+D,principal,LSTM univariada,360,7,18260,27,-28.3134
+D,principal,LSTM univariada,max,1,18260,261,-41.6957
+D,principal,LSTM univariada,max,7,18260,3,-5.20364
+D,principal,SARIMA,1000,1,1826,0,1.96922
+D,principal,SARIMA,1000,7,1826,0,2.12184
+D,principal,SARIMA,120,1,1826,0,2.02136
+D,principal,SARIMA,120,7,1826,0,1.91429
+D,principal,SARIMA,360,1,1826,0,1.81211
+D,principal,SARIMA,360,7,1826,0,1.80324
+D,principal,SARIMA,max,1,1826,0,2.59832
+D,principal,SARIMA,max,7,1826,0,2.63939
+D,principal,Seasonal Naive,1000,1,1826,0,1
+D,principal,Seasonal Naive,1000,7,1826,0,1
+D,principal,Seasonal Naive,120,1,1826,0,1
+D,principal,Seasonal Naive,120,7,1826,0,1
+D,principal,Seasonal Naive,360,1,1826,0,1
+D,principal,Seasonal Naive,360,7,1826,0,1
+D,principal,Seasonal Naive,max,1,1826,0,1
+D,principal,Seasonal Naive,max,7,1826,0,1
+D,principal,Theta,1000,1,1826,0,13.0658
+D,principal,Theta,1000,7,1826,0,12.7926
+D,principal,Theta,120,1,1826,0,10.1185
+D,principal,Theta,120,7,1826,0,10.2198
+D,principal,Theta,360,1,1826,0,6.1713
+D,principal,Theta,360,7,1826,0,6.07523
+D,principal,Theta,max,1,1826,0,22.607
+D,principal,Theta,max,7,1826,0,21.7178
+D,sens1_estricto,Chronos-Bolt-tiny,1000,1,1826,0,146.879
+D,sens1_estricto,Chronos-Bolt-tiny,120,1,1826,0,188.322
+D,sens1_estricto,Chronos-Bolt-tiny,360,1,1826,0,161.815
+D,sens1_estricto,Chronos-Bolt-tiny,max,1,1826,0,151.147
+D,sens1_estricto,DualLSTM,1000,1,18260,165,-120.599
+D,sens1_estricto,DualLSTM,120,1,18260,413,-163.408
+D,sens1_estricto,DualLSTM,360,1,18260,171,-145.24
+D,sens1_estricto,DualLSTM,max,1,18260,19,-42.1698
+D,sens1_estricto,ETS,1000,1,1826,7,-12.2987
+D,sens1_estricto,ETS,120,1,1826,0,3.11595
+D,sens1_estricto,ETS,360,1,1826,0,3.60878
+D,sens1_estricto,ETS,max,1,1826,33,-36.4472
+D,sens1_estricto,LSTM univariada,1000,1,18260,95,-43.4577
+D,sens1_estricto,LSTM univariada,120,1,18260,454,-252.197
+D,sens1_estricto,LSTM univariada,360,1,18260,88,-119.786
+D,sens1_estricto,LSTM univariada,max,1,18260,161,-39.3831
+D,sens1_estricto,SARIMA,1000,1,1826,0,2.83225
+D,sens1_estricto,SARIMA,120,1,1826,0,2.21248
+D,sens1_estricto,SARIMA,360,1,1826,0,2.53647
+D,sens1_estricto,SARIMA,max,1,1826,0,2.85198
+D,sens1_estricto,Seasonal Naive,1000,1,1826,0,2
+D,sens1_estricto,Seasonal Naive,120,1,1826,0,2
+D,sens1_estricto,Seasonal Naive,360,1,1826,0,2
+D,sens1_estricto,Seasonal Naive,max,1,1826,0,2
+D,sens1_estricto,Theta,1000,1,1826,0,21.0584
+D,sens1_estricto,Theta,120,1,1826,0,11.2953
+D,sens1_estricto,Theta,360,1,1826,0,4.57634
+D,sens1_estricto,Theta,max,1,1826,0,34.7388
+D,sens2_bolsa,Chronos-Bolt-tiny,1000,1,1826,0,85.1105
+D,sens2_bolsa,Chronos-Bolt-tiny,120,1,1826,0,113.705
+D,sens2_bolsa,Chronos-Bolt-tiny,360,1,1826,0,103.619
+D,sens2_bolsa,Chronos-Bolt-tiny,max,1,1826,0,94.9524
+D,sens2_bolsa,DualLSTM,1000,1,18260,205,-97.7654
+D,sens2_bolsa,DualLSTM,120,1,18260,526,-158.797
+D,sens2_bolsa,DualLSTM,360,1,18260,457,-124.287
+D,sens2_bolsa,DualLSTM,max,1,18260,79,-23.8043
+D,sens2_bolsa,ETS,1000,1,1826,0,3.20329
+D,sens2_bolsa,ETS,120,1,1826,1,-0.280422
+D,sens2_bolsa,ETS,360,1,1826,26,-34.3132
+D,sens2_bolsa,ETS,max,1,1826,40,-40.2711
+D,sens2_bolsa,LSTM univariada,1000,1,18260,386,-95.7147
+D,sens2_bolsa,LSTM univariada,120,1,18260,573,-311.286
+D,sens2_bolsa,LSTM univariada,360,1,18260,374,-242.188
+D,sens2_bolsa,LSTM univariada,max,1,18260,109,-39.5683
+D,sens2_bolsa,SARIMA,1000,1,1826,0,1.64887
+D,sens2_bolsa,SARIMA,120,1,1826,0,1.51958
+D,sens2_bolsa,SARIMA,360,1,1826,0,1.6553
+D,sens2_bolsa,SARIMA,max,1,1826,0,2.20552
+D,sens2_bolsa,Seasonal Naive,1000,1,1826,0,1
+D,sens2_bolsa,Seasonal Naive,120,1,1826,0,1
+D,sens2_bolsa,Seasonal Naive,360,1,1826,0,1
+D,sens2_bolsa,Seasonal Naive,max,1,1826,0,1
+D,sens2_bolsa,Theta,1000,1,1826,0,9.30087
+D,sens2_bolsa,Theta,120,1,1826,0,7.23395
+D,sens2_bolsa,Theta,360,1,1826,0,4.48416
+D,sens2_bolsa,Theta,max,1,1826,0,22.1053
+D,sens6_desde2006,Chronos-Bolt-tiny,1000,1,1826,0,110.603
+D,sens6_desde2006,Chronos-Bolt-tiny,120,1,1826,0,145.18
+D,sens6_desde2006,Chronos-Bolt-tiny,360,1,1826,0,128.288
+D,sens6_desde2006,Chronos-Bolt-tiny,max,1,1826,0,123.902
+D,sens6_desde2006,DualLSTM,1000,1,18260,321,-158.902
+D,sens6_desde2006,DualLSTM,120,1,18260,620,-296.128
+D,sens6_desde2006,DualLSTM,360,1,18260,370,-145.344
+D,sens6_desde2006,DualLSTM,max,1,18260,186,-61.7448
+D,sens6_desde2006,ETS,1000,1,1826,11,-11.9559
+D,sens6_desde2006,ETS,120,1,1826,125,-4348.53
+D,sens6_desde2006,ETS,360,1,1826,8,-31.6536
+D,sens6_desde2006,ETS,max,1,1826,53,-36.5439
+D,sens6_desde2006,LSTM univariada,1000,1,18260,306,-64.3668
+D,sens6_desde2006,LSTM univariada,120,1,18260,503,-337.672
+D,sens6_desde2006,LSTM univariada,360,1,18260,245,-101.332
+D,sens6_desde2006,LSTM univariada,max,1,18260,330,-72.6578
+D,sens6_desde2006,SARIMA,1000,1,1826,0,1.96919
+D,sens6_desde2006,SARIMA,120,1,1826,0,2.02136
+D,sens6_desde2006,SARIMA,360,1,1826,0,1.81211
+D,sens6_desde2006,SARIMA,max,1,1826,0,2.54731
+D,sens6_desde2006,Seasonal Naive,1000,1,1826,0,1
+D,sens6_desde2006,Seasonal Naive,120,1,1826,0,1
+D,sens6_desde2006,Seasonal Naive,360,1,1826,0,1
+D,sens6_desde2006,Seasonal Naive,max,1,1826,0,1
+D,sens6_desde2006,Theta,1000,1,1826,0,13.0658
+D,sens6_desde2006,Theta,120,1,1826,0,10.1185
+D,sens6_desde2006,Theta,360,1,1826,0,6.1713
+D,sens6_desde2006,Theta,max,1,1826,0,20.4525
+D,sens7_anomalia_publicada,Chronos-Bolt-tiny,1000,1,1826,0,110.528
+D,sens7_anomalia_publicada,Chronos-Bolt-tiny,120,1,1826,0,145.18
+D,sens7_anomalia_publicada,Chronos-Bolt-tiny,360,1,1826,0,128.288
+D,sens7_anomalia_publicada,Chronos-Bolt-tiny,max,1,1826,0,124.017
+D,sens7_anomalia_publicada,DualLSTM,1000,1,18260,350,-158.902
+D,sens7_anomalia_publicada,DualLSTM,120,1,18260,617,-296.128
+D,sens7_anomalia_publicada,DualLSTM,360,1,18260,389,-149.315
+D,sens7_anomalia_publicada,DualLSTM,max,1,18260,58,-31.5452
+D,sens7_anomalia_publicada,ETS,1000,1,1826,11,-11.956
+D,sens7_anomalia_publicada,ETS,120,1,1826,125,-4348.53
+D,sens7_anomalia_publicada,ETS,360,1,1826,8,-31.9073
+D,sens7_anomalia_publicada,ETS,max,1,1826,68,-46.5838
+D,sens7_anomalia_publicada,LSTM univariada,1000,1,18260,320,-101.665
+D,sens7_anomalia_publicada,LSTM univariada,120,1,18260,503,-337.672
+D,sens7_anomalia_publicada,LSTM univariada,360,1,18260,235,-73.7686
+D,sens7_anomalia_publicada,LSTM univariada,max,1,18260,279,-64.1036
+D,sens7_anomalia_publicada,SARIMA,1000,1,1826,0,1.96922
+D,sens7_anomalia_publicada,SARIMA,120,1,1826,0,2.02136
+D,sens7_anomalia_publicada,SARIMA,360,1,1826,0,1.81211
+D,sens7_anomalia_publicada,SARIMA,max,1,1826,0,2.59832
+D,sens7_anomalia_publicada,Seasonal Naive,1000,1,1826,0,1
+D,sens7_anomalia_publicada,Seasonal Naive,120,1,1826,0,1
+D,sens7_anomalia_publicada,Seasonal Naive,360,1,1826,0,1
+D,sens7_anomalia_publicada,Seasonal Naive,max,1,1826,0,1
+D,sens7_anomalia_publicada,Theta,1000,1,1826,0,13.0491
+D,sens7_anomalia_publicada,Theta,120,1,1826,0,10.1185
+D,sens7_anomalia_publicada,Theta,360,1,1826,0,6.13854
+D,sens7_anomalia_publicada,Theta,max,1,1826,0,22.6113

@@ -1,0 +1,81 @@
+escenario,anio,N,modelo,tipo,valor,detalle
+principal,2021,60,ETS,ets_seleccion,"ETS(A,N,M)",aicc=1094.5457; convergio=True; n_especificaciones=12; n_fallidas=0; n_no_convergidas=0
+principal,2021,60,Theta,theta_parametros,mul,alpha=0.564788; b0=52.942457; desestacionaliza=True
+principal,2021,60,SARIMA,sarima_convergencia,True,aic=1161.5899; avisos=ninguno
+principal,2021,60,Chronos-Bolt-tiny,chronos_contexto,60,contexto_solicitado=60; contexto_usado=60; truncado=False
+principal,2021,120,ETS,ets_seleccion,"ETS(M,N,M)",aicc=2072.9355; convergio=True; n_especificaciones=12; n_fallidas=0; n_no_convergidas=0
+principal,2021,120,Theta,theta_parametros,mul,alpha=0.527880; b0=58.172283; desestacionaliza=True
+principal,2021,120,SARIMA,sarima_convergencia,True,aic=2158.3655; avisos=ninguno
+principal,2021,120,Chronos-Bolt-tiny,chronos_contexto,120,contexto_solicitado=120; contexto_usado=120; truncado=False
+principal,2021,240,ETS,ets_seleccion,"ETS(M,N,M)",aicc=3984.1793; convergio=True; n_especificaciones=12; n_fallidas=0; n_no_convergidas=0
+principal,2021,240,Theta,theta_parametros,mul,alpha=0.545649; b0=38.048525; desestacionaliza=True
+principal,2021,240,SARIMA,sarima_convergencia,True,aic=4111.9283; avisos=ninguno
+principal,2021,240,Chronos-Bolt-tiny,chronos_contexto,240,contexto_solicitado=240; contexto_usado=240; truncado=False
+principal,2021,max,ETS,ets_seleccion,"ETS(A,N,M)",aicc=4472.1439; convergio=True; n_especificaciones=12; n_fallidas=0; n_no_convergidas=0
+principal,2021,max,Theta,theta_parametros,mul,alpha=0.670197; b0=35.168505; desestacionaliza=True
+principal,2021,max,SARIMA,sarima_convergencia,True,aic=4565.0384; avisos=ninguno
+principal,2021,max,Chronos-Bolt-tiny,chronos_contexto,267,contexto_solicitado=267; contexto_usado=267; truncado=False
+principal,2022,60,ETS,ets_seleccion,"ETS(A,N,A)",aicc=1091.2341; convergio=True; n_especificaciones=12; n_fallidas=0; n_no_convergidas=0
+principal,2022,60,Theta,theta_parametros,mul,alpha=0.674796; b0=59.723370; desestacionaliza=True
+principal,2022,60,SARIMA,sarima_convergencia,True,aic=1211.9469; avisos=ninguno
+principal,2022,60,Chronos-Bolt-tiny,chronos_contexto,60,contexto_solicitado=60; contexto_usado=60; truncado=False
+principal,2022,120,ETS,ets_seleccion,"ETS(M,N,M)",aicc=2090.5159; convergio=True; n_especificaciones=12; n_fallidas=0; n_no_convergidas=0
+principal,2022,120,Theta,theta_parametros,mul,alpha=0.519204; b0=64.719717; desestacionaliza=True
+principal,2022,120,SARIMA,sarima_convergencia,True,aic=2167.9906; avisos=ninguno
+principal,2022,120,Chronos-Bolt-tiny,chronos_contexto,120,contexto_solicitado=120; contexto_usado=120; truncado=False
+principal,2022,240,ETS,ets_seleccion,"ETS(M,N,M)",aicc=4014.7620; convergio=True; n_especificaciones=12; n_fallidas=0; n_no_convergidas=0
+principal,2022,240,Theta,theta_parametros,mul,alpha=0.511866; b0=41.193667; desestacionaliza=True
+principal,2022,240,SARIMA,sarima_convergencia,True,aic=4126.3741; avisos=ninguno
+principal,2022,240,Chronos-Bolt-tiny,chronos_contexto,240,contexto_solicitado=240; contexto_usado=240; truncado=False
+principal,2022,max,ETS,ets_seleccion,"ETS(A,N,M)",aicc=4676.5061; convergio=True; n_especificaciones=12; n_fallidas=0; n_no_convergidas=0
+principal,2022,max,Theta,theta_parametros,mul,alpha=0.653031; b0=36.866328; desestacionaliza=True
+principal,2022,max,SARIMA,sarima_convergencia,True,aic=4774.6774; avisos=ninguno
+principal,2022,max,Chronos-Bolt-tiny,chronos_contexto,279,contexto_solicitado=279; contexto_usado=279; truncado=False
+principal,2023,60,ETS,ets_seleccion,"ETS(A,N,M)",aicc=1099.0106; convergio=True; n_especificaciones=12; n_fallidas=0; n_no_convergidas=0
+principal,2023,60,Theta,theta_parametros,mul,alpha=0.525647; b0=69.717334; desestacionaliza=True
+principal,2023,60,SARIMA,sarima_convergencia,True,aic=1171.3773; avisos=ninguno
+principal,2023,60,Chronos-Bolt-tiny,chronos_contexto,60,contexto_solicitado=60; contexto_usado=60; truncado=False
+principal,2023,120,ETS,ets_seleccion,"ETS(A,N,M)",aicc=2096.3922; convergio=True; n_especificaciones=12; n_fallidas=0; n_no_convergidas=0
+principal,2023,120,Theta,theta_parametros,mul,alpha=0.489598; b0=59.295554; desestacionaliza=True
+principal,2023,120,SARIMA,sarima_convergencia,True,aic=2164.6508; avisos=ninguno
+principal,2023,120,Chronos-Bolt-tiny,chronos_contexto,120,contexto_solicitado=120; contexto_usado=120; truncado=False
+principal,2023,240,ETS,ets_seleccion,"ETS(M,A,M)",aicc=3976.9882; convergio=True; n_especificaciones=12; n_fallidas=0; n_no_convergidas=0
+principal,2023,240,Theta,theta_parametros,mul,alpha=0.442916; b0=42.090686; desestacionaliza=True
+principal,2023,240,SARIMA,sarima_convergencia,True,aic=4132.2957; avisos=ninguno
+principal,2023,240,Chronos-Bolt-tiny,chronos_contexto,240,contexto_solicitado=240; contexto_usado=240; truncado=False
+principal,2023,max,ETS,ets_seleccion,"ETS(A,N,M)",aicc=4876.2678; convergio=True; n_especificaciones=12; n_fallidas=0; n_no_convergidas=0
+principal,2023,max,Theta,theta_parametros,mul,alpha=0.639142; b0=37.375086; desestacionaliza=True
+principal,2023,max,SARIMA,sarima_convergencia,True,aic=4978.5923; avisos=ninguno
+principal,2023,max,Chronos-Bolt-tiny,chronos_contexto,291,contexto_solicitado=291; contexto_usado=291; truncado=False
+principal,2024,60,ETS,ets_seleccion,"ETS(M,N,A)",aicc=1031.1837; convergio=True; n_especificaciones=12; n_fallidas=0; n_no_convergidas=0
+principal,2024,60,Theta,theta_parametros,mul,alpha=0.339557; b0=-8.036251; desestacionaliza=True
+principal,2024,60,SARIMA,sarima_convergencia,True,aic=1143.7558; avisos=ninguno
+principal,2024,60,Chronos-Bolt-tiny,chronos_contexto,60,contexto_solicitado=60; contexto_usado=60; truncado=False
+principal,2024,120,ETS,ets_seleccion,"ETS(A,N,M)",aicc=2096.1565; convergio=True; n_especificaciones=12; n_fallidas=0; n_no_convergidas=0
+principal,2024,120,Theta,theta_parametros,mul,alpha=0.475091; b0=39.994533; desestacionaliza=True
+principal,2024,120,SARIMA,sarima_convergencia,True,aic=2183.2372; avisos=ninguno
+principal,2024,120,Chronos-Bolt-tiny,chronos_contexto,120,contexto_solicitado=120; contexto_usado=120; truncado=False
+principal,2024,240,ETS,ets_seleccion,"ETS(M,N,M)",aicc=3990.8737; convergio=True; n_especificaciones=12; n_fallidas=0; n_no_convergidas=0
+principal,2024,240,Theta,theta_parametros,mul,alpha=0.458142; b0=40.332081; desestacionaliza=True
+principal,2024,240,SARIMA,sarima_convergencia,True,aic=4152.7795; avisos=ninguno
+principal,2024,240,Chronos-Bolt-tiny,chronos_contexto,240,contexto_solicitado=240; contexto_usado=240; truncado=False
+principal,2024,max,ETS,ets_seleccion,"ETS(A,N,M)",aicc=5080.6301; convergio=True; n_especificaciones=12; n_fallidas=0; n_no_convergidas=0
+principal,2024,max,Theta,theta_parametros,mul,alpha=0.651978; b0=36.011838; desestacionaliza=True
+principal,2024,max,SARIMA,sarima_convergencia,True,aic=5186.4900; avisos=ninguno
+principal,2024,max,Chronos-Bolt-tiny,chronos_contexto,303,contexto_solicitado=303; contexto_usado=303; truncado=False
+principal,2025,60,ETS,ets_seleccion,"ETS(A,N,A)",aicc=1054.6855; convergio=True; n_especificaciones=12; n_fallidas=0; n_no_convergidas=0
+principal,2025,60,Theta,theta_parametros,mul,alpha=0.457155; b0=-55.097576; desestacionaliza=True
+principal,2025,60,SARIMA,sarima_convergencia,True,aic=1154.1080; avisos=ninguno
+principal,2025,60,Chronos-Bolt-tiny,chronos_contexto,60,contexto_solicitado=60; contexto_usado=60; truncado=False
+principal,2025,120,ETS,ets_seleccion,"ETS(A,N,M)",aicc=2110.4568; convergio=True; n_especificaciones=12; n_fallidas=0; n_no_convergidas=0
+principal,2025,120,Theta,theta_parametros,mul,alpha=0.528030; b0=23.373662; desestacionaliza=True
+principal,2025,120,SARIMA,sarima_convergencia,True,aic=2201.8671; avisos=ninguno
+principal,2025,120,Chronos-Bolt-tiny,chronos_contexto,120,contexto_solicitado=120; contexto_usado=120; truncado=False
+principal,2025,240,ETS,ets_seleccion,"ETS(M,N,M)",aicc=4027.0039; convergio=True; n_especificaciones=12; n_fallidas=0; n_no_convergidas=0
+principal,2025,240,Theta,theta_parametros,mul,alpha=0.493014; b0=37.648756; desestacionaliza=True
+principal,2025,240,SARIMA,sarima_convergencia,True,aic=4170.0849; avisos=ninguno
+principal,2025,240,Chronos-Bolt-tiny,chronos_contexto,240,contexto_solicitado=240; contexto_usado=240; truncado=False
+principal,2025,max,ETS,ets_seleccion,"ETS(A,N,M)",aicc=5295.1919; convergio=True; n_especificaciones=12; n_fallidas=0; n_no_convergidas=0
+principal,2025,max,Theta,theta_parametros,mul,alpha=0.655870; b0=34.151487; desestacionaliza=True
+principal,2025,max,SARIMA,sarima_convergencia,True,aic=5396.4580; avisos=ninguno
+principal,2025,max,Chronos-Bolt-tiny,chronos_contexto,315,contexto_solicitado=315; contexto_usado=315; truncado=False

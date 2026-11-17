@@ -1,0 +1,14 @@
+brazo,escenario,etiqueta_auditor,etiqueta_publicada,detalle_publicado,coincide
+D,principal,el modelo,el modelo,Δ(máx) > 0 y significativa,True
+D,sens1_estricto,el modelo,el modelo,Δ(máx) > 0 y significativa,True
+D,sens2_bolsa,el modelo,el modelo,Δ(máx) > 0 y significativa,True
+D,sens3_h7,el modelo,el modelo,Δ(máx) > 0 y significativa,True
+D,sens4_pool2023_2025,el modelo,el modelo,Δ(máx) > 0 y significativa,True
+D,sens5_bloques,el modelo,el modelo,Δ(máx) > 0 y significativa,True
+D,sens6_desde2006,el modelo,el modelo,Δ(máx) > 0 y significativa,True
+D,sens7_anomalia_publicada,el modelo,el modelo,Δ(máx) > 0 y significativa,True
+M,principal,el modelo,el modelo,Δ(máx) > 0 y significativa,True
+M,sens1_estricto,no concluyente,no concluyente,no se reproduce la desventaja,True
+M,sens4_pool2023_2025,el modelo,el modelo,Δ(máx) > 0 y significativa,True
+M,sens5_bloques,el modelo,el modelo,Δ(máx) > 0 y significativa,True
+M,sens7_anomalia_publicada,el modelo,el modelo,Δ(máx) > 0 y significativa,True

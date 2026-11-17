@@ -13,6 +13,8 @@ data/processed/*.csv
 # Entorno de Python
 .venv/
 venv/
+.venv311/
+.pytest_cache/
 __pycache__/
 *.py[cod]
 .ipynb_checkpoints/
@@ -20,3 +22,22 @@ __pycache__/
 # Sistema
 .DS_Store
 Thumbs.db
+
+# Experimento 2, día 3: checkpoints y temporales de las redes (los pronósticos sí se versionan)
+*.keras
+resultados/**/red_*/
+
+# Experimento 2, día 4 (T9): salidas por unidad del día 3, respaldadas fuera del repositorio en
+# D:\respaldo_dia3_unidades.zip (SHA-256 en reportes/figuras/datos/respaldo_dia3.csv)
+resultados/*/redes_unidades/
+resultados/brazo_D/estadisticos/
+# Contienen la serie del SISAP: el Seasonal Naive es la serie desplazada 7 días (D) o 12 meses (M)
+resultados/**/pronosticos.csv
+resultados/brazo_M/*/base_pronosticos.csv
+reportes/auditoria/reproduccion_*_detalle.csv
+# Figuras del día 4 en PDF vectorial: excepción a la regla *.pdf (que es para PDF descargados)
+!reportes/figuras/*/*.pdf
+# Figuras de pronóstico frente a observado (T5): el PDF vectorial guarda las coordenadas exactas de la serie
+reportes/figuras/*/f08_*.pdf
+reportes/figuras/*/f09_*.pdf
+reportes/figuras/*/f10_*.pdf

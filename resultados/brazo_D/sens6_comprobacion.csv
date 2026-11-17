@@ -1,0 +1,20 @@
+comprobacion,resultado
+mismo indice desde 2006-01-01,True
+y identico (max abs dif),0.0
+precio identico (max abs dif),0.0
+y_eval identico (NaN en las mismas posiciones y valores iguales),True
+"historia, validacion y prueba identicas Y=2021 N=120",True
+"historia, validacion y prueba identicas Y=2021 N=360",True
+"historia, validacion y prueba identicas Y=2021 N=1000",True
+"historia, validacion y prueba identicas Y=2022 N=120",True
+"historia, validacion y prueba identicas Y=2022 N=360",True
+"historia, validacion y prueba identicas Y=2022 N=1000",True
+"historia, validacion y prueba identicas Y=2023 N=120",True
+"historia, validacion y prueba identicas Y=2023 N=360",True
+"historia, validacion y prueba identicas Y=2023 N=1000",True
+"historia, validacion y prueba identicas Y=2024 N=120",True
+"historia, validacion y prueba identicas Y=2024 N=360",True
+"historia, validacion y prueba identicas Y=2024 N=1000",True
+"historia, validacion y prueba identicas Y=2025 N=120",True
+"historia, validacion y prueba identicas Y=2025 N=360",True
+"historia, validacion y prueba identicas Y=2025 N=1000",True

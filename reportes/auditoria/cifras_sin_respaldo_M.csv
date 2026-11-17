@@ -1,0 +1,38 @@
+brazo,linea_md,numero,linea
+M,13,400,| principal | 400 | 6000 | 3 281 | 3 933 | 39 |
+M,13,6000,| principal | 400 | 6000 | 3 281 | 3 933 | 39 |
+M,13,3 281,| principal | 400 | 6000 | 3 281 | 3 933 | 39 |
+M,13,3 933,| principal | 400 | 6000 | 3 281 | 3 933 | 39 |
+M,14,400,| sens1_estricto | 400 | 6000 | 4 648 | 5 343 | 38 |
+M,14,6000,| sens1_estricto | 400 | 6000 | 4 648 | 5 343 | 38 |
+M,14,4 648,| sens1_estricto | 400 | 6000 | 4 648 | 5 343 | 38 |
+M,14,5 343,| sens1_estricto | 400 | 6000 | 4 648 | 5 343 | 38 |
+M,15,400,| sens7_anomalia_publicada | 400 | 6000 | 3 138 | 3 950 | 39 |
+M,15,6000,| sens7_anomalia_publicada | 400 | 6000 | 3 138 | 3 950 | 39 |
+M,15,3 138,| sens7_anomalia_publicada | 400 | 6000 | 3 138 | 3 950 | 39 |
+M,15,3 950,| sens7_anomalia_publicada | 400 | 6000 | 3 138 | 3 950 | 39 |
+M,17,11 067,Tiempo de pared total de las redes: 11 067 s (3.07 h). Cada escenario tiene 5 años × 4 N × 2 redes × 10 semillas = 400 unidades. Los tiempos de las redes incluy
+M,17,3.07,Tiempo de pared total de las redes: 11 067 s (3.07 h). Cada escenario tiene 5 años × 4 N × 2 redes × 10 semillas = 400 unidades. Los tiempos de las redes incluy
+M,17,400,Tiempo de pared total de las redes: 11 067 s (3.07 h). Cada escenario tiene 5 años × 4 N × 2 redes × 10 semillas = 400 unidades. Los tiempos de las redes incluy
+M,23,10 000,"MAE en toneladas con IC 95 % del bootstrap iid pareado (B = 10 000, semilla 42) entre corchetes (`resultados/brazo_M/principal/metricas.csv`, `anio == pool`):"
+M,78,"1,2021","False,360.608,True,True,el modelo,Δ(máx) > 0 y significativa,M,1,2021-2022-2023-2024-2025,iid"
+M,145,200,| DualLSTM | 200 | 4545 | 31.5 | 167 | 16.5 | 2 099 |
+M,145,31.5,| DualLSTM | 200 | 4545 | 31.5 | 167 | 16.5 | 2 099 |
+M,145,16.5,| DualLSTM | 200 | 4545 | 31.5 | 167 | 16.5 | 2 099 |
+M,145,2 099,| DualLSTM | 200 | 4545 | 31.5 | 167 | 16.5 | 2 099 |
+M,146,200,| LSTM univariada | 200 | 1569 | 52.5 | 199 | 37.5 | 1 833 |
+M,146,52.5,| LSTM univariada | 200 | 1569 | 52.5 | 199 | 37.5 | 1 833 |
+M,146,37.5,| LSTM univariada | 200 | 1569 | 52.5 | 199 | 37.5 | 1 833 |
+M,295,2048,Chronos: 0 de 20 ventana×N con contexto truncado (contexto máximo solicitado: 315 observaciones; límite del modelo: 2048).
+M,316,2048,Chronos: 0 de 20 ventana×N con contexto truncado (contexto máximo solicitado: 315 observaciones; límite del modelo: 2048).
+M,337,2048,Chronos: 0 de 20 ventana×N con contexto truncado (contexto máximo solicitado: 315 observaciones; límite del modelo: 2048).
+M,342,2026,Ninguna de las decisiones siguientes cambia un valor fijado por `docs/PROTOCOLO.md`; son interpretaciones donde el protocolo es ambiguo o aclaraciones de ejecuc
+M,344,4 289,"1. **Conteo de parámetros de la DualLSTM (no es una desviación del protocolo).** El encargo decía 4 289, pero `src.redes.expected_parameter_count(4, 6)` da 4 54"
+M,344,1 472,"1. **Conteo de parámetros de la DualLSTM (no es una desviación del protocolo).** El encargo decía 4 289, pero `src.redes.expected_parameter_count(4, 6)` da 4 54"
+M,344,1 056,"1. **Conteo de parámetros de la DualLSTM (no es una desviación del protocolo).** El encargo decía 4 289, pero `src.redes.expected_parameter_count(4, 6)` da 4 54"
+M,344,528,"1. **Conteo de parámetros de la DualLSTM (no es una desviación del protocolo).** El encargo decía 4 289, pero `src.redes.expected_parameter_count(4, 6)` da 4 54"
+M,344,4 673,"1. **Conteo de parámetros de la DualLSTM (no es una desviación del protocolo).** El encargo decía 4 289, pero `src.redes.expected_parameter_count(4, 6)` da 4 54"
+M,344,400,"1. **Conteo de parámetros de la DualLSTM (no es una desviación del protocolo).** El encargo decía 4 289, pero `src.redes.expected_parameter_count(4, 6)` da 4 54"
+M,344,4 289,"1. **Conteo de parámetros de la DualLSTM (no es una desviación del protocolo).** El encargo decía 4 289, pero `src.redes.expected_parameter_count(4, 6)` da 4 54"
+M,345,1997,2. **Contexto de Chronos en N = max.** §5 dice «las últimas N observaciones hasta t − 1». Para N numérico se usa exactamente eso. Para N = max se usó el tamaño 
+M,345,2048,2. **Contexto de Chronos en N = max.** §5 dice «las últimas N observaciones hasta t − 1». Para N numérico se usa exactamente eso. Para N = max se usó el tamaño 

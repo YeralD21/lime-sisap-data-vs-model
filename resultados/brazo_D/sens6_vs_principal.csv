@@ -1,0 +1,22 @@
+modelo,N,dif_max_abs_t,dif_media_abs_t,n_pronosticos
+Chronos-Bolt-tiny,1000,0.0,0.0,1826
+Chronos-Bolt-tiny,120,0.0,0.0,1826
+Chronos-Bolt-tiny,360,0.0,0.0,1826
+DualLSTM,1000,0.0,0.0,18260
+DualLSTM,120,0.0,0.0,18260
+DualLSTM,360,0.0,0.0,18260
+ETS,1000,0.0,0.0,1826
+ETS,120,0.0,0.0,1826
+ETS,360,0.0,0.0,1826
+LSTM univariada,1000,0.0,0.0,18260
+LSTM univariada,120,0.0,0.0,18260
+LSTM univariada,360,0.0,0.0,18260
+SARIMA,1000,0.15869999999995343,0.006606533953997526,1826
+SARIMA,120,0.0,0.0,1826
+SARIMA,360,0.0,0.0,1826
+Seasonal Naive,1000,0.0,0.0,1826
+Seasonal Naive,120,0.0,0.0,1826
+Seasonal Naive,360,0.0,0.0,1826
+Theta,1000,0.0,0.0,1826
+Theta,120,0.0,0.0,1826
+Theta,360,0.0,0.0,1826

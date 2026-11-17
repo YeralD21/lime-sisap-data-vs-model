@@ -1,0 +1,29 @@
+brazo,unidad,fecha_origen,primer_paso_prueba,observaciones_alteradas,comparacion,dif_max_abs
+D,resultados/brazo_D/redes_unidades/D_principal_1997_faltante/dual/Y2025/Nmax/h1/s00,2024-12-31,2025-01-01,365,"escalador_y (media, escala)",0
+D,resultados/brazo_D/redes_unidades/D_principal_1997_faltante/dual/Y2025/Nmax/h1/s00,2024-12-31,2025-01-01,365,secuencias_entrenamiento,0
+D,resultados/brazo_D/redes_unidades/D_principal_1997_faltante/dual/Y2025/Nmax/h1/s00,2024-12-31,2025-01-01,365,objetivos_entrenamiento,0
+D,resultados/brazo_D/redes_unidades/D_principal_1997_faltante/dual/Y2025/Nmax/h1/s00,2024-12-31,2025-01-01,365,secuencias_validacion,0
+D,resultados/brazo_D/redes_unidades/D_principal_1997_faltante/dual/Y2025/Nmax/h1/s00,2024-12-31,2025-01-01,365,objetivos_validacion,0
+D,resultados/brazo_D/redes_unidades/D_principal_1997_faltante/dual/Y2025/Nmax/h1/s00,2024-12-31,2025-01-01,365,entrada_primer_paso_prueba,0
+D,resultados/brazo_D/redes_unidades/D_principal_1997_faltante/dual/Y2025/Nmax/h1/s00,2024-12-31,2025-01-01,365,entrada_ultimo_paso_prueba,8.95273
+D,resultados/brazo_D/redes_unidades/D_principal_1997_faltante/dual/Y2025/Nmax/h1/s00,2024-12-31,2025-01-01,365,observado_primer_paso_prueba,827.548
+D,resultados/brazo_D/redes_unidades/D_principal_1997_faltante/dual/Y2025/Nmax/h1/s00,2024-12-31,2025-01-01,365,pronostico_primer_paso_prueba (perturbada vs original),0
+D,resultados/brazo_D/redes_unidades/D_principal_1997_faltante/dual/Y2025/Nmax/h1/s00,2024-12-31,2025-01-01,365,pronostico_primer_paso_prueba (original vs publicado dia 3),0
+D,resultados/brazo_D/redes_unidades/D_principal_1997_faltante/dual/Y2025/Nmax/h1/s00,2024-12-31,2025-01-01,365,pronosticos_validacion (perturbada vs original),0
+D,resultados/brazo_D/redes_unidades/D_principal_1997_faltante/dual/Y2025/Nmax/h1/s00,2024-12-31,2025-01-01,365,pronosticos_prueba_resto (perturbada vs original),889.603
+D,resultados/brazo_D/redes_unidades/D_principal_1997_faltante/dual/Y2025/Nmax/h1/s00,2024-12-31,2025-01-01,365,epocas (perturbada - original),0
+D,resultados/brazo_D/redes_unidades/D_principal_1997_faltante/dual/Y2025/Nmax/h1/s00,2024-12-31,2025-01-01,365,mejor_epoca (perturbada - original),0
+M,resultados/brazo_M/redes_unidades/M_principal_1997_faltante/dual/Y2025/Nmax/h1/s00,2024-12-01,2025-01-01,12,"escalador_y (media, escala)",0
+M,resultados/brazo_M/redes_unidades/M_principal_1997_faltante/dual/Y2025/Nmax/h1/s00,2024-12-01,2025-01-01,12,secuencias_entrenamiento,0
+M,resultados/brazo_M/redes_unidades/M_principal_1997_faltante/dual/Y2025/Nmax/h1/s00,2024-12-01,2025-01-01,12,objetivos_entrenamiento,0
+M,resultados/brazo_M/redes_unidades/M_principal_1997_faltante/dual/Y2025/Nmax/h1/s00,2024-12-01,2025-01-01,12,secuencias_validacion,0
+M,resultados/brazo_M/redes_unidades/M_principal_1997_faltante/dual/Y2025/Nmax/h1/s00,2024-12-01,2025-01-01,12,objetivos_validacion,0
+M,resultados/brazo_M/redes_unidades/M_principal_1997_faltante/dual/Y2025/Nmax/h1/s00,2024-12-01,2025-01-01,12,entrada_primer_paso_prueba,0
+M,resultados/brazo_M/redes_unidades/M_principal_1997_faltante/dual/Y2025/Nmax/h1/s00,2024-12-01,2025-01-01,12,entrada_ultimo_paso_prueba,4.92496
+M,resultados/brazo_M/redes_unidades/M_principal_1997_faltante/dual/Y2025/Nmax/h1/s00,2024-12-01,2025-01-01,12,observado_primer_paso_prueba,7915.03
+M,resultados/brazo_M/redes_unidades/M_principal_1997_faltante/dual/Y2025/Nmax/h1/s00,2024-12-01,2025-01-01,12,pronostico_primer_paso_prueba (perturbada vs original),0
+M,resultados/brazo_M/redes_unidades/M_principal_1997_faltante/dual/Y2025/Nmax/h1/s00,2024-12-01,2025-01-01,12,pronostico_primer_paso_prueba (original vs publicado dia 3),0
+M,resultados/brazo_M/redes_unidades/M_principal_1997_faltante/dual/Y2025/Nmax/h1/s00,2024-12-01,2025-01-01,12,pronosticos_validacion (perturbada vs original),0
+M,resultados/brazo_M/redes_unidades/M_principal_1997_faltante/dual/Y2025/Nmax/h1/s00,2024-12-01,2025-01-01,12,pronosticos_prueba_resto (perturbada vs original),4853.52
+M,resultados/brazo_M/redes_unidades/M_principal_1997_faltante/dual/Y2025/Nmax/h1/s00,2024-12-01,2025-01-01,12,epocas (perturbada - original),0
+M,resultados/brazo_M/redes_unidades/M_principal_1997_faltante/dual/Y2025/Nmax/h1/s00,2024-12-01,2025-01-01,12,mejor_epoca (perturbada - original),0

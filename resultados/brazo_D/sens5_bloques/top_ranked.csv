@@ -1,0 +1,29 @@
+modelo,umbrales_primero,consistently_top_ranked,N
+Seasonal Naive,0,False,120
+ETS,0,False,120
+Theta,1,False,120
+SARIMA,4,True,120
+Chronos-Bolt-tiny,0,False,120
+LSTM univariada,0,False,120
+DualLSTM,0,False,120
+Seasonal Naive,0,False,360
+ETS,4,True,360
+Theta,0,False,360
+SARIMA,4,True,360
+Chronos-Bolt-tiny,0,False,360
+LSTM univariada,0,False,360
+DualLSTM,0,False,360
+Seasonal Naive,0,False,1000
+ETS,4,True,1000
+Theta,2,False,1000
+SARIMA,3,True,1000
+Chronos-Bolt-tiny,0,False,1000
+LSTM univariada,0,False,1000
+DualLSTM,0,False,1000
+Seasonal Naive,0,False,max
+ETS,1,False,max
+Theta,1,False,max
+SARIMA,4,True,max
+Chronos-Bolt-tiny,0,False,max
+LSTM univariada,1,False,max
+DualLSTM,0,False,max

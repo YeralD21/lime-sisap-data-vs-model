@@ -1,0 +1,113 @@
+brazo,escenario,bootstrap_top_ranked,nota,modelo,umbrales_primero,consistently_top_ranked,N
+D,principal,iid,,Seasonal Naive,0,False,120
+D,principal,iid,,ETS,0,False,120
+D,principal,iid,,Theta,1,False,120
+D,principal,iid,,SARIMA,4,True,120
+D,principal,iid,,Chronos-Bolt-tiny,0,False,120
+D,principal,iid,,LSTM univariada,0,False,120
+D,principal,iid,,DualLSTM,0,False,120
+D,principal,iid,,Seasonal Naive,0,False,360
+D,principal,iid,,ETS,4,True,360
+D,principal,iid,,Theta,0,False,360
+D,principal,iid,,SARIMA,4,True,360
+D,principal,iid,,Chronos-Bolt-tiny,0,False,360
+D,principal,iid,,LSTM univariada,0,False,360
+D,principal,iid,,DualLSTM,0,False,360
+D,principal,iid,,Seasonal Naive,0,False,1000
+D,principal,iid,,ETS,4,True,1000
+D,principal,iid,,Theta,2,False,1000
+D,principal,iid,,SARIMA,3,True,1000
+D,principal,iid,,Chronos-Bolt-tiny,0,False,1000
+D,principal,iid,,LSTM univariada,0,False,1000
+D,principal,iid,,DualLSTM,0,False,1000
+D,principal,iid,,Seasonal Naive,0,False,max
+D,principal,iid,,ETS,1,False,max
+D,principal,iid,,Theta,1,False,max
+D,principal,iid,,SARIMA,4,True,max
+D,principal,iid,,Chronos-Bolt-tiny,0,False,max
+D,principal,iid,,LSTM univariada,1,False,max
+D,principal,iid,,DualLSTM,0,False,max
+D,sens5_bloques,iid,sens5: tabla calculada con bootstrap iid (D9),Seasonal Naive,0,False,120
+D,sens5_bloques,iid,sens5: tabla calculada con bootstrap iid (D9),ETS,0,False,120
+D,sens5_bloques,iid,sens5: tabla calculada con bootstrap iid (D9),Theta,1,False,120
+D,sens5_bloques,iid,sens5: tabla calculada con bootstrap iid (D9),SARIMA,4,True,120
+D,sens5_bloques,iid,sens5: tabla calculada con bootstrap iid (D9),Chronos-Bolt-tiny,0,False,120
+D,sens5_bloques,iid,sens5: tabla calculada con bootstrap iid (D9),LSTM univariada,0,False,120
+D,sens5_bloques,iid,sens5: tabla calculada con bootstrap iid (D9),DualLSTM,0,False,120
+D,sens5_bloques,iid,sens5: tabla calculada con bootstrap iid (D9),Seasonal Naive,0,False,360
+D,sens5_bloques,iid,sens5: tabla calculada con bootstrap iid (D9),ETS,4,True,360
+D,sens5_bloques,iid,sens5: tabla calculada con bootstrap iid (D9),Theta,0,False,360
+D,sens5_bloques,iid,sens5: tabla calculada con bootstrap iid (D9),SARIMA,4,True,360
+D,sens5_bloques,iid,sens5: tabla calculada con bootstrap iid (D9),Chronos-Bolt-tiny,0,False,360
+D,sens5_bloques,iid,sens5: tabla calculada con bootstrap iid (D9),LSTM univariada,0,False,360
+D,sens5_bloques,iid,sens5: tabla calculada con bootstrap iid (D9),DualLSTM,0,False,360
+D,sens5_bloques,iid,sens5: tabla calculada con bootstrap iid (D9),Seasonal Naive,0,False,1000
+D,sens5_bloques,iid,sens5: tabla calculada con bootstrap iid (D9),ETS,4,True,1000
+D,sens5_bloques,iid,sens5: tabla calculada con bootstrap iid (D9),Theta,2,False,1000
+D,sens5_bloques,iid,sens5: tabla calculada con bootstrap iid (D9),SARIMA,3,True,1000
+D,sens5_bloques,iid,sens5: tabla calculada con bootstrap iid (D9),Chronos-Bolt-tiny,0,False,1000
+D,sens5_bloques,iid,sens5: tabla calculada con bootstrap iid (D9),LSTM univariada,0,False,1000
+D,sens5_bloques,iid,sens5: tabla calculada con bootstrap iid (D9),DualLSTM,0,False,1000
+D,sens5_bloques,iid,sens5: tabla calculada con bootstrap iid (D9),Seasonal Naive,0,False,max
+D,sens5_bloques,iid,sens5: tabla calculada con bootstrap iid (D9),ETS,1,False,max
+D,sens5_bloques,iid,sens5: tabla calculada con bootstrap iid (D9),Theta,1,False,max
+D,sens5_bloques,iid,sens5: tabla calculada con bootstrap iid (D9),SARIMA,4,True,max
+D,sens5_bloques,iid,sens5: tabla calculada con bootstrap iid (D9),Chronos-Bolt-tiny,0,False,max
+D,sens5_bloques,iid,sens5: tabla calculada con bootstrap iid (D9),LSTM univariada,1,False,max
+D,sens5_bloques,iid,sens5: tabla calculada con bootstrap iid (D9),DualLSTM,0,False,max
+M,principal,iid,,Seasonal Naive,3,True,60
+M,principal,iid,,ETS,1,False,60
+M,principal,iid,,Theta,3,True,60
+M,principal,iid,,SARIMA,0,False,60
+M,principal,iid,,Chronos-Bolt-tiny,0,False,60
+M,principal,iid,,LSTM univariada,0,False,60
+M,principal,iid,,DualLSTM,0,False,60
+M,principal,iid,,Seasonal Naive,4,True,120
+M,principal,iid,,ETS,3,True,120
+M,principal,iid,,Theta,3,True,120
+M,principal,iid,,SARIMA,3,True,120
+M,principal,iid,,Chronos-Bolt-tiny,0,False,120
+M,principal,iid,,LSTM univariada,0,False,120
+M,principal,iid,,DualLSTM,2,False,120
+M,principal,iid,,Seasonal Naive,4,True,240
+M,principal,iid,,ETS,3,True,240
+M,principal,iid,,Theta,3,True,240
+M,principal,iid,,SARIMA,3,True,240
+M,principal,iid,,Chronos-Bolt-tiny,0,False,240
+M,principal,iid,,LSTM univariada,1,False,240
+M,principal,iid,,DualLSTM,1,False,240
+M,principal,iid,,Seasonal Naive,4,True,max
+M,principal,iid,,ETS,3,True,max
+M,principal,iid,,Theta,3,True,max
+M,principal,iid,,SARIMA,3,True,max
+M,principal,iid,,Chronos-Bolt-tiny,0,False,max
+M,principal,iid,,LSTM univariada,0,False,max
+M,principal,iid,,DualLSTM,2,False,max
+M,sens5_bloques,iid,sens5: tabla calculada con bootstrap iid (D9),Seasonal Naive,3,True,60
+M,sens5_bloques,iid,sens5: tabla calculada con bootstrap iid (D9),ETS,1,False,60
+M,sens5_bloques,iid,sens5: tabla calculada con bootstrap iid (D9),Theta,3,True,60
+M,sens5_bloques,iid,sens5: tabla calculada con bootstrap iid (D9),SARIMA,0,False,60
+M,sens5_bloques,iid,sens5: tabla calculada con bootstrap iid (D9),Chronos-Bolt-tiny,0,False,60
+M,sens5_bloques,iid,sens5: tabla calculada con bootstrap iid (D9),LSTM univariada,0,False,60
+M,sens5_bloques,iid,sens5: tabla calculada con bootstrap iid (D9),DualLSTM,0,False,60
+M,sens5_bloques,iid,sens5: tabla calculada con bootstrap iid (D9),Seasonal Naive,4,True,120
+M,sens5_bloques,iid,sens5: tabla calculada con bootstrap iid (D9),ETS,3,True,120
+M,sens5_bloques,iid,sens5: tabla calculada con bootstrap iid (D9),Theta,3,True,120
+M,sens5_bloques,iid,sens5: tabla calculada con bootstrap iid (D9),SARIMA,3,True,120
+M,sens5_bloques,iid,sens5: tabla calculada con bootstrap iid (D9),Chronos-Bolt-tiny,0,False,120
+M,sens5_bloques,iid,sens5: tabla calculada con bootstrap iid (D9),LSTM univariada,0,False,120
+M,sens5_bloques,iid,sens5: tabla calculada con bootstrap iid (D9),DualLSTM,2,False,120
+M,sens5_bloques,iid,sens5: tabla calculada con bootstrap iid (D9),Seasonal Naive,4,True,240
+M,sens5_bloques,iid,sens5: tabla calculada con bootstrap iid (D9),ETS,3,True,240
+M,sens5_bloques,iid,sens5: tabla calculada con bootstrap iid (D9),Theta,3,True,240
+M,sens5_bloques,iid,sens5: tabla calculada con bootstrap iid (D9),SARIMA,3,True,240
+M,sens5_bloques,iid,sens5: tabla calculada con bootstrap iid (D9),Chronos-Bolt-tiny,0,False,240
+M,sens5_bloques,iid,sens5: tabla calculada con bootstrap iid (D9),LSTM univariada,1,False,240
+M,sens5_bloques,iid,sens5: tabla calculada con bootstrap iid (D9),DualLSTM,1,False,240
+M,sens5_bloques,iid,sens5: tabla calculada con bootstrap iid (D9),Seasonal Naive,4,True,max
+M,sens5_bloques,iid,sens5: tabla calculada con bootstrap iid (D9),ETS,3,True,max
+M,sens5_bloques,iid,sens5: tabla calculada con bootstrap iid (D9),Theta,3,True,max
+M,sens5_bloques,iid,sens5: tabla calculada con bootstrap iid (D9),SARIMA,3,True,max
+M,sens5_bloques,iid,sens5: tabla calculada con bootstrap iid (D9),Chronos-Bolt-tiny,0,False,max
+M,sens5_bloques,iid,sens5: tabla calculada con bootstrap iid (D9),LSTM univariada,0,False,max
+M,sens5_bloques,iid,sens5: tabla calculada con bootstrap iid (D9),DualLSTM,2,False,max

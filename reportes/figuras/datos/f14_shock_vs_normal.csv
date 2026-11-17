@@ -1,0 +1,49 @@
+brazo,P,modelo,rol,grupo,MAE,n
+D,50,DualLSTM,DualLSTM,shock,133.727,1058
+D,50,DualLSTM,DualLSTM,normal,104.779,760
+D,50,SARIMA,ref*,shock,105.488,1058
+D,50,SARIMA,ref*,normal,66.828,760
+D,50,Seasonal Naive,Seasonal Naive,shock,161.577,1058
+D,50,Seasonal Naive,Seasonal Naive,normal,53.7395,760
+D,60,DualLSTM,DualLSTM,shock,138.792,869
+D,60,DualLSTM,DualLSTM,normal,105.905,949
+D,60,SARIMA,ref*,shock,109.986,869
+D,60,SARIMA,ref*,normal,70.4082,949
+D,60,Seasonal Naive,Seasonal Naive,shock,170.845,869
+D,60,Seasonal Naive,Seasonal Naive,normal,66.7292,949
+D,75,DualLSTM,DualLSTM,shock,147.279,560
+D,75,DualLSTM,DualLSTM,normal,110.205,1258
+D,75,SARIMA,ref*,shock,115.906,560
+D,75,SARIMA,ref*,normal,77.4947,1258
+D,75,Seasonal Naive,Seasonal Naive,shock,175.957,560
+D,75,Seasonal Naive,Seasonal Naive,normal,90.027,1258
+D,90,DualLSTM,DualLSTM,shock,156.063,241
+D,90,DualLSTM,DualLSTM,normal,116.362,1577
+D,90,SARIMA,ref*,shock,130.914,241
+D,90,SARIMA,ref*,normal,82.971,1577
+D,90,Seasonal Naive,Seasonal Naive,shock,195.071,241
+D,90,Seasonal Naive,Seasonal Naive,normal,104.488,1577
+M,50,DualLSTM,DualLSTM,shock,1377.98,27
+M,50,DualLSTM,DualLSTM,normal,1295.27,32
+M,50,ETS,ref*,shock,1103.18,27
+M,50,ETS,ref*,normal,862.258,32
+M,50,Seasonal Naive,Seasonal Naive,shock,1308.44,27
+M,50,Seasonal Naive,Seasonal Naive,normal,1703.97,32
+M,60,DualLSTM,DualLSTM,shock,1537.05,19
+M,60,DualLSTM,DualLSTM,normal,1236.25,40
+M,60,ETS,ref*,shock,1309.94,19
+M,60,ETS,ref*,normal,812.236,40
+M,60,Seasonal Naive,Seasonal Naive,shock,1361.53,19
+M,60,Seasonal Naive,Seasonal Naive,normal,1599.65,40
+M,75,DualLSTM,DualLSTM,shock,2116.19,10
+M,75,DualLSTM,DualLSTM,normal,1173.31,49
+M,75,ETS,ref*,shock,1872.05,10
+M,75,ETS,ref*,normal,788.933,49
+M,75,Seasonal Naive,Seasonal Naive,shock,1947.3,10
+M,75,Seasonal Naive,Seasonal Naive,normal,1436.37,49
+M,90,DualLSTM,DualLSTM,shock,800.363,2
+M,90,DualLSTM,DualLSTM,normal,1351.81,57
+M,90,ETS,ref*,shock,1451.18,2
+M,90,ETS,ref*,normal,955.717,57
+M,90,Seasonal Naive,Seasonal Naive,shock,474,2
+M,90,Seasonal Naive,Seasonal Naive,normal,1559.77,57

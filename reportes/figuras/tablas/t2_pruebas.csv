@@ -1,0 +1,21 @@
+prueba,comprueba_es,comprueba_en,resultado,segundos
+test_evaluables_coinciden_con_protocolo,Días/meses evaluables por año = tabla de §2.2 (salvo D5),Evaluable days/months per year = §2.2 table (except D5),pasa,0.214
+test_anomalia,Anomalía 2021-02-01: faltante en principal; valor publicado en sens. 7,2021-02-01 anomaly: missing in main analysis; published value in sensitivity 7,pasa,0.001
+test_historia_maxima_protocolo,Historia máxima por ventana = §4 (8 127–9 588 días; 267–315 meses),"Maximum history per window = §4 (8,127–9,588 days; 267–315 months)",pasa,0.001
+test_sin_datos_2026_y_desde_1997_10,Sin datos de 2026; inicio 1997-10-01 (2006-01-01 en sens. 6),No 2026 data; start 1997-10-01 (2006-01-01 in sensitivity 6),pasa,0.0
+test_mismos_dias_prueba_en_todos_los_N[D],"Mismo fin de entrenamiento, validación y días de prueba para todo N","Same training end, validation and test days for every N",pasa,0.014
+test_mismos_dias_prueba_en_todos_los_N[M],"Mismo fin de entrenamiento, validación y días de prueba para todo N","Same training end, validation and test days for every N",pasa,0.007
+test_imputacion_solo_usa_pasado,Imputación t−7 causal: cambiar el futuro no altera el pasado imputado,Causal t−7 imputation: changing the future does not alter past imputed values,pasa,0.0
+test_redes_sin_fuga_en_ajuste_ni_escalado[D-DualLSTM-1],"Perturbar datos posteriores al fin del entrenamiento no cambia escalador, secuencias ni objetivos; la entrada de t solo usa datos hasta t−h","Perturbing data after the training end leaves scaler, sequences and targets unchanged; the input for t uses data up to t−h only",pasa,0.092
+test_redes_sin_fuga_en_ajuste_ni_escalado[D-DualLSTM-7],"Perturbar datos posteriores al fin del entrenamiento no cambia escalador, secuencias ni objetivos; la entrada de t solo usa datos hasta t−h","Perturbing data after the training end leaves scaler, sequences and targets unchanged; the input for t uses data up to t−h only",pasa,0.09
+test_redes_sin_fuga_en_ajuste_ni_escalado[D-LSTM univariada-1],"Perturbar datos posteriores al fin del entrenamiento no cambia escalador, secuencias ni objetivos; la entrada de t solo usa datos hasta t−h","Perturbing data after the training end leaves scaler, sequences and targets unchanged; the input for t uses data up to t−h only",pasa,0.035
+test_redes_sin_fuga_en_ajuste_ni_escalado[M-DualLSTM-1],"Perturbar datos posteriores al fin del entrenamiento no cambia escalador, secuencias ni objetivos; la entrada de t solo usa datos hasta t−h","Perturbing data after the training end leaves scaler, sequences and targets unchanged; the input for t uses data up to t−h only",pasa,0.011
+test_redes_sin_fuga_en_ajuste_ni_escalado[M-LSTM univariada-1],"Perturbar datos posteriores al fin del entrenamiento no cambia escalador, secuencias ni objetivos; la entrada de t solo usa datos hasta t−h","Perturbing data after the training end leaves scaler, sequences and targets unchanged; the input for t uses data up to t−h only",pasa,0.008
+test_escala_mase_fija_por_ventana,Escala MASE fija por ventana y sin datos posteriores al entrenamiento,MASE scale fixed per window and free of post-training data,pasa,0.002
+test_parametros_red,Recuento de parámetros de la DualLSTM (artículo y brazo D),DualLSTM parameter count (article and arm D),pasa,0.0
+test_dm_hln_h1_igual_que_articulo,DM-HLN a h = 1 igual a la fórmula del artículo,DM-HLN at h = 1 equals the article's formula,pasa,0.001
+test_bootstrap_pareado_reproducible_y_estratificado,Bootstrap pareado reproducible (semilla 42) y estratificado por ventana,Paired bootstrap is reproducible (seed 42) and stratified by window,pasa,0.048
+test_regla_decision,Regla de decisión de §1 en casos sintéticos,§1 decision rule on synthetic cases,pasa,0.0
+test_mejor_referencia_y_conjunta,Elección de ref* y conclusión conjunta,Choice of ref* and joint conclusion,pasa,0.0
+test_mascara_shock_usa_historia_hasta_origen,Umbral de shock calculado solo con la historia hasta el origen,Shock threshold computed from history up to the origin only,pasa,0.002
+test_analisis_humo,Análisis completo con pronósticos sintéticos; falla si falta un pronóstico,Full analysis on synthetic forecasts; fails if a forecast is missing,pasa,0.744

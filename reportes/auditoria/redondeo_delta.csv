@@ -1,0 +1,6 @@
+brazo,linea_md,escenario,N,columna,mostrado,valor_exacto,redondeo_correcto
+M,156,sens1_estricto,120,MAE_DualLSTM,1 572.5,1572.4470684705884,1572.4
+M,245,sens7_anomalia_publicada,60,MAE_DualLSTM,1 826.5,1826.44712885,1826.4
+D,93,principal,max,MAE_DualLSTM,121.62,121.62510920248057,121.63
+D,257,sens4_pool2023_2025,max,MAE_DualLSTM,107.48,107.48547161597769,107.49
+D,284,sens5_bloques,max,MAE_DualLSTM,121.62,121.62510920248057,121.63

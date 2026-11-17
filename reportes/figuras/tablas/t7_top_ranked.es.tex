@@ -1,0 +1,24 @@
+\begin{tabular}{llcccc}
+\toprule
+Brazo & Modelo & \multicolumn{4}{c}{Umbrales en que es primero o empatado (de 4); $\checkmark$ = consistently top-ranked} \\
+\midrule
+ & & $N$ = 120 & $N$ = 360 & $N$ = 1000 & $N$ = máx \\
+D & Seasonal Naive & 0 & 0 & 0 & 0 \\
+D & ETS & 0 & 4 $\checkmark$ & 4 $\checkmark$ & 1 \\
+D & Theta & 1 & 0 & 2 & 1 \\
+D & SARIMA & 4 $\checkmark$ & 4 $\checkmark$ & 3 $\checkmark$ & 4 $\checkmark$ \\
+D & Chronos-Bolt-tiny & 0 & 0 & 0 & 0 \\
+D & LSTM univariada & 0 & 0 & 0 & 1 \\
+D & DualLSTM & 0 & 0 & 0 & 0 \\
+\midrule
+ & & $N$ = 60 & $N$ = 120 & $N$ = 240 & $N$ = máx \\
+M & Seasonal Naive & 3 $\checkmark$ & 4 $\checkmark$ & 4 $\checkmark$ & 4 $\checkmark$ \\
+M & ETS & 1 & 3 $\checkmark$ & 3 $\checkmark$ & 3 $\checkmark$ \\
+M & Theta & 3 $\checkmark$ & 3 $\checkmark$ & 3 $\checkmark$ & 3 $\checkmark$ \\
+M & SARIMA & 0 & 3 $\checkmark$ & 3 $\checkmark$ & 3 $\checkmark$ \\
+M & Chronos-Bolt-tiny & 0 & 0 & 0 & 0 \\
+M & LSTM univariada & 0 & 0 & 1 & 0 \\
+M & DualLSTM & 0 & 2 & 1 & 2 \\
+\bottomrule
+\end{tabular}
+% Sensibilidad 5: tabla calculada con bootstrap iid (D9); idéntica a la principal.

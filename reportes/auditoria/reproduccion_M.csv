@@ -1,0 +1,6 @@
+brazo,escenario,modelo,semilla,anio,N,h,n_comparados,dif_max_abs_t,dif_media_abs_t
+M,principal,Seasonal Naive,,2023,120,1,12,0,0
+M,principal,ETS (indice rejilla 1),,2023,120,1,12,4.4204e-06,2.13684e-06
+M,principal,SARIMA,,2023,120,1,12,4.69958e-06,2.43164e-06
+M,principal,Chronos-Bolt-tiny,,2023,120,1,12,4.6875e-06,2.83854e-06
+M,principal,DualLSTM,0,2023,120,1,12,5e-06,2.57812e-06
