@@ -1,0 +1,50 @@
+{
+ "descripcion": "SHA-256 para congelar el protocolo del Experimento 2. Lo congela YesaR con su commit; este archivo solo prepara la congelacion.",
+ "metodo": "texto con CRLF->LF y luego SHA-256 (metodo 2 del articulo); binarios tal cual",
+ "fecha_calculo": "2026-11-16T21:24:52",
+ "estado": "pendiente de congelar (commit de YesaR)",
+ "archivos": {
+  "protocolo": {
+   "docs/PROTOCOLO.md": {
+    "sha256": "72bb4f60fb8b6f179629e94c1d3de3f524a5f10e1a7b89d018fc4e35ab4fa62c",
+    "bytes_lf": 24015
+   }
+  },
+  "series_procesadas": {
+   "data/processed/sutil_diario.csv": {
+    "sha256": "a128da1c748c9333cadb1cff1630d51b070ebdb0fae703b0f3ba4301cf8be16e",
+    "bytes_lf": 1257162
+   },
+   "data/processed/sutil_mensual.csv": {
+    "sha256": "0183566faf6594fde1fd2b436c2db80e04854e62389c9d23f5054e810567dbed",
+    "bytes_lf": 40256
+   },
+   "data/processed/sutil_diario_procedencia.csv": {
+    "sha256": "1ed8ac48de106f310a6fd224d7e3568e6d4e1043210e545713a8848d4711f368",
+    "bytes_lf": 1455849
+   }
+  },
+  "procedencia_de_las_series": {
+   "reportes/manifiesto_crudos.csv": {
+    "sha256": "5ff88a2a50d247ab003a182c040bc01bbc3502d4c11cdab45a2c819b31c78a7a",
+    "bytes_lf": 43974
+   },
+   "config/fuentes.yaml": {
+    "sha256": "a253337dcf2d94cf2717b87ddf2311795fc83bc2c323653e88a058b13d87bdce",
+    "bytes_lf": 6127
+   },
+   "scripts/sisap_comun.py": {
+    "sha256": "b5deef3902c10dcabbee32fd593dc1db25792adf96b5b21b1db8c34948e031ba",
+    "bytes_lf": 10385
+   },
+   "scripts/02_descarga_sisap.py": {
+    "sha256": "7a4e5b1d3f5b93edd8292daaf8adf7e7049b81aceed8b0d4585a70b787cfd8e9",
+    "bytes_lf": 8291
+   },
+   "scripts/03_series.py": {
+    "sha256": "a71a65659d08ad6ec75267b63a73102d3c74eaa4977fc148c55b7f7520aeea0e",
+    "bytes_lf": 45262
+   }
+  }
+ }
+}
