@@ -1,0 +1,22 @@
+# Datos de terceros: no se redistribuyen (se publican scripts, URL y SHA-256)
+data/raw/*
+!data/raw/.gitkeep
+data/interim/*
+!data/interim/.gitkeep
+# Series procesadas: transformacion directa del SISAP, sin licencia de redistribucion.
+# Se publican los scripts, reportes/manifiesto_crudos.csv y docs/hashes_protocolo.json.
+data/processed/*.csv
+
+# PDF descargados (en cualquier carpeta)
+*.pdf
+
+# Entorno de Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Sistema
+.DS_Store
+Thumbs.db

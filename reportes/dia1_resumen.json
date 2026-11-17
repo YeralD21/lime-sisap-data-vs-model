@@ -1,0 +1,1025 @@
+{
+ "fecha_ejecucion": "2026-11-14T20:44:27",
+ "user_agent": "lime-sisap-data-vs-model/0.1 (investigacion academica; reconocimiento de datos)",
+ "sisap": {
+  "portal": "http://sistemas.midagri.gob.pe/sisap/portal/",
+  "base": "http://sistemas.midagri.gob.pe/sisap/portal2/mayorista/",
+  "cookie_sesion": [],
+  "anios_formulario": [
+   "1997",
+   "2026"
+  ],
+  "mercados": [
+   [
+    "15011501",
+    "Gran mercado mayorista de lima"
+   ],
+   [
+    "15011503",
+    "Mcdo mod. de frutas"
+   ],
+   [
+    "15013405",
+    "Mcdo. coop. platanos"
+   ],
+   [
+    "15013704",
+    "Mcdo prod. santa anita"
+   ],
+   [
+    "15011506",
+    "Mcdo. may. cereales, legum. y oleag."
+   ],
+   [
+    "15011502",
+    "Mercado mayorista nro 2-frutas"
+   ],
+   [
+    "15010106",
+    "Mercado mayorista de aves vivas"
+   ]
+  ],
+  "variedades_limon": {
+   "GMML": [
+    [
+     "061101",
+     "Limon sutil bolsa"
+    ],
+    [
+     "061102",
+     "Limon sutil cajon"
+    ],
+    [
+     "061106",
+     "Limon tahití"
+    ]
+   ],
+   "MM2_FRUTAS": [
+    [
+     "061101",
+     "Limon sutil bolsa"
+    ],
+    [
+     "061102",
+     "Limon sutil cajon"
+    ],
+    [
+     "061106",
+     "Limon tahití"
+    ]
+   ]
+  },
+  "consultas": {
+   "gmml_2016_03": {
+    "id": "gmml_2016_03",
+    "mercado": "GMML",
+    "periodicidad": "intervalo",
+    "desde": "01/03/2016",
+    "hasta": "10/03/2016",
+    "titulos": [
+     "Lima Metropolitana: Precio Máximo, Precio Promedio, Precio Mínimo, Volumen según mercado y producto y procedencia (sólo para volumen).",
+     "01/03/2016 - 10/03/2016"
+    ],
+    "pie": [],
+    "unidades": {
+     "Precio Máximo": "(S/. x Kg., S/. x Lt. o S/. x Unid.)",
+     "Precio Promedio": "(S/. x Kg., S/. x Lt. o S/. x Unid.)",
+     "Precio Mínimo": "(S/. x Kg., S/. x Lt. o S/. x Unid.)",
+     "Volumen": "(t)"
+    },
+    "productos": [
+     "Limon Sutil Bolsa",
+     "Limon Sutil Cajon"
+    ],
+    "n_filas_largas": 150,
+    "bytes": 6159
+   },
+   "gmml_2019_anual": {
+    "id": "gmml_2019_anual",
+    "mercado": "GMML",
+    "periodicidad": "intervalo",
+    "desde": "01/01/2019",
+    "hasta": "31/12/2019",
+    "titulos": [
+     "Lima Metropolitana: Precio Máximo, Precio Promedio, Precio Mínimo, Volumen según mercado y producto y procedencia (sólo para volumen).",
+     "01/01/2019 - 31/12/2019"
+    ],
+    "pie": [],
+    "unidades": {
+     "Precio Máximo": "(S/. x Kg., S/. x Lt. o S/. x Unid.)",
+     "Precio Promedio": "(S/. x Kg., S/. x Lt. o S/. x Unid.)",
+     "Precio Mínimo": "(S/. x Kg., S/. x Lt. o S/. x Unid.)",
+     "Volumen": "(t)"
+    },
+    "productos": [
+     "Limon Sutil Bolsa",
+     "Limon Sutil Cajon"
+    ],
+    "n_filas_largas": 10585,
+    "bytes": 289929
+   },
+   "gmml_2023_12": {
+    "id": "gmml_2023_12",
+    "mercado": "GMML",
+    "periodicidad": "intervalo",
+    "desde": "15/12/2023",
+    "hasta": "10/01/2024",
+    "titulos": [
+     "Lima Metropolitana: Precio Máximo, Precio Promedio, Precio Mínimo, Volumen según mercado y producto y procedencia (sólo para volumen).",
+     "15/12/2023 - 10/01/2024"
+    ],
+    "pie": [],
+    "unidades": {
+     "Precio Máximo": "(S/. x Kg., S/. x Lt. o S/. x Unid.)",
+     "Precio Promedio": "(S/. x Kg., S/. x Lt. o S/. x Unid.)",
+     "Precio Mínimo": "(S/. x Kg., S/. x Lt. o S/. x Unid.)",
+     "Volumen": "(t)"
+    },
+    "productos": [
+     "Limon Sutil Bolsa",
+     "Limon Sutil Cajon"
+    ],
+    "n_filas_largas": 351,
+    "bytes": 12161
+   },
+   "gmml_2025_09_10": {
+    "id": "gmml_2025_09_10",
+    "mercado": "GMML",
+    "periodicidad": "intervalo",
+    "desde": "01/09/2025",
+    "hasta": "31/10/2025",
+    "titulos": [
+     "Lima Metropolitana: Precio Máximo, Precio Promedio, Precio Mínimo, Volumen según mercado y producto y procedencia (sólo para volumen).",
+     "01/09/2025 - 31/10/2025"
+    ],
+    "pie": [],
+    "unidades": {
+     "Precio Máximo": "(S/. x Kg., S/. x Lt. o S/. x Unid.)",
+     "Precio Promedio": "(S/. x Kg., S/. x Lt. o S/. x Unid.)",
+     "Precio Mínimo": "(S/. x Kg., S/. x Lt. o S/. x Unid.)",
+     "Volumen": "(t)"
+    },
+    "productos": [
+     "Limon Sutil Bolsa",
+     "Limon Sutil Cajon"
+    ],
+    "n_filas_largas": 793,
+    "bytes": 25237
+   },
+   "gmml_2026_ultimo": {
+    "id": "gmml_2026_ultimo",
+    "mercado": "GMML",
+    "periodicidad": "intervalo",
+    "desde": "15/10/2026",
+    "hasta": "14/11/2026",
+    "titulos": [
+     "Lima Metropolitana: Precio Máximo, Precio Promedio, Precio Mínimo, Volumen según mercado y producto y procedencia (sólo para volumen).",
+     "15/10/2026 - 14/11/2026"
+    ],
+    "pie": [],
+    "unidades": {
+     "Precio Máximo": "(S/. x Kg., S/. x Lt. o S/. x Unid.)",
+     "Precio Promedio": "(S/. x Kg., S/. x Lt. o S/. x Unid.)",
+     "Precio Mínimo": "(S/. x Kg., S/. x Lt. o S/. x Unid.)",
+     "Volumen": "(t)"
+    },
+    "productos": [
+     "Limon Sutil Bolsa",
+     "Limon Sutil Cajon"
+    ],
+    "n_filas_largas": 558,
+    "bytes": 17743
+   },
+   "gmml_mensual_1997_2026": {
+    "id": "gmml_mensual_1997_2026",
+    "mercado": "GMML",
+    "periodicidad": "mensual",
+    "anios": "1997-2026",
+    "titulos": [
+     "Lima Metropolitana: Precio Máximo, Precio Promedio, Precio Mínimo, Volumen según mercado y producto y procedencia (sólo para volumen).",
+     "Períodos: Meses de enero a diciembre y Años de 1997 a 2026"
+    ],
+    "pie": [],
+    "unidades": {
+     "Precio Máximo": "(S/. x Kg., S/. x Lt. o S/. x Unid.)",
+     "Precio Promedio": "(S/. x Kg., S/. x Lt. o S/. x Unid.)",
+     "Precio Mínimo": "(S/. x Kg., S/. x Lt. o S/. x Unid.)",
+     "Volumen": "(t)"
+    },
+    "productos": [
+     "Limon Sutil Bolsa",
+     "Limon Sutil Cajon"
+    ],
+    "n_filas_largas": 32310,
+    "bytes": 840145
+   },
+   "mm2_mensual_1997_2026": {
+    "id": "mm2_mensual_1997_2026",
+    "mercado": "MM2_FRUTAS",
+    "periodicidad": "mensual",
+    "anios": "1997-2026",
+    "titulos": [],
+    "pie": [],
+    "error": "No existen resultados para los criterios elegidos.",
+    "n_filas_largas": 0,
+    "bytes": 78
+   },
+   "mm2_2026_11_genero": {
+    "id": "mm2_2026_11_genero",
+    "mercado": "MM2_FRUTAS",
+    "periodicidad": "intervalo",
+    "desde": "01/11/2026",
+    "hasta": "13/11/2026",
+    "productos": [
+     "0611"
+    ],
+    "titulos": [],
+    "pie": [],
+    "error": "No existen resultados para los criterios elegidos.",
+    "n_filas_largas": 0,
+    "bytes": 78
+   }
+  },
+  "resumen_muestra": {
+   "gmml_2016_03": {
+    "Limon Sutil Bolsa": {
+     "n_periodos_en_tabla": 10,
+     "n_con_precio_prom": 10,
+     "n_con_volumen_total": 10,
+     "procedencias": [
+      "Paita",
+      "Sullana",
+      "Tumbes",
+      "Zarumilla"
+     ],
+     "dias_calendario": 10,
+     "dias_sin_volumen": 0,
+     "dias_sin_volumen_por_dia_semana": {
+      "lun": 0,
+      "mar": 0,
+      "mie": 0,
+      "jue": 0,
+      "vie": 0,
+      "sab": 0,
+      "dom": 0
+     },
+     "ejemplos_dias_sin_volumen": [],
+     "volumen_total_t": {
+      "min": 85.0,
+      "max": 620.0,
+      "media": 310.9
+     },
+     "precio_prom_soles_kg": {
+      "min": 0.94,
+      "max": 1.39
+     }
+    },
+    "Limon Sutil Cajon": {
+     "n_periodos_en_tabla": 10,
+     "n_con_precio_prom": 10,
+     "n_con_volumen_total": 9,
+     "procedencias": [
+      "Chiclayo",
+      "Lambayeque",
+      "Sullana"
+     ],
+     "dias_calendario": 10,
+     "dias_sin_volumen": 1,
+     "dias_sin_volumen_por_dia_semana": {
+      "lun": 0,
+      "mar": 0,
+      "mie": 1,
+      "jue": 0,
+      "vie": 0,
+      "sab": 0,
+      "dom": 0
+     },
+     "ejemplos_dias_sin_volumen": [
+      "2016-03-09"
+     ],
+     "volumen_total_t": {
+      "min": 22.0,
+      "max": 418.0,
+      "media": 235.4
+     },
+     "precio_prom_soles_kg": {
+      "min": 1.23,
+      "max": 1.68
+     }
+    }
+   },
+   "gmml_2019_anual": {
+    "Limon Sutil Bolsa": {
+     "n_periodos_en_tabla": 365,
+     "n_con_precio_prom": 365,
+     "n_con_volumen_total": 359,
+     "procedencias": [
+      "Chiclayo",
+      "Contralmirante Villar",
+      "Ferrenafe",
+      "Huaraz",
+      "Lambayeque",
+      "Lima",
+      "Morropon",
+      "Piura",
+      "Sullana",
+      "Tumbes",
+      "Zarumilla"
+     ],
+     "dias_calendario": 365,
+     "dias_sin_volumen": 6,
+     "dias_sin_volumen_por_dia_semana": {
+      "lun": 0,
+      "mar": 1,
+      "mie": 5,
+      "jue": 0,
+      "vie": 0,
+      "sab": 0,
+      "dom": 0
+     },
+     "ejemplos_dias_sin_volumen": [
+      "2019-01-01",
+      "2019-07-10",
+      "2019-07-17",
+      "2019-08-14",
+      "2019-11-20",
+      "2019-12-25"
+     ],
+     "volumen_total_t": {
+      "min": 1.0,
+      "max": 806.0,
+      "media": 293.6
+     },
+     "precio_prom_soles_kg": {
+      "min": 0.69,
+      "max": 2.33
+     }
+    },
+    "Limon Sutil Cajon": {
+     "n_periodos_en_tabla": 365,
+     "n_con_precio_prom": 365,
+     "n_con_volumen_total": 333,
+     "procedencias": [
+      "Chiclayo",
+      "Concepcion",
+      "Ica",
+      "Lambayeque",
+      "Lima",
+      "Piura",
+      "Sanchez Carrion",
+      "Sechura",
+      "Sullana",
+      "Tumbes"
+     ],
+     "dias_calendario": 365,
+     "dias_sin_volumen": 32,
+     "dias_sin_volumen_por_dia_semana": {
+      "lun": 0,
+      "mar": 2,
+      "mie": 29,
+      "jue": 0,
+      "vie": 0,
+      "sab": 0,
+      "dom": 1
+     },
+     "ejemplos_dias_sin_volumen": [
+      "2019-01-09",
+      "2019-01-23",
+      "2019-02-13",
+      "2019-02-20",
+      "2019-02-27",
+      "2019-03-06",
+      "2019-03-13",
+      "2019-03-27",
+      "2019-04-17",
+      "2019-04-21",
+      "2019-04-23",
+      "2019-04-24",
+      "2019-05-01",
+      "2019-05-08",
+      "2019-05-15"
+     ],
+     "volumen_total_t": {
+      "min": 1.0,
+      "max": 645.0,
+      "media": 216.1
+     },
+     "precio_prom_soles_kg": {
+      "min": 0.92,
+      "max": 2.93
+     }
+    }
+   },
+   "gmml_2023_12": {
+    "Limon Sutil Bolsa": {
+     "n_periodos_en_tabla": 27,
+     "n_con_precio_prom": 27,
+     "n_con_volumen_total": 27,
+     "procedencias": [
+      "Chiclayo",
+      "Sullana",
+      "Zarumilla"
+     ],
+     "dias_calendario": 27,
+     "dias_sin_volumen": 0,
+     "dias_sin_volumen_por_dia_semana": {
+      "lun": 0,
+      "mar": 0,
+      "mie": 0,
+      "jue": 0,
+      "vie": 0,
+      "sab": 0,
+      "dom": 0
+     },
+     "ejemplos_dias_sin_volumen": [],
+     "volumen_total_t": {
+      "min": 2.0,
+      "max": 936.0,
+      "media": 393.4
+     },
+     "precio_prom_soles_kg": {
+      "min": 1.08,
+      "max": 1.36
+     }
+    },
+    "Limon Sutil Cajon": {
+     "n_periodos_en_tabla": 27,
+     "n_con_precio_prom": 27,
+     "n_con_volumen_total": 23,
+     "procedencias": [
+      "Chiclayo",
+      "Sullana"
+     ],
+     "dias_calendario": 27,
+     "dias_sin_volumen": 4,
+     "dias_sin_volumen_por_dia_semana": {
+      "lun": 0,
+      "mar": 1,
+      "mie": 3,
+      "jue": 0,
+      "vie": 0,
+      "sab": 0,
+      "dom": 0
+     },
+     "ejemplos_dias_sin_volumen": [
+      "2023-12-20",
+      "2023-12-27",
+      "2024-01-02",
+      "2024-01-03"
+     ],
+     "volumen_total_t": {
+      "min": 1.0,
+      "max": 215.0,
+      "media": 51.4
+     },
+     "precio_prom_soles_kg": {
+      "min": 1.14,
+      "max": 1.63
+     }
+    }
+   },
+   "gmml_2025_09_10": {
+    "Limon Sutil Bolsa": {
+     "n_periodos_en_tabla": 61,
+     "n_con_precio_prom": 61,
+     "n_con_volumen_total": 60,
+     "procedencias": [
+      "Chiclayo",
+      "Sullana",
+      "Zarumilla"
+     ],
+     "dias_calendario": 61,
+     "dias_sin_volumen": 1,
+     "dias_sin_volumen_por_dia_semana": {
+      "lun": 0,
+      "mar": 0,
+      "mie": 1,
+      "jue": 0,
+      "vie": 0,
+      "sab": 0,
+      "dom": 0
+     },
+     "ejemplos_dias_sin_volumen": [
+      "2025-10-15"
+     ],
+     "volumen_total_t": {
+      "min": 2.0,
+      "max": 954.0,
+      "media": 429.1
+     },
+     "precio_prom_soles_kg": {
+      "min": 2.17,
+      "max": 3.5
+     }
+    },
+    "Limon Sutil Cajon": {
+     "n_periodos_en_tabla": 61,
+     "n_con_precio_prom": 61,
+     "n_con_volumen_total": 41,
+     "procedencias": [
+      "Chiclayo",
+      "Sullana"
+     ],
+     "dias_calendario": 61,
+     "dias_sin_volumen": 20,
+     "dias_sin_volumen_por_dia_semana": {
+      "lun": 2,
+      "mar": 1,
+      "mie": 9,
+      "jue": 2,
+      "vie": 2,
+      "sab": 1,
+      "dom": 3
+     },
+     "ejemplos_dias_sin_volumen": [
+      "2025-09-03",
+      "2025-09-07",
+      "2025-09-10",
+      "2025-09-17",
+      "2025-09-22",
+      "2025-09-24",
+      "2025-09-26",
+      "2025-09-28",
+      "2025-10-01",
+      "2025-10-02",
+      "2025-10-07",
+      "2025-10-08",
+      "2025-10-12",
+      "2025-10-15",
+      "2025-10-16"
+     ],
+     "volumen_total_t": {
+      "min": 1.0,
+      "max": 210.0,
+      "media": 66.1
+     },
+     "precio_prom_soles_kg": {
+      "min": 2.5,
+      "max": 3.7
+     }
+    }
+   },
+   "gmml_2026_ultimo": {
+    "Limon Sutil Bolsa": {
+     "n_periodos_en_tabla": 31,
+     "n_con_precio_prom": 31,
+     "n_con_volumen_total": 31,
+     "procedencias": [
+      "Chiclayo",
+      "Lambayeque",
+      "Piura",
+      "Sullana",
+      "Tumbes",
+      "Zarumilla"
+     ],
+     "dias_calendario": 31,
+     "dias_sin_volumen": 0,
+     "dias_sin_volumen_por_dia_semana": {
+      "lun": 0,
+      "mar": 0,
+      "mie": 0,
+      "jue": 0,
+      "vie": 0,
+      "sab": 0,
+      "dom": 0
+     },
+     "ejemplos_dias_sin_volumen": [],
+     "volumen_total_t": {
+      "min": 3.0,
+      "max": 1379.0,
+      "media": 573.9
+     },
+     "precio_prom_soles_kg": {
+      "min": 1.19,
+      "max": 1.5
+     }
+    },
+    "Limon Sutil Cajon": {
+     "n_periodos_en_tabla": 31,
+     "n_con_precio_prom": 31,
+     "n_con_volumen_total": 23,
+     "procedencias": [
+      "Chiclayo",
+      "Lambayeque",
+      "Sullana",
+      "Tumbes"
+     ],
+     "dias_calendario": 31,
+     "dias_sin_volumen": 8,
+     "dias_sin_volumen_por_dia_semana": {
+      "lun": 0,
+      "mar": 2,
+      "mie": 4,
+      "jue": 0,
+      "vie": 0,
+      "sab": 1,
+      "dom": 1
+     },
+     "ejemplos_dias_sin_volumen": [
+      "2026-10-20",
+      "2026-10-21",
+      "2026-10-28",
+      "2026-11-03",
+      "2026-11-04",
+      "2026-11-07",
+      "2026-11-08",
+      "2026-11-11"
+     ],
+     "volumen_total_t": {
+      "min": 4.0,
+      "max": 547.0,
+      "media": 123.7
+     },
+     "precio_prom_soles_kg": {
+      "min": 1.68,
+      "max": 2.07
+     }
+    }
+   },
+   "gmml_mensual_1997_2026": {
+    "Limon Sutil Bolsa": {
+     "n_periodos_en_tabla": 359,
+     "n_con_precio_prom": 359,
+     "n_con_volumen_total": 358,
+     "procedencias": [
+      "Ascope",
+      "Ayabaca",
+      "Bagua",
+      "Barranca",
+      "Cajamarca",
+      "Camara Frigorifico",
+      "Canete",
+      "Casma",
+      "Chiclayo",
+      "Chincha",
+      "Contralmirante Villar",
+      "Ferrenafe",
+      "Huancabamba",
+      "Huancayo",
+      "Huanuco",
+      "Huaral",
+      "Huaraz",
+      "Huari",
+      "Huarmey",
+      "Huaura",
+      "Jaen",
+      "Lambayeque",
+      "Lima",
+      "Morropon",
+      "Moyobamba",
+      "Nazca",
+      "Oxapampa",
+      "Paita",
+      "Piura",
+      "Procedencia Desconocida",
+      "San Martin",
+      "Santa",
+      "Satipo",
+      "Sechura",
+      "Sin Especificacion",
+      "Sullana",
+      "Tocache",
+      "Trujillo",
+      "Tumbes",
+      "Zarumilla"
+     ],
+     "primer_periodo_con_volumen": "ENE-1997",
+     "ultimo_periodo_con_volumen": "NOV-2026",
+     "primer_periodo_con_precio": "ENE-1997",
+     "ultimo_periodo_con_precio": "NOV-2026",
+     "meses_faltantes_volumen": [
+      "1997-09"
+     ],
+     "meses_faltantes_precio": []
+    },
+    "Limon Sutil Cajon": {
+     "n_periodos_en_tabla": 359,
+     "n_con_precio_prom": 359,
+     "n_con_volumen_total": 358,
+     "procedencias": [
+      "Ambo",
+      "Arequipa",
+      "Ascope",
+      "Ayabaca",
+      "Barranca",
+      "Cajatambo",
+      "Callao",
+      "Canete",
+      "Casma",
+      "Chanchamayo",
+      "Chiclayo",
+      "Concepcion",
+      "Ferrenafe",
+      "Huancabamba",
+      "Huancayo",
+      "Huaral",
+      "Huari",
+      "Huarmey",
+      "Huarochiri",
+      "Huaura",
+      "Ica",
+      "Jaen",
+      "Lambayeque",
+      "Lima",
+      "Morropon",
+      "Nazca",
+      "Oxapampa",
+      "Oyon",
+      "Paita",
+      "Pisco",
+      "Piura",
+      "Procedencia Desconocida",
+      "San Martin",
+      "Sanchez Carrion",
+      "Santa",
+      "Sechura",
+      "Sin Especificacion",
+      "Sullana",
+      "Tarma",
+      "Trujillo",
+      "Tumbes",
+      "Zarumilla"
+     ],
+     "primer_periodo_con_volumen": "ENE-1997",
+     "ultimo_periodo_con_volumen": "NOV-2026",
+     "primer_periodo_con_precio": "ENE-1997",
+     "ultimo_periodo_con_precio": "NOV-2026",
+     "meses_faltantes_volumen": [
+      "1997-09"
+     ],
+     "meses_faltantes_precio": []
+    }
+   },
+   "mm2_mensual_1997_2026": {},
+   "mm2_2026_11_genero": {}
+  }
+ },
+ "gobpe": {
+  "colecciones": {
+   "GMML": {
+    "url": "https://www.gob.pe/institucion/midagri/colecciones/335-reporte-de-ingreso-y-precios-en-el-gran-mercado-mayorista-de-lima",
+    "resultados_declarados": 86,
+    "hojas_paginacion": [
+     "2",
+     "3",
+     "4"
+    ],
+    "paginacion_permitida_robots": false,
+    "paginas_mensuales_primera_hoja": [
+     "6145954-reporte-de-ingreso-y-precios-en-el-gran-mercado-mayorista-de-lima-gmml-noviembre-2024",
+     "6246540-reporte-de-ingreso-y-precios-en-el-gran-mercado-mayorista-de-lima-gmml-diciembre-2024",
+     "6342029-reporte-de-ingreso-y-precios-en-el-gran-mercado-mayorista-de-lima-gmml-enero-2025",
+     "6429367-reporte-de-ingreso-y-precios-en-el-gran-mercado-mayorista-de-lima-gmml-febrero-2025",
+     "6527366-reporte-de-ingreso-y-precios-en-el-gran-mercado-mayorista-de-lima-gmml-marzo-2025",
+     "6622998-reporte-de-ingreso-y-precios-en-el-gran-mercado-mayorista-de-lima-gmml-abril-2025",
+     "6732741-reporte-de-ingreso-y-precios-en-el-gran-mercado-mayorista-de-lima-gmml-mayo-2025",
+     "6826420-reporte-de-ingreso-y-precios-en-el-gran-mercado-mayorista-de-lima-gmml-junio-2025",
+     "6920068-reporte-de-ingreso-y-precios-en-el-gran-mercado-mayorista-de-lima-gmml-julio-2025",
+     "7005243-reporte-de-ingreso-y-precios-en-el-gran-mercado-mayorista-de-lima-gmml-agosto-2025",
+     "7101680-reporte-de-ingreso-y-precios-en-el-gran-mercado-mayorista-de-lima-gmml-setiembre-2025",
+     "7244910-reporte-de-ingreso-y-precios-en-el-gran-mercado-mayorista-de-lima-gmml-octubre-2025",
+     "7360458-reporte-de-ingreso-y-precios-en-el-gran-mercado-mayorista-de-lima-gmml-noviembre-2025",
+     "7456609-reporte-de-ingreso-y-precios-en-el-gran-mercado-mayorista-de-lima-gmml-diciembre-2025",
+     "7585583-reporte-de-ingreso-y-precios-en-el-gran-mercado-mayorista-de-lima-gmml-enero-2026",
+     "7685375-reporte-de-ingreso-y-precios-en-el-gran-mercado-mayorista-de-lima-gmml-febrero-2026",
+     "7801148-reporte-de-ingreso-y-precios-en-el-gran-mercado-mayorista-de-lima-gmml-marzo-2026",
+     "7957209-reporte-de-ingreso-y-precios-en-el-gran-mercado-mayorista-de-lima-gmml-abril-2026",
+     "8082986-reporte-de-ingreso-y-precios-en-el-gran-mercado-mayorista-de-lima-gmml-mayo-2026",
+     "8202251-reporte-de-ingreso-y-precios-en-el-gran-mercado-mayorista-de-lima-gmml-junio-2026",
+     "8317587-reporte-de-ingreso-y-precios-en-el-gran-mercado-mayorista-de-lima-gmml-julio-2026",
+     "8435296-reporte-de-ingreso-y-precios-en-el-gran-mercado-mayorista-de-lima-gmml-agosto-2026",
+     "8540865-reporte-de-ingreso-y-precios-en-el-gran-mercado-mayorista-de-lima-gmml-setiembre-2026",
+     "8666398-reporte-de-ingreso-y-precios-en-el-gran-mercado-mayorista-de-lima-gmml-octubre-2026",
+     "8779792-reporte-de-ingreso-y-precios-en-el-gran-mercado-mayorista-de-lima-gmml-noviembre-2026"
+    ]
+   },
+   "MM2_FRUTAS": {
+    "url": "https://www.gob.pe/institucion/midagri/colecciones/14-reporte-de-ingreso-y-precios-en-el-mercado-mayorista-de-frutas-n-2",
+    "resultados_declarados": 84,
+    "hojas_paginacion": [
+     "2",
+     "3",
+     "4"
+    ],
+    "paginacion_permitida_robots": false,
+    "paginas_mensuales_primera_hoja": [
+     "6145942-reporte-de-ingreso-y-precios-en-el-mercado-mayorista-de-frutas-mmf-n-2-noviembre-2024",
+     "6246594-reporte-de-ingreso-y-precios-en-el-mercado-mayorista-de-frutas-mmf-n-2-diciembre-2024",
+     "6342007-reporte-de-ingreso-y-precios-en-el-mercado-mayorista-de-frutas-mmf-n-2-enero-2025",
+     "6427861-reporte-de-ingreso-y-precios-en-el-mercado-mayorista-de-frutas-mmf-n-2-febrero-2025",
+     "6528032-reporte-de-ingreso-y-precios-en-el-mercado-mayorista-de-frutas-mmf-n-2-marzo-2025",
+     "6623572-reporte-de-ingreso-y-precios-en-el-mercado-mayorista-de-frutas-mmf-n-2-abril-2025",
+     "6731550-reporte-de-ingreso-y-precios-en-el-mercado-mayorista-de-frutas-mmf-n-2-mayo-2025",
+     "6826408-reporte-de-ingreso-y-precios-en-el-mercado-mayorista-de-frutas-mmf-n-2-junio-2025",
+     "6920018-reporte-de-ingreso-y-precios-en-el-mercado-mayorista-de-frutas-mmf-n-2-julio-2025",
+     "7005235-reporte-de-ingreso-y-precios-en-el-mercado-mayorista-de-frutas-mmf-n-2-agosto-2025",
+     "7101668-reporte-de-ingreso-y-precios-en-el-mercado-mayorista-de-frutas-mmf-n-2-setiembre-2025",
+     "7252096-reporte-de-ingreso-y-precios-en-el-mercado-mayorista-de-frutas-mmf-n-2-octubre-2025",
+     "7357550-reporte-de-ingreso-y-precios-en-el-mercado-mayorista-de-frutas-mmf-n-2-noviembre-2025",
+     "7456716-reporte-de-ingreso-y-precios-en-el-mercado-mayorista-de-frutas-mmf-n-2-diciembre-2025",
+     "7585618-reporte-de-ingreso-y-precios-en-el-mercado-mayorista-de-frutas-mmf-n-2-enero-2026",
+     "7685400-reporte-de-ingreso-y-precios-en-el-mercado-mayorista-de-frutas-mmf-n-2-febrero-2026",
+     "7804420-reporte-de-ingreso-y-precios-en-el-mercado-mayorista-de-frutas-mmf-n-2-marzo-2026",
+     "7958374-reporte-de-ingreso-y-precios-en-el-mercado-mayorista-de-frutas-mmf-n-2-abril-2026",
+     "8082935-reporte-de-ingreso-y-precios-en-el-mercado-mayorista-de-frutas-mmf-n-2-mayo-2026",
+     "8204968-reporte-de-ingreso-y-precios-en-el-mercado-mayorista-de-frutas-mmf-n-2-junio-2026",
+     "8319956-reporte-de-ingreso-y-precios-en-el-mercado-mayorista-de-frutas-mmf-n-2-julio-2026",
+     "8435246-reporte-de-ingreso-y-precios-en-el-mercado-mayorista-de-frutas-mmf-n-2-agosto-2026",
+     "8541182-reporte-de-ingreso-y-precios-en-el-mercado-mayorista-de-frutas-mmf-n-2-setiembre-2026",
+     "8666165-reporte-de-ingreso-y-precios-en-el-mercado-mayorista-de-frutas-mmf-n-2-octubre-2026",
+     "8806599-reporte-de-ingreso-y-precios-en-el-mercado-mayorista-de-frutas-mmf-n-2-noviembre-2026"
+    ]
+   }
+  },
+  "pdf": [
+   {
+    "id": "gmml_2021_02",
+    "pagina": "https://www.gob.pe/institucion/midagri/informes-publicaciones/1625697-reporte-de-ingreso-y-precios-en-el-gran-mercado-mayorista-de-lima-gmml-febrero-2021",
+    "n_pdf_listados": 20,
+    "primer_pdf": "https://cdn.www.gob.pe/uploads/document/file/1636162/Reporte%20de%20Ingreso%20y%20Precios%20en%20el%20GRAN%20MERCADO%20MAYORISTA%20DE%20LIMA%20-%2001/02/21.pdf?v=1612297706",
+    "ultimo_pdf": "https://cdn.www.gob.pe/uploads/document/file/1694115/Reporte%20de%20Ingreso%20y%20Precios%20en%20el%20GRAN%20MERCADO%20MAYORISTA%20DE%20LIMA%20-%2026/02/21.pdf?v=1614364373",
+    "archivo": "data/raw/gobpe/pdf_gmml_2021_02_doc1636162.pdf",
+    "paginas": 2,
+    "encabezado": [
+     "lunes, 01 de febrero de 2021",
+     "Masa de Ingreso (t) Precios S/ x Unidad de medida",
+     "PRODUCTOS Promedio Unidad Equiv Precio promedio",
+     "Ayer Hoy Últ. 7 Últ. 4 de en Últimos",
+     "Ayer Hoy",
+     "días lunes medida Kg 7 días"
+    ],
+    "lineas_limon": [
+     "Limon Sutil Bolsa 114 1115 467 870 Bolsa 45.00 60.00 65.00 58E.5n0 Baja",
+     "Limon Sutil Cajon 58 245 : 199 Cajon 23.00 45.00 50.00 41.E6s8table"
+    ],
+    "lineas_fuente": [
+     "Fuente : Gran Mercado Mayorista de Lima"
+    ],
+    "filas_limon_extract_tables": [
+     [
+      "Limon Sutil Bolsa",
+      "114",
+      "1115",
+      "467",
+      "870",
+      "Bolsa",
+      "45.00",
+      "60.00",
+      "65.00",
+      "58E.5n0"
+     ],
+     [
+      "Limon Sutil Cajon",
+      "58",
+      "245",
+      ":",
+      "199",
+      "Cajon",
+      "23.00",
+      "45.00",
+      "50.00",
+      "41.E6s8t"
+     ]
+    ],
+    "n_caracteres_texto": 5312
+   },
+   {
+    "id": "gmml_2023_12",
+    "pagina": "https://www.gob.pe/institucion/midagri/informes-publicaciones/4910329-reporte-de-ingreso-y-precios-en-el-gran-mercado-mayorista-de-lima-gmml-diciembre-2023",
+    "n_pdf_listados": 19,
+    "primer_pdf": "https://cdn.www.gob.pe/uploads/document/file/5629670/4910329-reporte-de-ingreso-y-precios-en-el-gran-mercado-mayorista-de-lima-29-12-23.pdf?v=1704289129",
+    "ultimo_pdf": "https://cdn.www.gob.pe/uploads/document/file/5512874/4910329-reporte-de-ingreso-y-precios-en-el-gran-mercado-mayorista-de-lima-01-12-23.pdf?v=1704288163",
+    "archivo": "data/raw/gobpe/pdf_gmml_2023_12_doc5629670.pdf",
+    "paginas": 2,
+    "encabezado": [
+     "viernes, 29 de Diciembre de 2023",
+     "Masa de Ingreso (t) Precios S/ x Unidad de medida",
+     "PRODUCTOS Promedio Unidad Equiv Precio promedio",
+     "Ayer Hoy Últ. 7 Últ. 4 de en Últimos",
+     "Ayer Hoy",
+     "días viernes medida Kg 7 días"
+    ],
+    "lineas_limon": [
+     "Limon Sutil Bolsa 408 324 403 436 Bolsa 45.00 48.75 48.75 50E.5n4 Baja",
+     "Limon Sutil Cajon 35 33 : : Cajon 23.00 28.75 28.75 29.E0s4table"
+    ],
+    "lineas_fuente": [
+     "Fuente : EMMSA - Gran Mercado Mayorista de Lima"
+    ],
+    "filas_limon_extract_tables": [
+     [
+      "Limon Sutil Bolsa",
+      "408",
+      "324",
+      "403",
+      "436",
+      "Bolsa",
+      "45.00",
+      "48.75",
+      "48.75",
+      "50E.5n4"
+     ],
+     [
+      "Limon Sutil Cajon",
+      "35",
+      "33",
+      ":",
+      ":",
+      "Cajon",
+      "23.00",
+      "28.75",
+      "28.75",
+      "29.E0s4t"
+     ]
+    ],
+    "n_caracteres_texto": 5186
+   },
+   {
+    "id": "gmml_2025_10",
+    "pagina": "https://www.gob.pe/institucion/midagri/informes-publicaciones/7244910-reporte-de-ingreso-y-precios-en-el-gran-mercado-mayorista-de-lima-gmml-octubre-2025",
+    "n_pdf_listados": 23,
+    "primer_pdf": "https://cdn.www.gob.pe/uploads/document/file/8926013/7244910-reporte-de-ingreso-y-precios-en-el-gran-mercado-mayorista-de-lima-31-10-2025.pdf?v=1761924903",
+    "ultimo_pdf": "https://cdn.www.gob.pe/uploads/document/file/8759840/7244910-reporte-de-ingreso-y-precios-en-el-gran-mercado-mayorista-de-lima-01-10-2025.pdf?v=1761924839",
+    "archivo": "data/raw/gobpe/pdf_gmml_2025_10_doc8926013.pdf",
+    "paginas": 2,
+    "encabezado": [
+     "viernes, 31 de Octubre de 2025",
+     "Masa de Ingreso (t) Precios S/ x Unidad de medida",
+     "PRODUCTOS Promedio Unidad Equiv Precio promedio",
+     "Ayer Hoy Últ. 7 Últ. 4 de en Últimos",
+     "Ayer Hoy",
+     "días viernes medida Kg 7 días"
+    ],
+    "lineas_limon": [
+     "Limon Sutil Bolsa 899 584 445 387 Bolsa 45.00 102.50 97.50 110.00",
+     "Limon Sutil Cajon 65 : : 66 Cajon 23.00 63.75 57.50 70.36"
+    ],
+    "lineas_fuente": [
+     "Fuente : EMMSA - Gran Mercado Mayorista de Lima"
+    ],
+    "filas_limon_extract_tables": [
+     [
+      "Limon Sutil Bolsa",
+      "899",
+      "584",
+      "445",
+      "387",
+      "Bolsa",
+      "45.00",
+      "102.50",
+      "97.50",
+      "110.00"
+     ],
+     [
+      "Limon Sutil Cajon",
+      "65",
+      ":",
+      ":",
+      "66",
+      "Cajon",
+      "23.00",
+      "63.75",
+      "57.50",
+      "70.36"
+     ]
+    ],
+    "n_caracteres_texto": 4684
+   },
+   {
+    "id": "mm2_ultimo_listado",
+    "pagina": "https://www.gob.pe/institucion/midagri/informes-publicaciones/8806599-reporte-de-ingreso-y-precios-en-el-mercado-mayorista-de-frutas-mmf-n-2-noviembre-2026",
+    "n_pdf_listados": 5,
+    "primer_pdf": "https://cdn.www.gob.pe/uploads/document/file/10961327/8806599-reporte-de-ingreso-y-precios-en-el-mercado-mayorista-de-frutas-n-2-13-11-2026.pdf?v=1794587425",
+    "ultimo_pdf": "https://cdn.www.gob.pe/uploads/document/file/10933571/8806599-reporte-de-ingreso-y-precios-en-el-mercado-mayorista-de-frutas-n-2-09-11-2026.pdf?v=1794587419",
+    "archivo": "data/raw/gobpe/pdf_mm2_ultimo_listado_doc10961327.pdf",
+    "paginas": 3,
+    "encabezado": [
+     "BOLETÍN DIARIO",
+     "viernes, 13 de Noviembre de 2026",
+     "Frutas"
+    ],
+    "lineas_limon": [
+     "Limon Dulce - Selva 10 13 11 10 Jaba 20.00 47.25 46.50 46.25"
+    ],
+    "lineas_fuente": [
+     "Fuente : Mercado Mayorista de Frutas N.º 2"
+    ],
+    "filas_limon_extract_tables": [
+     [
+      "Limon Dulce - Selva",
+      "10",
+      "13",
+      "11",
+      "10",
+      "Jaba",
+      "20.00",
+      "47.25",
+      "46.50",
+      "46.25"
+     ]
+    ],
+    "n_caracteres_texto": 6881
+   }
+  ]
+ }
+}

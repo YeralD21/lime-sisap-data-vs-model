@@ -1,0 +1,6 @@
+# Probado con Python 3.14.3 (Windows 11), 2026-11-14.
+requests==2.34.2
+beautifulsoup4==4.15.0
+PyYAML==6.0.3
+pdfplumber==0.11.10
+pandas==3.1.1

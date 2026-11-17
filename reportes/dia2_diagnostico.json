@@ -1,0 +1,559 @@
+{
+ "corte": "2026-11-13",
+ "primer_dia_en_tabla": "1997-01-01",
+ "primer_dia_vol_bolsa": "1997-01-02",
+ "primer_dia_vol_cajon": "1997-01-02",
+ "primer_dia_vol_total": "1997-01-02",
+ "primer_dia_precio_bolsa": "1997-01-01",
+ "primer_dia_precio_cajon": "1997-01-01",
+ "volumen_cero_en_sisap": 0,
+ "volumen_minimo_observado_t": 0.02,
+ "total_vs_suma_procedencias": {
+  "n": 20549,
+  "dif_max_t": 0.02,
+  "n_dif_mayor_0_011": 15
+ },
+ "rachas_fuera_de_tabla_ge3": [
+  "2012-10-27..2012-10-31 (5 d)",
+  "2016-01-11..2016-01-31 (21 d)",
+  "2017-03-17..2017-03-21 (5 d)"
+ ],
+ "n_dias_fuera_de_tabla": 79,
+ "candidatos_atipicos": {
+  "criterio": "valor > 4 x mediana del mismo dia de la semana (+-4 semanas) y > 100 t",
+  "n": 94,
+  "n_en_2021_2025": 56,
+  "top10": [
+   {
+    "fecha": "2023-03-15",
+    "serie": "vol_bolsa",
+    "valor_t": 816.0,
+    "mediana_vecinos_t": 5.5,
+    "razon": 148.36,
+    "anomalia_documentada": 0
+   },
+   {
+    "fecha": "2025-12-24",
+    "serie": "vol_bolsa",
+    "valor_t": 393.0,
+    "mediana_vecinos_t": 3.5,
+    "razon": 112.29,
+    "anomalia_documentada": 0
+   },
+   {
+    "fecha": "2025-12-31",
+    "serie": "vol_bolsa",
+    "valor_t": 297.0,
+    "mediana_vecinos_t": 3.0,
+    "razon": 99.0,
+    "anomalia_documentada": 0
+   },
+   {
+    "fecha": "2020-12-30",
+    "serie": "vol_cajon",
+    "valor_t": 178.0,
+    "mediana_vecinos_t": 2.0,
+    "razon": 89.0,
+    "anomalia_documentada": 0
+   },
+   {
+    "fecha": "2020-12-30",
+    "serie": "vol_bolsa",
+    "valor_t": 653.0,
+    "mediana_vecinos_t": 11.0,
+    "razon": 59.36,
+    "anomalia_documentada": 0
+   },
+   {
+    "fecha": "2008-12-31",
+    "serie": "vol_bolsa",
+    "valor_t": 139.0,
+    "mediana_vecinos_t": 3.0,
+    "razon": 46.33,
+    "anomalia_documentada": 0
+   },
+   {
+    "fecha": "2024-01-17",
+    "serie": "vol_bolsa",
+    "valor_t": 151.0,
+    "mediana_vecinos_t": 3.5,
+    "razon": 43.14,
+    "anomalia_documentada": 0
+   },
+   {
+    "fecha": "2010-03-31",
+    "serie": "vol_bolsa",
+    "valor_t": 102.0,
+    "mediana_vecinos_t": 3.5,
+    "razon": 29.14,
+    "anomalia_documentada": 0
+   },
+   {
+    "fecha": "2020-04-15",
+    "serie": "vol_bolsa",
+    "valor_t": 141.0,
+    "mediana_vecinos_t": 5.5,
+    "razon": 25.64,
+    "anomalia_documentada": 0
+   },
+   {
+    "fecha": "2000-09-26",
+    "serie": "vol_cajon",
+    "valor_t": 192.74,
+    "mediana_vecinos_t": 8.06,
+    "razon": 23.91,
+    "anomalia_documentada": 0
+   }
+  ]
+ },
+ "control_puntos_suspensivos": {
+  "n_pdf": 9,
+  "n_comparaciones": 72,
+  "n_coincide_faltante": 67,
+  "n_coincide_cero": 42,
+  "n_discriminantes": 25,
+  "discriminantes_a_favor_faltante": 25,
+  "dias_con_puntos_suspensivos_comparados_ayer_hoy": 11,
+  "pdf_muestra_dos_puntos_en_esos_dias": 11
+ },
+ "ruptura_2005_2006": {
+  "ultimo_mes_con_decimales": "2005-11",
+  "primer_mes_todo_entero": "2005-12",
+  "fraccion_valores_con_decimales_por_anio": {
+   "1997": 0.992,
+   "1998": 0.993,
+   "1999": 0.987,
+   "2000": 0.993,
+   "2001": 0.989,
+   "2002": 0.994,
+   "2003": 0.992,
+   "2004": 0.982,
+   "2005": 0.908,
+   "2006": 0.0,
+   "2007": 0.0,
+   "2008": 0.0
+  },
+  "parte_decimal_media_t_antes": 0.498,
+  "diario_3_anios": {
+   "antes": {
+    "periodo": "2002-12-01..2005-11-30",
+    "n_dias_vol_total": 1083,
+    "media_t": 223.3,
+    "mediana_t": 248.4,
+    "desv_t": 128.7,
+    "cv": 0.576,
+    "desv_log": 1.279
+   },
+   "despues": {
+    "periodo": "2005-12-01..2008-11-30",
+    "n_dias_vol_total": 1028,
+    "media_t": 284.2,
+    "mediana_t": 312.5,
+    "desv_t": 154.9,
+    "cv": 0.545,
+    "desv_log": 1.167
+   }
+  },
+  "levene_brown_forsythe_diario": {
+   "estadistico": 26.62,
+   "p": 2.708657799018041e-07
+  },
+  "escalon_log_mensual": {
+   "muestra": "2000-01..2009-12",
+   "n_meses": 120,
+   "coef": 0.0487,
+   "ic95": [
+    -0.028,
+    0.1253
+   ],
+   "efecto_pct": 5.0,
+   "p": 0.21332727156251496,
+   "especificacion": "log(vol_total mensual) ~ const + 11 dummies de mes + tendencia lineal + escalon; errores HAC (Newey-West, 12 rezagos)"
+  },
+  "desv_dlog_mensual": {
+   "antes": 0.116,
+   "despues": 0.131
+  }
+ },
+ "consistencia_diario_mensual": {
+  "bolsa": {
+   "n_meses_comparables": 357,
+   "n_iguales_tol_0_5t": 357,
+   "dif_abs_max_t": 0.11,
+   "meses_con_dif_gt_0_5t": [],
+   "meses_mensual_nan_diario_no": []
+  },
+  "cajon": {
+   "n_meses_comparables": 357,
+   "n_iguales_tol_0_5t": 357,
+   "dif_abs_max_t": 0.05,
+   "meses_con_dif_gt_0_5t": [],
+   "meses_mensual_nan_diario_no": []
+  },
+  "precio_bolsa_mensual_vs_media_diaria": {
+   "dif_abs_mediana": 0.0067,
+   "dif_abs_max": 0.219
+  }
+ },
+ "razon_miercoles_bolsa_por_anio": {
+  "1997": 0.155,
+  "1998": 0.365,
+  "1999": 0.128,
+  "2000": 0.042,
+  "2001": 0.04,
+  "2002": 0.024,
+  "2003": 0.023,
+  "2004": 0.014,
+  "2005": 0.057,
+  "2006": 0.018,
+  "2007": 0.023,
+  "2008": 0.01,
+  "2009": 0.014,
+  "2010": 0.017,
+  "2011": 0.026,
+  "2012": 0.026,
+  "2013": 0.029,
+  "2014": 0.009,
+  "2015": 0.08,
+  "2016": 0.203,
+  "2017": 0.223,
+  "2018": 0.077,
+  "2019": 0.014,
+  "2020": 0.012,
+  "2021": 0.007,
+  "2022": 0.008,
+  "2023": 0.011,
+  "2024": 0.009,
+  "2025": 0.007,
+  "2026": 0.005
+ },
+ "mediana_vol_total_por_dia_1997_2005": {
+  "lun": 345.20000000000005,
+  "mar": 102.785,
+  "mie": 15.035,
+  "jue": 270.31000000000006,
+  "vie": 242.07,
+  "sab": 281.11,
+  "dom": 174.12
+ },
+ "mediana_vol_total_por_dia_2006_2015": {
+  "lun": 496.0,
+  "mar": 133.0,
+  "mie": 11.0,
+  "jue": 425.0,
+  "vie": 377.0,
+  "sab": 414.0,
+  "dom": 261.0
+ },
+ "mediana_vol_total_por_dia_2016_2026": {
+  "lun": 869.0,
+  "mar": 147.0,
+  "mie": 36.0,
+  "jue": 706.0,
+  "vie": 531.0,
+  "sab": 699.0,
+  "dom": 312.0
+ },
+ "vol_total_anual_t": {
+  "1997": null,
+  "1998": 63757,
+  "1999": 70772,
+  "2000": 70879,
+  "2001": 68480,
+  "2002": 74533,
+  "2003": 80914,
+  "2004": 78619,
+  "2005": 85274,
+  "2006": 91719,
+  "2007": 99037,
+  "2008": 102977,
+  "2009": 108697,
+  "2010": 109243,
+  "2011": 102923,
+  "2012": 105114,
+  "2013": 127890,
+  "2014": 129804,
+  "2015": 142863,
+  "2016": 151104,
+  "2017": 143625,
+  "2018": 168344,
+  "2019": 177360,
+  "2020": 188349,
+  "2021": 183167,
+  "2022": 160203,
+  "2023": 152422,
+  "2024": 178431,
+  "2025": 182830,
+  "2026": null
+ },
+ "perfil_estacional_mediana": {
+  "1998_2005": {
+   "1": 1.269,
+   "2": 1.109,
+   "3": 1.189,
+   "4": 1.078,
+   "5": 1.0,
+   "6": 0.911,
+   "7": 0.882,
+   "8": 0.877,
+   "9": 0.75,
+   "10": 0.852,
+   "11": 0.951,
+   "12": 1.161
+  },
+  "2006_2015": {
+   "1": 1.17,
+   "2": 1.101,
+   "3": 1.125,
+   "4": 1.041,
+   "5": 0.966,
+   "6": 0.864,
+   "7": 0.874,
+   "8": 0.888,
+   "9": 0.894,
+   "10": 0.97,
+   "11": 1.02,
+   "12": 1.151
+  },
+  "2016_2025": {
+   "1": 1.128,
+   "2": 1.052,
+   "3": 1.113,
+   "4": 1.026,
+   "5": 0.976,
+   "6": 0.879,
+   "7": 0.887,
+   "8": 0.905,
+   "9": 0.883,
+   "10": 1.002,
+   "11": 0.999,
+   "12": 1.173
+  }
+ },
+ "tendencia_log_lineal_anual_pct": 4.25,
+ "sisagri": {
+  "archivo": "C:\\Machine-learming\\duallstm-lime-forecasting-peru\\v2_reentrenamiento\\data\\interim\\limon_sutil_nacional_mensual.csv",
+  "sha256": "9e8e06c65296cc1fa2673268db20c66cef4751e08015ba4929b98d2c6f970e31",
+  "n_meses": 120,
+  "nota": "copia de solo lectura del repositorio del articulo; no se modifica"
+ },
+ "excluidos_vs_evaluados": {
+  "periodo": "2021-01-01..2025-12-31",
+  "n_evaluados": 1352,
+  "n_excluidos": 474,
+  "n_excluidos_con_bolsa": 463,
+  "excluidos_por_anio": {
+   "2021": 67,
+   "2022": 97,
+   "2023": 81,
+   "2024": 96,
+   "2025": 133
+  },
+  "mediana_vol_bolsa_evaluados": 488.0,
+  "mediana_vol_bolsa_excluidos": 61.0,
+  "mann_whitney_vol_bolsa": {
+   "U": 142986.5,
+   "p": 2.557221524270885e-68,
+   "alternativa": "bilateral"
+  },
+  "regla_bolsa_sensibilidad_principal": true,
+  "complemento_sin_miercoles_no_aplica_a_la_regla": {
+   "U": 121469.0,
+   "p": 1.390757047456595e-14,
+   "mediana_evaluados": 501.5,
+   "mediana_excluidos": 221.5
+  }
+ },
+ "mensual_vs_sisap": {
+  "rango_brazo_m": "1997-10..2025-12",
+  "n_meses_rango": 339,
+  "n_faltantes_rango": 3,
+  "faltantes_por_anio": {
+   "2012": 1,
+   "2016": 1,
+   "2021": 1
+  },
+  "meses_faltantes": [
+   "2012-10 (8 d faltantes)",
+   "2016-01 (22 d faltantes)",
+   "2021-02 (0 d faltantes, anomalia)"
+  ],
+  "n_meses_comparables": 357,
+  "dif_abs_max_t": 0.13,
+  "n_dif_gt_0_5t": 0,
+  "meses_dif_gt_0_5t": {},
+  "n_dif_gt_5pct": 0,
+  "faltantes_estricto_rango": 47
+ },
+ "dias_ambas_faltantes": {
+  "n_total": 152,
+  "por_anio": {
+   "1997": 31,
+   "1999": 7,
+   "2005": 3,
+   "2006": 26,
+   "2007": 6,
+   "2008": 1,
+   "2010": 1,
+   "2012": 15,
+   "2013": 5,
+   "2014": 12,
+   "2015": 11,
+   "2016": 22,
+   "2017": 5,
+   "2023": 5,
+   "2024": 1,
+   "2025": 1
+  },
+  "n_fuera_de_tabla": 79,
+  "n_feriado": 14,
+  "n_junto_a_feriado": 8,
+  "por_dia_semana": {
+   "lun": 14,
+   "mar": 17,
+   "mie": 53,
+   "jue": 18,
+   "vie": 22,
+   "sab": 18,
+   "dom": 10
+  },
+  "prueba_2021_2025": [
+   {
+    "fecha": "2023-03-12",
+    "dia": "dom",
+    "en_tabla": 1,
+    "feriado": "",
+    "junto_a_feriado": ""
+   },
+   {
+    "fecha": "2023-07-15",
+    "dia": "sab",
+    "en_tabla": 1,
+    "feriado": "",
+    "junto_a_feriado": ""
+   },
+   {
+    "fecha": "2023-08-03",
+    "dia": "jue",
+    "en_tabla": 0,
+    "feriado": "",
+    "junto_a_feriado": ""
+   },
+   {
+    "fecha": "2023-08-04",
+    "dia": "vie",
+    "en_tabla": 0,
+    "feriado": "",
+    "junto_a_feriado": ""
+   },
+   {
+    "fecha": "2023-09-20",
+    "dia": "mie",
+    "en_tabla": 1,
+    "feriado": "",
+    "junto_a_feriado": ""
+   },
+   {
+    "fecha": "2024-12-25",
+    "dia": "mie",
+    "en_tabla": 1,
+    "feriado": "Navidad",
+    "junto_a_feriado": ""
+   },
+   {
+    "fecha": "2025-10-15",
+    "dia": "mie",
+    "en_tabla": 1,
+    "feriado": "",
+    "junto_a_feriado": ""
+   }
+  ]
+ },
+ "evaluables_por_anio": {
+  "2021": {
+   "dias": 365,
+   "D_dias_evaluables": 364,
+   "D_dias_cero_supuesto_bolsa": 1,
+   "D_dias_cero_supuesto_cajon": 65,
+   "D_dias_evaluables_estricto": 298,
+   "D_dias_evaluables_bolsa": 364,
+   "M_meses_evaluables": 11,
+   "M_meses_evaluables_estricto": 7
+  },
+  "2022": {
+   "dias": 365,
+   "D_dias_evaluables": 365,
+   "D_dias_cero_supuesto_bolsa": 2,
+   "D_dias_cero_supuesto_cajon": 95,
+   "D_dias_evaluables_estricto": 268,
+   "D_dias_evaluables_bolsa": 363,
+   "M_meses_evaluables": 12,
+   "M_meses_evaluables_estricto": 2
+  },
+  "2023": {
+   "dias": 365,
+   "D_dias_evaluables": 360,
+   "D_dias_cero_supuesto_bolsa": 0,
+   "D_dias_cero_supuesto_cajon": 76,
+   "D_dias_evaluables_estricto": 284,
+   "D_dias_evaluables_bolsa": 360,
+   "M_meses_evaluables": 12,
+   "M_meses_evaluables_estricto": 5
+  },
+  "2024": {
+   "dias": 366,
+   "D_dias_evaluables": 365,
+   "D_dias_cero_supuesto_bolsa": 1,
+   "D_dias_cero_supuesto_cajon": 94,
+   "D_dias_evaluables_estricto": 270,
+   "D_dias_evaluables_bolsa": 364,
+   "M_meses_evaluables": 12,
+   "M_meses_evaluables_estricto": 4
+  },
+  "2025": {
+   "dias": 365,
+   "D_dias_evaluables": 364,
+   "D_dias_cero_supuesto_bolsa": 0,
+   "D_dias_cero_supuesto_cajon": 132,
+   "D_dias_evaluables_estricto": 232,
+   "D_dias_evaluables_bolsa": 364,
+   "M_meses_evaluables": 12,
+   "M_meses_evaluables_estricto": 0
+  },
+  "total": {
+   "dias": 1826,
+   "D_dias_evaluables": 1818,
+   "D_dias_cero_supuesto_bolsa": 4,
+   "D_dias_cero_supuesto_cajon": 462,
+   "D_dias_evaluables_estricto": 1352,
+   "D_dias_evaluables_bolsa": 1815,
+   "M_meses_evaluables": 59,
+   "M_meses_evaluables_estricto": 18
+  }
+ },
+ "cobertura": {
+  "dias_calendario": 10909,
+  "dias_en_tabla": 10830,
+  "dias_con_vol_total": 9792,
+  "dias_con_vol_bolsa": 10629,
+  "dias_con_precio_bolsa": 10828,
+  "meses_completos": 358,
+  "meses_con_vol_total": 357,
+  "meses_sin_vol_total": [
+   "1997-09"
+  ],
+  "meses_incompletos": [
+   "1997-09",
+   "2005-11",
+   "2006-01",
+   "2006-06",
+   "2006-10",
+   "2006-11",
+   "2006-12",
+   "2012-09",
+   "2012-10",
+   "2016-01",
+   "2017-03"
+  ]
+ }
+}
