@@ -1,0 +1,71 @@
+Pesos guardados: resultados/ fuera de exp4 = 0; zip = 0; artículo 04_modelos = 0
+[1/60] exp3_V4_D s00: entrenada
+[2/60] exp3_V4_D s01: entrenada
+[3/60] exp3_V4_D s02: entrenada
+[4/60] exp3_V4_D s03: entrenada
+[5/60] exp3_V4_D s04: entrenada
+[6/60] exp3_V4_D s05: entrenada
+[7/60] exp3_V4_D s06: entrenada
+[8/60] exp3_V4_D s07: entrenada
+[9/60] exp3_V4_D s08: entrenada
+[10/60] exp3_V4_D s09: entrenada
+[11/60] exp3_V4_M s00: entrenada
+[12/60] exp3_V4_M s01: entrenada
+[13/60] exp3_V4_M s02: entrenada
+[14/60] exp3_V4_M s03: entrenada
+[15/60] exp3_V4_M s04: entrenada
+[16/60] exp3_V4_M s05: entrenada
+[17/60] exp3_V4_M s06: entrenada
+[18/60] exp3_V4_M s07: entrenada
+[19/60] exp3_V4_M s08: entrenada
+[20/60] exp3_V4_M s09: entrenada
+[21/60] exp2_Nmax_D s00: entrenada
+[22/60] exp2_Nmax_D s01: entrenada
+[23/60] exp2_Nmax_D s02: entrenada
+[24/60] exp2_Nmax_D s03: entrenada
+[25/60] exp2_Nmax_D s04: entrenada
+[26/60] exp2_Nmax_D s05: entrenada
+[27/60] exp2_Nmax_D s06: entrenada
+[28/60] exp2_Nmax_D s07: entrenada
+[29/60] exp2_Nmax_D s08: entrenada
+[30/60] exp2_Nmax_D s09: entrenada
+[31/60] exp2_Nmax_M s00: entrenada
+[32/60] exp2_Nmax_M s01: entrenada
+[33/60] exp2_Nmax_M s02: entrenada
+[34/60] exp2_Nmax_M s03: entrenada
+[35/60] exp2_Nmax_M s04: entrenada
+[36/60] exp2_Nmax_M s05: entrenada
+[37/60] exp2_Nmax_M s06: entrenada
+[38/60] exp2_Nmax_M s07: entrenada
+[39/60] exp2_Nmax_M s08: entrenada
+[40/60] exp2_Nmax_M s09: entrenada
+[41/60] exp1_GC3 s00: entrenada
+[42/60] exp1_GC3 s01: entrenada
+[43/60] exp1_GC3 s02: entrenada
+[44/60] exp1_GC3 s03: entrenada
+[45/60] exp1_GC3 s04: entrenada
+[46/60] exp1_GC3 s05: entrenada
+[47/60] exp1_GC3 s06: entrenada
+[48/60] exp1_GC3 s07: entrenada
+[49/60] exp1_GC3 s08: entrenada
+[50/60] exp1_GC3 s09: entrenada
+[51/60] exp1_GE s00: entrenada
+[52/60] exp1_GE s01: entrenada
+[53/60] exp1_GE s02: entrenada
+[54/60] exp1_GE s03: entrenada
+[55/60] exp1_GE s04: entrenada
+[56/60] exp1_GE s05: entrenada
+[57/60] exp1_GE s06: entrenada
+[58/60] exp1_GE s07: entrenada
+[59/60] exp1_GE s08: entrenada
+[60/60] exp1_GE s09: entrenada
+Pared: 348 s
+             dif_max_unidad_t    ok
+caso                               
+exp1_GC3                  0.0  True
+exp1_GE                   0.0  True
+exp2_Nmax_D               0.0  True
+exp2_Nmax_M               0.0  True
+exp3_V4_D                 0.0  True
+exp3_V4_M                 0.0  True
+Reproducción OK en todas las unidades.

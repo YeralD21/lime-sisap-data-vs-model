@@ -1,0 +1,48 @@
+{
+ "descripcion": "SHA-256 del anexo del experimento 4 y de sus scripts, calculados antes de calcular SHAP, permutación y atención. Lo congela YesaR con su commit.",
+ "metodo": "texto con CRLF->LF y luego SHA-256 (mismo método que scripts/04_hashes_protocolo.py)",
+ "fecha_calculo": "2026-11-18T07:28:55",
+ "nota": "src/redes.py, src/exogenas.py y resultados/exp3/*/delta.csv no cambian: se listan para comprobar que la fase B usa los mismos insumos (src/redes.py coincide con docs/hashes_anexo_exp3.json).",
+ "archivos": {
+  "docs/ANEXO_EXP4.md": {
+   "sha256": "088d920fdbb1660ffd40aa2b2b2507f2639ba3a40bf3968278f26dff362adce7",
+   "bytes_lf": 17864
+  },
+  "src/explicabilidad.py": {
+   "sha256": "6ea2b71378424847734775d30780f379eb0218359099c7104dd56a66bc400186",
+   "bytes_lf": 6362
+  },
+  "scripts/10_exp4.py": {
+   "sha256": "a054c7e97740bbfbf1f8caed6d5349e9d8cb834da2bd169cf3ace95d4b1123be",
+   "bytes_lf": 36114
+  },
+  "scripts/10_exp4_articulo.py": {
+   "sha256": "421cddbfa4b86e714d6d93bf4663db0c7e94db9500321167cae810e1e7a48df2",
+   "bytes_lf": 3524
+  },
+  "tests/test_exp4.py": {
+   "sha256": "800b13bbd10550a0a148379dff31ff0f5d0d2a57b9682974ec59597d4c5b2aa2",
+   "bytes_lf": 7979
+  },
+  "requirements-exp4.txt": {
+   "sha256": "d1e9641e13779db38e31b33bc34e4f0db2bf3e07fe61c8ae4f339ab15928fcf8",
+   "bytes_lf": 58
+  },
+  "src/redes.py": {
+   "sha256": "237983ded21096566d7b832f06a9de370a8180ca3d0360ea2093c26f56f06c3d",
+   "bytes_lf": 17819
+  },
+  "src/exogenas.py": {
+   "sha256": "dd779dac010d9c52794142deb1839753cef451882bef208c91fd960f207c495a",
+   "bytes_lf": 14878
+  },
+  "resultados/exp3/D/delta.csv": {
+   "sha256": "7016d4795042484896c757f33356a3f60627f68d5614d470d8c158814bb1c967",
+   "bytes_lf": 417
+  },
+  "resultados/exp3/M/delta.csv": {
+   "sha256": "3f611fe59f5a23d54ec40c245bd90ecc62e9781e6d68f1129abda369e83459de",
+   "bytes_lf": 402
+  }
+ }
+}
