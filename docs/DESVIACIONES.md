@@ -144,3 +144,35 @@ Registro exigido por `docs/PROTOCOLO.md` (cabecera): fecha, motivo, efecto y si 
 - **Fecha:** 2026-11-17. **Momento:** después de ver los resultados.
 - **Hecho:** en `e2_delta_vs_V0` algunas anotaciones de p se solapan con el eje, y en `e3_curvas_perdida_Y2025` las etiquetas del eje y de las dos filas se solapan. Corregirlo exige cambiar `scripts/08_exp3.py`, congelado con el anexo, así que no se tocó. La corrección de maquetación queda para una versión posterior de las figuras.
 - **Efecto:** ninguno en las cifras.
+
+---
+
+# Experimento 4 (anexo `docs/ANEXO_EXP4.md`, congelado en b052f2d)
+
+## EXP4-1 — Error de completitud de SHAP mayor que el 10 % en tres casos
+
+- **Fecha:** 2026-11-18. **Momento:** fase B, después de calcular SHAP (comprobación de cordura del anexo §3.5).
+- **Hecho:** el error de completitud medio |f(x) − E[f(fondo)] − Σ SHAP| supera el 10 % de la media de |f(x) − E[f(fondo)]| (umbral del anexo) en tres casos (`resultados/exp4/cordura.csv`):
+  - `exp3_V4_M`: 14,7 %;
+  - `exp1_GC3`: 13,8 %;
+  - `exp1_GE`: 20,1 %.
+
+  En los otros tres casos queda por debajo: `exp3_V4_D` 9,8 %, `exp2_Nmax_D` 9,4 % y `exp2_Nmax_M` 5,0 %. Expected gradients cumple la completitud solo en esperanza (`nsamples = 200`); en los casos mensuales el fondo tiene 84 secuencias y hay solo 12 muestras explicadas.
+- **Decisión:** no se recalcula con otro `nsamples`, porque cambiaría el método congelado. Se declara en el informe, y los SHAP de esos tres casos se leen como aproximados, sobre todo en el orden de grupos con importancias parecidas.
+- **Efecto:** ninguno en las cifras publicadas; sí en cuánta confianza merecen los rankings SHAP de esos tres casos.
+
+## EXP4-2 — Corrección de maquetación de la figura x4
+
+- **Fecha:** 2026-11-18. **Momento:** después de generar las figuras.
+- **Hecho:** en `x4_shap_vs_ablacion` las etiquetas del eje x «Permutación» y «Ablación exp. 3» se solapaban.
+- **Corrección:** `scripts/11_exp4_figuras.py` reutiliza `scripts/10_exp4.py` **sin modificarlo** (su SHA-256 sigue coincidiendo con `docs/hashes_anexo_exp4.json`) y solo parte esas etiquetas en dos líneas. Todas las figuras x1–x6 versionadas salen de ese script.
+- **Efecto:** ninguno en las cifras.
+
+## EXP4-3 — Diagnóstico posterior de la importancia por posición
+
+- **Fecha:** 2026-11-18. **Momento:** después de ver `x2_shap_por_rezago`. No estaba previsto en el anexo.
+- **Hecho:** el |SHAP| crece hacia la posición más antigua (t − 6) en todos los grupos y casos. Para saber si esto viene del modelo o del método, `scripts/12_exp4_diagnostico_posicion.py` hace una sustitución por posición en cada unidad:
+  - sustituye una posición completa (ramas A y B) por la misma posición de secuencias del fondo (10 sorteos, semilla 42);
+  - mide el cambio absoluto medio del pronóstico (`resultados/exp4/diagnostico_posicion.csv`).
+- **Resultado:** el patrón se repite, así que viene de los modelos, no de SHAP.
+- **Efecto:** ninguno en las cifras del anexo. Es descriptivo y se informa como posterior.

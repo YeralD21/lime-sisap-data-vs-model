@@ -50,3 +50,6 @@ reportes/figuras/*/exp3/e4_*.pdf
 # el beeswarm en PDF vectorial guarda los valores escalados de cada punto
 resultados/exp4/modelos/
 reportes/figuras/*/exp4/x5_*.pdf
+# Experimento 4: PDF de las figuras agregadas (x1-x4, x6) sí se versionan; x5 no (regla anterior)
+!reportes/figuras/*/exp4/*.pdf
+reportes/figuras/*/exp4/x5_*.pdf
