@@ -51,8 +51,10 @@ MARGEN = C.RED["lookback"] + max(REZAGOS_A)   # 12 pasos consumidos como rezagos
 
 # ----------------------------------------------------------------------------- variables
 
-def variables(df: pd.DataFrame, brazo: str, modelo: str) -> tuple[np.ndarray, np.ndarray | None]:
-    """Matrices de variables sin escalar, alineadas con df (fila j usa datos hasta j). NaN al inicio por rezagos."""
+def variables(df: pd.DataFrame, brazo: str, modelo: str, extra: np.ndarray | None = None
+              ) -> tuple[np.ndarray, np.ndarray | None]:
+    """Matrices de variables sin escalar, alineadas con df (fila j usa datos hasta j). NaN al inicio por rezagos.
+    extra (experimento 3): columnas exógenas ya rezagadas que se añaden a la rama B (src/exogenas.py)."""
     y = df.y
     A = np.column_stack([y.shift(k).to_numpy() for k in REZAGOS_A])
     if modelo == "LSTM univariada":
@@ -68,7 +70,12 @@ def variables(df: pd.DataFrame, brazo: str, modelo: str) -> tuple[np.ndarray, np
     else:
         mes = df.index.month.to_numpy()
         cal = [np.sin(2 * np.pi * mes / 12), np.cos(2 * np.pi * mes / 12), t]
-    return A, np.column_stack(cal + lag_p)
+    B = np.column_stack(cal + lag_p)
+    if extra is not None:
+        if len(extra) != len(df):
+            raise ValueError("Las exógenas no están alineadas con la serie.")
+        B = np.column_stack([B, extra])
+    return A, B
 
 
 class Escalador:
@@ -85,12 +92,12 @@ class Escalador:
         return (X - self.media) / self.escala
 
 
-def objetivos(part, h: int) -> dict[str, np.ndarray]:
+def objetivos(part, h: int, margen_filas: int = 0) -> dict[str, np.ndarray]:
     """Posiciones del objetivo por partición. h = 1: objetivo t con contexto t-6..t-1.
     h = 7: objetivo τ = t+6 con contexto t-6..t-1 (último dato τ-7)."""
     lb = C.RED["lookback"]
     paso = h - 1
-    ini_ctx = part.ini_hist + max(REZAGOS_A)          # primera fila con todos los rezagos dentro de la historia
+    ini_ctx = part.ini_hist + max(max(REZAGOS_A), margen_filas)   # primera fila con todos los rezagos dentro
     primero = ini_ctx + lb + paso                      # primer objetivo cuyo contexto cabe en la historia
     train = np.arange(primero, part.fin_train + 1)
     return {"train": train, "val": part.val, "test": part.test}
@@ -103,21 +110,25 @@ def secuencias(Xs: np.ndarray, pos: np.ndarray, h: int) -> np.ndarray:
 
 
 
-def preparar(df: pd.DataFrame, brazo: str, modelo: str, part, h: int):
+def preparar(df: pd.DataFrame, brazo: str, modelo: str, part, h: int, extra: np.ndarray | None = None,
+             margen_filas: int = 0):
     """Secuencias escaladas y objetivo escalado. El escalador se ajusta con las filas [ini_hist + 6, fin_train]:
-    todas sus variables (incluidos los rezagos) caen dentro de la historia de tamaño N."""
-    A, B = variables(df, brazo, modelo)
-    ini_fit = part.ini_hist + max(REZAGOS_A)
+    todas sus variables (incluidos los rezagos) caen dentro de la historia de tamaño N.
+    Experimento 3: `extra` añade exógenas a la rama B y `margen_filas` retrasa el inicio (calentamiento de las
+    exógenas); con los valores por defecto el resultado es el del día 3."""
+    A, B = variables(df, brazo, modelo, extra)
+    margen = max(max(REZAGOS_A), margen_filas)
+    ini_fit = part.ini_hist + margen
     ea = Escalador(A, ini_fit, part.fin_train)
     As = ea(A)
     Bs = Escalador(B, ini_fit, part.fin_train)(B) if B is not None else None
     mu, sd = float(ea.media[0]), float(ea.escala[0])   # columna 0 de A = y_t: mismo escalador para el objetivo
     ys = (df.y.to_numpy() - mu) / sd
-    pos = objetivos(part, h)
+    pos = objetivos(part, h, margen_filas)
     X = {k: [secuencias(As, v, h)] + ([secuencias(Bs, v, h)] if Bs is not None else []) for k, v in pos.items()}
     if not np.isfinite(np.concatenate([x.ravel() for x in X["train"]])).all():
         raise AssertionError("NaN en las secuencias de entrenamiento: el contexto se sale de la historia N.")
-    if pos["train"].max() > part.fin_train or pos["train"].min() - (h - 1) - C.RED["lookback"] - max(REZAGOS_A) < part.ini_hist:
+    if pos["train"].max() > part.fin_train or pos["train"].min() - (h - 1) - C.RED["lookback"] - margen < part.ini_hist:
         raise AssertionError("Fuga: objetivo o contexto de entrenamiento fuera de la historia N.")
     return X, ys, pos, (mu, sd), A, B
 
@@ -140,7 +151,7 @@ def parametros_lstm_univariada() -> int:
     return 4 * u * (1 + u + 1) + (u * d1 + d1) + (d1 * d2 + d2) + (d2 + 1)
 
 
-def _construir(modelo: str, n_a: int, n_b: int | None):
+def _construir(modelo: str, n_a: int, n_b: int | None, n_b_libre: bool = False):
     import tensorflow as tf
     from tensorflow import keras
     from tensorflow.keras import layers
@@ -165,7 +176,7 @@ def _construir(modelo: str, n_a: int, n_b: int | None):
 
     lb = R["lookback"]
     if modelo == "DualLSTM":
-        if n_a != 4 or n_b not in (6, 8):                 # validador modificado (§5)
+        if n_a != 4 or (n_b not in (6, 8) and not n_b_libre):   # validador modificado (§5); exp. 3: B libre
             raise ValueError(f"Dimensiones no previstas: A={n_a}, B={n_b}")
         ia = keras.Input(shape=(lb, n_a), name="rama_a")
         ha = layers.LSTM(R["lstm_units"], return_sequences=True, name="lstm_a")(ia)
@@ -220,12 +231,20 @@ def entrenar_y_predecir(unidad: dict, destino: Path) -> dict:
     from src.ventanas import Ventana, particion
 
     esc = Escenario(**unidad["escenario"])
-    df = serie(esc)
     h, modelo = int(unidad["h"]), unidad["modelo"]
     N = unidad["N"] if unidad["N"] == "max" else int(unidad["N"])
+    variante = unidad.get("variante")                 # experimento 3 (docs/ANEXO_EXP3.md); None en el día 3
+    if variante is None:
+        df = serie(esc)
+        extra, margen = None, 0
+    else:
+        from src import exogenas as X3
+        df = X3.serie_exp3(esc.brazo)
+        extra = X3.matriz_B(df.index, esc.brazo, X3.VARIANTES[variante])
+        margen = X3.MARGEN_FILAS[esc.brazo]
     part = particion(df.index, Ventana(int(unidad["anio"])), N)
-    X, ys, pos, (mu, sd), A, B = preparar(df, esc.brazo, modelo, part, h)
-    red, Att = _construir(modelo, A.shape[1], None if B is None else B.shape[1])
+    X, ys, pos, (mu, sd), A, B = preparar(df, esc.brazo, modelo, part, h, extra, margen)
+    red, Att = _construir(modelo, A.shape[1], None if B is None else B.shape[1], n_b_libre=variante is not None)
     R = C.RED
     destino.mkdir(parents=True, exist_ok=True)
     ckpt = destino / "checkpoint_best.keras"
@@ -249,8 +268,12 @@ def entrenar_y_predecir(unidad: dict, destino: Path) -> dict:
     estado = {**unidad, "n_params": int(red.count_params()), "n_train": int(len(pos["train"])),
               "n_val": int(len(pos["val"])), "n_test": int(len(pos["test"])), "n_hist": part.n_hist,
               "epocas": len(vl), "mejor_epoca": int(np.argmin(vl)) + 1, "segundos": round(seg, 2),
-              "escalador_filas": [df.index[part.ini_hist + max(REZAGOS_A)].strftime("%Y-%m-%d"), df.index[part.fin_train].strftime("%Y-%m-%d")],
+              "escalador_filas": [df.index[part.ini_hist + max(max(REZAGOS_A), margen)].strftime("%Y-%m-%d"),
+                                  df.index[part.fin_train].strftime("%Y-%m-%d")],
               "determinismo": det}
+    if variante is not None:                          # exp. 3: historial por época (el día 3 no lo guardaba)
+        estado["n_b"] = int(B.shape[1])
+        estado["historial"] = {k: [float(x) for x in v] for k, v in hist.history.items()}
     (destino / "estado.json").write_text(json.dumps(estado, indent=2, default=str), encoding="utf-8")
     return estado
 
@@ -261,6 +284,8 @@ def nombre_unidad(u: dict) -> str:
     e = u["escenario"]
     esc = f"{e['brazo']}_{e['objetivo']}_{e.get('inicio', C.INICIO)[:4]}_{e.get('anomalia', 'faltante')}"
     mod = "dual" if u["modelo"] == "DualLSTM" else "uni"
+    if u.get("variante"):
+        return f"exp3_{e['brazo']}/{u['variante']}/Y{u['anio']}/s{int(u['semilla']):02d}"
     return f"{esc}/{mod}/Y{u['anio']}/N{u['N']}/h{u['h']}/s{int(u['semilla']):02d}"
 
 

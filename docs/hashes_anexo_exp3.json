@@ -1,0 +1,44 @@
+{
+ "descripcion": "SHA-256 del anexo del experimento 3 y de sus insumos, calculados antes de entrenar. Lo congela YesaR con su commit.",
+ "metodo": "texto con CRLF->LF y luego SHA-256 (mismo método que scripts/04_hashes_protocolo.py)",
+ "fecha_calculo": "2026-11-17T22:28:57",
+ "nota": "data/processed/exogenas_*.csv no se versionan (se regeneran con scripts/07_exogenas_exp3.py); el hash permite comprobarlos.",
+ "archivos": {
+  "docs/ANEXO_EXP3.md": {
+   "sha256": "1e03c57ba295d36cd86b915e93dc74c6c5aac8afbd2c7e204b33c6f04d16dbce",
+   "bytes_lf": 11364
+  },
+  "data/processed/exogenas_diarias.csv": {
+   "sha256": "d604315c19275a31f58657d4b4db2de600a7f02c75b22221a86301bb4d67b1b8",
+   "bytes_lf": 226138
+  },
+  "data/processed/exogenas_mensuales.csv": {
+   "sha256": "b88a03d7a2734d384a8bbb212a6b7ccbf51e8559be92296579e7798fc7b839f7",
+   "bytes_lf": 11471
+  },
+  "resultados/exp3/pesos_provincias_2016_2019.csv": {
+   "sha256": "c7c1a4dd674504240b91840dd868d3c67eadda643730d918ccb361eb64538e9e",
+   "bytes_lf": 5992
+  },
+  "src/exogenas.py": {
+   "sha256": "dd779dac010d9c52794142deb1839753cef451882bef208c91fd960f207c495a",
+   "bytes_lf": 14878
+  },
+  "src/redes.py": {
+   "sha256": "237983ded21096566d7b832f06a9de370a8180ca3d0360ea2093c26f56f06c3d",
+   "bytes_lf": 17819
+  },
+  "scripts/07_exogenas_exp3.py": {
+   "sha256": "53035277050d43d87448b93217f058167f9c204c6b14a785fdd8393671d05311",
+   "bytes_lf": 1517
+  },
+  "scripts/08_exp3.py": {
+   "sha256": "d5f1213b06c2753d61b2f53e2a18114edbc48ae626fc6e8fb982040e927f1b43",
+   "bytes_lf": 19870
+  },
+  "tests/test_exogenas.py": {
+   "sha256": "42f39619fd488e46749f4f357b9c93811cf4c3d593efe19f6b9f3b7426025e79",
+   "bytes_lf": 6519
+  }
+ }
+}
