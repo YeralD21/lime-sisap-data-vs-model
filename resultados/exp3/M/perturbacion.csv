@@ -1,0 +1,11 @@
+brazo,comparacion,dif_max_abs
+M,escalador_y,0
+M,secuencias_entrenamiento,0
+M,objetivos_entrenamiento,0
+M,secuencias_validacion,0
+M,entrada_primer_paso_prueba,0
+M,epocas,0
+M,mejor_epoca,0
+M,pronostico_primer_paso_prueba,0
+M,observado_primer_paso_prueba,5353.6
+M,entrada_ultimo_paso_prueba,8.06317

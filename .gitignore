@@ -41,3 +41,7 @@ reportes/auditoria/reproduccion_*_detalle.csv
 reportes/figuras/*/f08_*.pdf
 reportes/figuras/*/f09_*.pdf
 reportes/figuras/*/f10_*.pdf
+
+# Experimento 3 (docs/ANEXO_EXP3.md): corridas por unidad y PDF de pronósticos frente a observado
+resultados/exp3/unidades/
+reportes/figuras/*/exp3/e4_*.pdf

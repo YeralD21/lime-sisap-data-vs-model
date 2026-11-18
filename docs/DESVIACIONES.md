@@ -127,3 +127,20 @@ Registro exigido por `docs/PROTOCOLO.md` (cabecera): fecha, motivo, efecto y si 
   - se versionan las tablas agregadas (métricas, Δ, ranking, top-ranked, semillas, decisión, estados de redes, incidencias), que no permiten reconstruir la serie.
 - **Figuras con la serie observada (T5: f08, f09, f10):** se versiona el PNG a 300 ppp, como las figuras de la serie del día 2 (`reportes/figuras_dia2/`), y no el PDF vectorial, que guarda las coordenadas exactas de cada punto. Los PDF quedan en disco para el artículo y la presentación.
 - **Efecto:** ninguno en resultados ni etiquetas. Sin `pronosticos.csv`, el análisis del día 3 se reproduce regenerando los pronósticos con los scripts de cada brazo.
+
+---
+
+# Experimento 3 (anexo `docs/ANEXO_EXP3.md`, congelado en 512b7cc)
+
+## EXP3-1 — Error en la prueba de perturbación de `scripts/08_exp3.py`
+
+- **Fecha:** 2026-11-17. **Momento:** después de entrenar las 500 corridas y de aplicar la regla (`--analizar`). La prueba es un diagnóstico y no interviene en la regla.
+- **Hecho:** `_perturbar_exog` de `scripts/08_exp3.py` asignaba valores aleatorios decimales a columnas enteras de las exógenas (por ejemplo, `eventos`), pandas lo rechazó y la prueba no corrió.
+- **Corrección:** `scripts/09_exp3_perturbacion.py` reutiliza 08 **sin modificarlo** (su SHA-256 sigue coincidiendo con `docs/hashes_anexo_exp3.json`). Solo sustituye esa función por otra que convierte antes las exógenas a decimal. La perturbación, el entrenamiento y las comparaciones son las del anexo §6.2.
+- **Efecto:** ninguno en las etiquetas. La prueba sale como esperaba el anexo (`resultados/exp3/{D,M}/perturbacion.csv`).
+
+## EXP3-2 — Figuras del experimento 3 sin retoques de maquetación
+
+- **Fecha:** 2026-11-17. **Momento:** después de ver los resultados.
+- **Hecho:** en `e2_delta_vs_V0` algunas anotaciones de p se solapan con el eje, y en `e3_curvas_perdida_Y2025` las etiquetas del eje y de las dos filas se solapan. Corregirlo exige cambiar `scripts/08_exp3.py`, congelado con el anexo, así que no se tocó. La corrección de maquetación queda para una versión posterior de las figuras.
+- **Efecto:** ninguno en las cifras.
